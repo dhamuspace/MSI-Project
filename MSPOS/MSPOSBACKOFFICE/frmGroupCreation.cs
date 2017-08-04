@@ -39,13 +39,13 @@ namespace MSPOSBACKOFFICE
         }
         SqlConnection con = new SqlConnection(ConfigurationManager.ConnectionStrings["POS"].ToString());
         SqlDataReader dr = null;
-        string colornsNumber = "0",colorFont="0";
+        string colornsNumber = "0", colorFont = "0";
         DataTable dt = new DataTable();
         public string tempGroupNo;
         public int tempCount;
         int groupNo;
         string FileName;
-        byte[] imgByteArr=new byte[0];
+        byte[] imgByteArr = new byte[0];
         private void frmGroupCreation_Load(object sender, EventArgs e)
         {
             try
@@ -74,12 +74,12 @@ namespace MSPOSBACKOFFICE
             }
             catch (Exception ex)
             {
-                MyMessageBox.ShowBox(ex.Message,"Warning");
+                MyMessageBox.ShowBox(ex.Message, "Warning");
             }
         }
         public void color_check()
         {
-           
+
             Type colorType = typeof(System.Drawing.Color);
             PropertyInfo[] propInfoList = colorType.GetProperties(BindingFlags.Static | BindingFlags.DeclaredOnly | BindingFlags.Public);
             foreach (PropertyInfo c in propInfoList)
@@ -120,6 +120,54 @@ namespace MSPOSBACKOFFICE
                     TxtPosition.Text = dt.Rows[0]["GroupPos"].ToString();
                     TxtUnder.Text = dt.Rows[0]["Item_groupmtname"].ToString();
                     string visual;
+                    string mnonstockitem;
+                    string mnumberprefix;
+                    string mhundredpercent;
+                    string mprintineod;
+                    mnonstockitem = dt.Rows[0]["nonstockitem"].ToString();
+                    mnumberprefix = dt.Rows[0]["numberprefix"].ToString();
+                    mhundredpercent = dt.Rows[0]["hundredpercent"].ToString();
+                    mprintineod = dt.Rows[0]["printineod"].ToString();
+
+                    if (mnonstockitem == "True")
+                    {
+                        chknonstock.Checked = true;
+                    }
+                    else
+                        chknonstock.Checked = false;
+
+                    if (mhundredpercent == "True")
+                    {
+                        chk100percent.Checked = true;
+                    }
+                    else
+                        chk100percent.Checked = false;
+
+                    if (mprintineod == "True")
+                    {
+                        chkprintineod.Checked = true;
+                    }
+                    else
+                        chkprintineod.Checked = false;
+
+                    dt.Rows[0]["printineod"].ToString();
+
+
+                    if (mnumberprefix != "NULL" && mnumberprefix != "")
+                    {
+                        rdoauto.Checked = true;
+                        txtprefix.Visible = true;
+                        txtprefix.Text = mnumberprefix;
+                        rdomanual.Checked = false;
+                    }
+                    else
+                    {
+                        rdomanual.Checked = true;
+                        rdoauto.Checked = false;
+                        txtprefix.Visible = false;
+                    }
+
+
                     visual = dt.Rows[0]["Group_visibility"].ToString();
                     if (visual == "True")
                     {
@@ -164,7 +212,7 @@ namespace MSPOSBACKOFFICE
             }
             catch (Exception ex)
             {
-                MyMessageBox.ShowBox(ex.Message,"Warning");
+                MyMessageBox.ShowBox(ex.Message, "Warning");
             }
         }
         public void loadGroup()
@@ -199,7 +247,7 @@ namespace MSPOSBACKOFFICE
             }
             catch (Exception ex)
             {
-                MyMessageBox.ShowBox(ex.Message,"Warning");
+                MyMessageBox.ShowBox(ex.Message, "Warning");
             }
         }
         private void panel1_Paint(object sender, PaintEventArgs e)
@@ -221,25 +269,25 @@ namespace MSPOSBACKOFFICE
         //OpenFileDialog dlg = new OpenFileDialog();
         void funSelectImage()
         {
-          //  var brush = new  ImageBrush();
-          
+            //  var brush = new  ImageBrush();
+
         }
-       // string imageName;
+        // string imageName;
         //string filename1 = null, filename2 = null;
-        public string check = null ;
+        public string check = null;
         private void BtnImage_Click(object sender, EventArgs e)
         {
             btnColorImage.Enabled = true;
-           // openFileDialog1.FileName=
+            // openFileDialog1.FileName=
             //openFileDialog1.DefaultExt = ".jpg";
-           // openFileDialog1.Filter = "Image (.Jpg)|(*.Jpg)";
+            // openFileDialog1.Filter = "Image (.Jpg)|(*.Jpg)";
             DialogResult res = openFileDialog1.ShowDialog();
             if (res == DialogResult.OK)
             {
                 if (!Directory.Exists(System.Windows.Forms.Application.StartupPath + "\\GroupImage"))
                 {
                     Directory.CreateDirectory(System.Windows.Forms.Application.StartupPath + "\\GroupImage");
-                }              
+                }
                 check = "Image";
                 // pictureBox1.Image = Image.FromFile(openFileDialog1.FileName);
                 FileName = openFileDialog1.FileName;
@@ -248,26 +296,26 @@ namespace MSPOSBACKOFFICE
             }
 
 
-          //System.Windows.Forms .OpenFileDialog openfile = new System.Windows.Forms.OpenFileDialog();
-          //  openfile.Filter = "Image Files(*.jpg; *.jpeg; *.gif; *.bmp;)|*.jpg; *.jpeg; *.gif; *.bmp";
-          //  if (openfile.ShowDialog() == DialogResult.OK)
-          //  {
-          //      Image img = new Bitmap(openfile.FileName);
-          //      pictureBox1.Image = img.GetThumbnailImage(340, 125, null, new IntPtr());
-          //      openfile.RestoreDirectory = true;
-          //      filename1 = openfile.FileName;
-          //  }
+            //System.Windows.Forms .OpenFileDialog openfile = new System.Windows.Forms.OpenFileDialog();
+            //  openfile.Filter = "Image Files(*.jpg; *.jpeg; *.gif; *.bmp;)|*.jpg; *.jpeg; *.gif; *.bmp";
+            //  if (openfile.ShowDialog() == DialogResult.OK)
+            //  {
+            //      Image img = new Bitmap(openfile.FileName);
+            //      pictureBox1.Image = img.GetThumbnailImage(340, 125, null, new IntPtr());
+            //      openfile.RestoreDirectory = true;
+            //      filename1 = openfile.FileName;
+            //  }
         }
 
         private void cmb_fontColor_SelectedIndexChanged(object sender, EventArgs e)
         {
-            string color = this.cmb_fontColor.SelectedItem.ToString();          
+            string color = this.cmb_fontColor.SelectedItem.ToString();
             btnColorImage.ForeColor = Color.FromName(color);
         }
 
         private void cmb_GroupColor_SelectedIndexChanged(object sender, EventArgs e)
         {
-            string color = this.cmb_GroupColor.SelectedItem.ToString();          
+            string color = this.cmb_GroupColor.SelectedItem.ToString();
             btnColorImage.Visible = true;
             btnColorImage.BackColor = Color.FromName(color);
         }
@@ -299,15 +347,15 @@ namespace MSPOSBACKOFFICE
             btnColorImage.Text = "Sample";
             btnDelete.Enabled = false;
             btn_unit_save.Enabled = true;
-          //  TxtVisibility.SelectedIndex = 0;
+            //  TxtVisibility.SelectedIndex = 0;
             btn_unit_save.Text = "Save";
             TxtDisAmt.Text = "0";
             CmbDisType.Text = "Percentage";
             txtCommission.Text = "0";
         }
-      //  MemoryStream ms;     
-        byte[] photo_aray=new byte[0];
-      //  SqlCommand sp_cmd = null;
+        //  MemoryStream ms;     
+        byte[] photo_aray = new byte[0];
+        //  SqlCommand sp_cmd = null;
         void conv_photo()
         {
             //DataTable dt=new DataTable();
@@ -315,11 +363,11 @@ namespace MSPOSBACKOFFICE
             //adp.Fill(dt);
             //photo_aray =(byte[])dt.Rows[0]["Items_Image"];
             //converting photo to binary data
-          //  ms = new MemoryStream();
-          ////  pictureBox1.Image.Save(ms,ImageFormat.Jpeg);
-          //  byte[] photo_aray = new byte[ms.Length];
-          //  ms.Position = 0;
-          //  ms.Read(photo_aray, 0, photo_aray.Length);
+            //  ms = new MemoryStream();
+            ////  pictureBox1.Image.Save(ms,ImageFormat.Jpeg);
+            //  byte[] photo_aray = new byte[ms.Length];
+            //  ms.Position = 0;
+            //  ms.Read(photo_aray, 0, photo_aray.Length);
 
             FileStream fs = new FileStream(@FileName, FileMode.Open, FileAccess.Read);
             //Initialize a byte array with size of stream
@@ -349,7 +397,7 @@ namespace MSPOSBACKOFFICE
         SqlCommand cmd_photo;
         string tMaxGroupNo;
         string visibility = null;
-        DataTable dt3=new System.Data.DataTable();
+        DataTable dt3 = new System.Data.DataTable();
         private void btn_unit_save_Click(object sender, EventArgs e)
         {
             #region
@@ -453,13 +501,18 @@ namespace MSPOSBACKOFFICE
                             sp_cmd.Parameters.AddWithValue("@item_groupno", groupNo);
                             sp_cmd.Parameters.AddWithValue("@item_groupname", TxtGroupName.Text);
                             sp_cmd.Parameters.AddWithValue("@imageVisibility", cmbImageVisibility.Text.Trim());
+                            sp_cmd.Parameters.AddWithValue("@nonstockitem", chknonstock.Checked.ToString());
+                            sp_cmd.Parameters.AddWithValue("@hundredpercent", chk100percent.Checked.ToString());
+                            sp_cmd.Parameters.AddWithValue("@printinhod", chkprintineod.Checked.ToString());
+                            sp_cmd.Parameters.AddWithValue("@prefix", txtprefix.Text);
+                            sp_cmd.Parameters.AddWithValue("@startingnumber", txtstaringnumber.Text);
 
                             //cmd_photo = new SqlCommand("Update item_GroupTable set GroupPos='" + TxtPosition.Text + "',Group_Color='" + cmb_GroupColor.Text + "',Group_visibility='" + visibility + "',Font_Color='" + cmb_fontColor.Text + "' where item_groupname='" + TxtGroupName.Text + "'", con);
                             //conv_photo();
                             con.Close();
                             con.Open();
                             sp_cmd.ExecuteNonQuery();
-                            
+
 
                             //Alter Column:
                             //Update Discount Group Wise, settings used to save the values:
@@ -493,13 +546,19 @@ namespace MSPOSBACKOFFICE
                             sp_cmd.Parameters.AddWithValue("@Group_visibility ", visibility);
                             sp_cmd.Parameters.AddWithValue("@Font_Color ", cmb_fontColor.Text);
                             sp_cmd.Parameters.AddWithValue("@imageVisibility", cmbImageVisibility.Text.Trim());
+                            sp_cmd.Parameters.AddWithValue("@nonstockitem", chknonstock.Checked.ToString());
+                            sp_cmd.Parameters.AddWithValue("@hundredpercent", chk100percent.Checked.ToString());
+                            sp_cmd.Parameters.AddWithValue("@printinhod", chkprintineod.Checked.ToString());
+                            sp_cmd.Parameters.AddWithValue("@prefix", txtprefix.Text);
+                            sp_cmd.Parameters.AddWithValue("@startingnumber", txtstaringnumber.Text);
+
                             //cmd_photo = new SqlCommand("insert into Item_Grouptable(Item_groupno,Item_groupname,Item_groupmtname,Item_grouplevel,Item_groupunder,Item_Commodity,Item_groupgno,Item_groupflag,Std_Group,GroupPos,Group_Color,Group_visibility,Font_Color) Values ('" + tMaxGroupNo + "','" + TxtGroupName.Text + "','PRIMARY','0','0','','0','0','1','" + TxtPosition.Text + "','" + cmb_GroupColor.Text + "','" + visibility + "','" + cmb_fontColor.Text + "') ", con);
                             // conv_photo();
                             con.Close();
                             con.Open();
                             sp_cmd.ExecuteNonQuery();
                             MyMessageBox.ShowBox("Groupname Saved Successfully", "Message");
-                           
+
                             //Alter Column:
                             //Update Discount Group Wise, settings used to save the values: At the Record Save Time:
                             SqlCommand cmdDiscountType = new SqlCommand("Update Item_Grouptable set DisPerAmtType=@DiscountType,DisPerAmt=@PerAmtType where item_groupname=@GroupName", con);
@@ -507,7 +566,7 @@ namespace MSPOSBACKOFFICE
                             cmdDiscountType.Parameters.AddWithValue("@PerAmtType", string.IsNullOrEmpty(TxtDisAmt.Text) ? "0" : TxtDisAmt.Text);
                             cmdDiscountType.Parameters.AddWithValue("@GroupName", TxtGroupName.Text.Trim());
                             cmdDiscountType.ExecuteNonQuery();
-                           
+
                             con.Close();
                         }
                         //Update the number table after save the Group Name For Again Increment The Group Number
@@ -516,14 +575,14 @@ namespace MSPOSBACKOFFICE
                         con.Open();
                         cmd11.ExecuteNonQuery();
                         //MyMessageBox.ShowBox("GroupName Updated Successfully", "Message");
-                        
-                        
+
+
                         SqlCommand cmdUpdateCommission = new SqlCommand("Update item_Grouptable set Commission=@Commission Where item_GroupName=@GroupName", con);
                         cmdUpdateCommission.Parameters.AddWithValue("@GroupName", TxtGroupName.Text);
                         cmdUpdateCommission.Parameters.AddWithValue("@Commission", string.IsNullOrEmpty(txtCommission.Text) ? 0 : Convert.ToDouble(txtCommission.Text));
                         cmdUpdateCommission.ExecuteNonQuery();
                         //MyMessageBox.ShowBox("Groupname Updated Successfully", "Message");
-                       // throw new ApplicationException("Please Verifiy Your Table Column Name!");
+                        // throw new ApplicationException("Please Verifiy Your Table Column Name!");
                         con.Close();
                     }
                     else
@@ -562,11 +621,11 @@ namespace MSPOSBACKOFFICE
 
                             //sqlcommand sqlcmd1 = new sqlcommand("select Item_groupno from MSPOS.dbo.item_GroupTable where Item_groupname=TxtGroupName.Text.Trim()", con);
 
-                            SqlCommand sp_cmd = new SqlCommand("UPDATE item_GroupTable SET GroupPos=@GroupPos,Items_Image=@Items_Image,Group_Color= @Group_Color,Group_visibility=@Group_visibility,Font_Color=@Font_Color,item_groupname=@item_groupname,ImageLocation=@itemLocation,imagevisibility=@imageVisibility  WHERE Item_groupno=(select Item_groupno from item_GroupTable where Item_groupname='"+TxtGroupName.Text.Trim()+"')", con);  
+                            SqlCommand sp_cmd = new SqlCommand("UPDATE item_GroupTable SET GroupPos=@GroupPos,Items_Image=@Items_Image,Group_Color= @Group_Color,Group_visibility=@Group_visibility,Font_Color=@Font_Color,item_groupname=@item_groupname,ImageLocation=@itemLocation,imagevisibility=@imageVisibility  WHERE Item_groupno=(select Item_groupno from item_GroupTable where Item_groupname='" + TxtGroupName.Text.Trim() + "')", con);
 
                             //SqlCommand sp_cmd = new SqlCommand("sp_GroupImg_Update", con);
                             //sp_cmd.CommandType = CommandType.StoredProcedure;
-                            sp_cmd.Parameters.AddWithValue("@GroupPos", TxtPosition.Text);                           
+                            sp_cmd.Parameters.AddWithValue("@GroupPos", TxtPosition.Text);
 
                             //SqlParameter imageParameter = new SqlParameter("@Items_Image", SqlDbType.Image);
                             //imageParameter.Value = DBNull.Value;
@@ -734,10 +793,10 @@ namespace MSPOSBACKOFFICE
                             else
                             {
                                 sp_cmd.Parameters.AddWithValue("@itemLocation", "\\GroupImage\\" + TxtGroupName.Text + ".jpeg");
-                            }                            
+                            }
                             sp_cmd.Parameters.AddWithValue("@imageVisibility", cmbImageVisibility.Text.Trim());
                             //cmd_photo = new SqlCommand("Update item_GroupTable set GroupPos='" + TxtPosition.Text + "',Items_Image=@sphoto,Group_Color='" + cmb_GroupColor.Text + "',Group_visibility='" + visibility + "',Font_Color='" + cmb_fontColor.Text + "' where item_groupname='" + TxtGroupName.Text + "'", con);
-                            
+
                             sp_cmd.ExecuteNonQuery();
 
                             if (chkpath == "1")
@@ -774,7 +833,7 @@ namespace MSPOSBACKOFFICE
                             //sp_cmd.Parameters.AddWithValue("@Font_Color ", cmb_fontColor.Text);
 
                             conv_photo();
-                            if (!File.Exists(System.Windows.Forms.Application.StartupPath + "\\GroupImage\\" + TxtGroupName.Text.Trim() +".jpeg"))
+                            if (!File.Exists(System.Windows.Forms.Application.StartupPath + "\\GroupImage\\" + TxtGroupName.Text.Trim() + ".jpeg"))
                             {
                                 System.IO.File.Copy(FileName, System.Windows.Forms.Application.StartupPath + "\\GroupImage\\" + TxtGroupName.Text.Trim() + ".jpeg");
                             }
@@ -810,7 +869,7 @@ namespace MSPOSBACKOFFICE
                             SqlCommand cmd11 = new SqlCommand("update NumberTable set item_groupNo=Item_groupNo+1", con);
                             con.Close();
                             con.Open();
-                            cmd11.ExecuteNonQuery();                           
+                            cmd11.ExecuteNonQuery();
                             con.Close();
                         }
                         check = null;
@@ -832,7 +891,7 @@ namespace MSPOSBACKOFFICE
 
         private void TxtGroupName_KeyDown(object sender, System.Windows.Forms.KeyEventArgs e)
         {
-            if (e.KeyCode ==Keys.Enter || e.KeyCode == Keys.Tab )
+            if (e.KeyCode == Keys.Enter || e.KeyCode == Keys.Tab)
             {
                 TxtUnder.Select();
             }
@@ -858,7 +917,7 @@ namespace MSPOSBACKOFFICE
         {
             if (e.KeyCode == Keys.Enter || e.KeyCode == Keys.Tab)
             {
-               TxtVisibility.Select();
+                TxtVisibility.Select();
             }
             //if (e.KeyCode == Keys.Back)
             //{
@@ -870,7 +929,7 @@ namespace MSPOSBACKOFFICE
         {
             if (e.KeyCode == Keys.Enter || e.KeyCode == Keys.Tab)
             {
-               cmb_GroupColor.Select();
+                cmb_GroupColor.Select();
             }
             //if (e.KeyCode == Keys.Back)
             //{
@@ -882,7 +941,7 @@ namespace MSPOSBACKOFFICE
         {
             if (e.KeyCode == Keys.Enter || e.KeyCode == Keys.Tab)
             {
-              BtnImage.Select();
+                BtnImage.Select();
             }
             //if (e.KeyCode == Keys.Back)
             //{
@@ -892,7 +951,7 @@ namespace MSPOSBACKOFFICE
 
         private void BtnImage_KeyDown(object sender, System.Windows.Forms.KeyEventArgs e)
         {
-            if (e.KeyCode == Keys.Enter )
+            if (e.KeyCode == Keys.Enter)
             {
                 funSelectImage();
 
@@ -912,7 +971,7 @@ namespace MSPOSBACKOFFICE
         {
             if (e.KeyCode == Keys.Enter || e.KeyCode == Keys.Tab)
             {
-              cmbImageVisibility.Select();
+                cmbImageVisibility.Select();
             }
             //if (e.KeyCode == Keys.Back)
             //{
@@ -924,7 +983,7 @@ namespace MSPOSBACKOFFICE
         {
             if (e.KeyCode == Keys.Enter || e.KeyCode == Keys.Tab)
             {
-               
+
                 btn_unit_Clear.Select();
                 funRecordSave();
             }
@@ -938,8 +997,8 @@ namespace MSPOSBACKOFFICE
         {
             if (e.KeyCode == Keys.Enter || e.KeyCode == Keys.Tab)
             {
-               btn_unit_Exit.Select();
-               clear();
+                btn_unit_Exit.Select();
+                clear();
             }
             //if (e.KeyCode == Keys.Back)
             //{
@@ -951,7 +1010,7 @@ namespace MSPOSBACKOFFICE
         {
             if (e.KeyCode == Keys.Enter || e.KeyCode == Keys.Tab)
             {
-              TxtGroupName.Select();
+                TxtGroupName.Select();
             }
             //if (e.KeyCode == Keys.Back)
             //{
@@ -972,9 +1031,9 @@ namespace MSPOSBACKOFFICE
                     con.Close();
                     con.Open();
                     string BrandNoqry = "select Item_groupno from Item_Grouptable where Item_groupname=@tName";
-                    SqlCommand cmdBrand= new SqlCommand(BrandNoqry,con);
+                    SqlCommand cmdBrand = new SqlCommand(BrandNoqry, con);
                     cmdBrand.Parameters.AddWithValue("@tName", txtupdateModel);
-                    string BrandNO=cmdBrand.ExecuteScalar().ToString();
+                    string BrandNO = cmdBrand.ExecuteScalar().ToString();
                     con.Close();
                     con.Open();
                     string GetchkBrandCode = "select * from Item_table where item_Groupno=@tNumber";
@@ -984,7 +1043,7 @@ namespace MSPOSBACKOFFICE
                     con.Close();
                     if (UsedBrandNo == null)
                     {
-                    string result = MyMessageBox1.ShowBox("Do you want delete this Group?", "Delete");
+                        string result = MyMessageBox1.ShowBox("Do you want delete this Group?", "Delete");
                         if (result.Equals("1"))
                         {
                             con.Close();
@@ -993,7 +1052,7 @@ namespace MSPOSBACKOFFICE
                             cmd.Parameters.AddWithValue("@tName", txtupdateModel);
                             cmd.ExecuteNonQuery();
                             con.Close();
-                           TxtGroupName.Clear();
+                            TxtGroupName.Clear();
 
                         }
                         if (result.Equals("2"))
@@ -1005,13 +1064,13 @@ namespace MSPOSBACKOFFICE
                         MyMessageBox.ShowBox("Sorry ! " + txtupdateModel + " Group is currently in Use", "Warning");
                     }
                 }
-               btn_unit_save.Enabled = true;
-              TxtGroupName.Text = string.Empty;
-              btnDelete.Enabled = false;
-              //  btn_M_Update.Enabled = false;
-              loadGroup();
-              clear();
-              TxtGroupName.Select();
+                btn_unit_save.Enabled = true;
+                TxtGroupName.Text = string.Empty;
+                btnDelete.Enabled = false;
+                //  btn_M_Update.Enabled = false;
+                loadGroup();
+                clear();
+                TxtGroupName.Select();
             }
             catch (Exception ex)
             {
@@ -1030,19 +1089,19 @@ namespace MSPOSBACKOFFICE
             string groupName = TxtGroupName.Text.ToString();
             SqlCommand cmd = new SqlCommand("Select Item_groupno from Item_Grouptable where Item_groupname=@tName", con);
             cmd.Parameters.AddWithValue("@tName", groupName);
-            SqlDataAdapter adp=new SqlDataAdapter(cmd);
+            SqlDataAdapter adp = new SqlDataAdapter(cmd);
             DataTable dt = new DataTable();
             dt.Rows.Clear();
             adp.Fill(dt);
-            if(dt.Rows.Count>0)
+            if (dt.Rows.Count > 0)
             {
-                groupNo =Convert.ToInt16(dt.Rows[0]["Item_groupno"].ToString());
+                groupNo = Convert.ToInt16(dt.Rows[0]["Item_groupno"].ToString());
             }
         }
 
         private void TxtPosition_Leave(object sender, EventArgs e)
         {
-            
+
         }
 
         private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
@@ -1059,7 +1118,7 @@ namespace MSPOSBACKOFFICE
         {
             if (e.KeyCode == Keys.Enter || e.KeyCode == Keys.Tab)
             {
-              btn_unit_save.Select();
+                btn_unit_save.Select();
             }
         }
 
@@ -1089,6 +1148,28 @@ namespace MSPOSBACKOFFICE
             }
         }
 
-       
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void rdoauto_Click(object sender, EventArgs e)
+        {
+            txtprefix.Visible = true;
+            txtstaringnumber.Visible = true;
+        }
+
+        private void rdomanual_Click(object sender, EventArgs e)
+        {
+            txtprefix.Visible = false;
+            txtstaringnumber.Visible = false;
+        }
+
+        private void pnlGroupItem_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+
     }
 }

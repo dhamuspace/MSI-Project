@@ -784,11 +784,17 @@ namespace SalesProject
                 SqlParameter result = new SqlParameter("@tResult", SqlDbType.VarChar, 400);
                 result.Direction = ParameterDirection.Output;
                 cmd.Parameters.Add(result);
-                //DataTable dt = new DataTable();
-                //SqlDataAdapter adap = new SqlDataAdapter(cmd);
-                //adap.Fill(dt);
-                cmd.ExecuteNonQuery();
-                lblStock.Content = result.Value.ToString();
+                DataTable dt = new DataTable();
+                SqlDataAdapter adap = new SqlDataAdapter(cmd);
+                adap.Fill(dt);
+                string dtval = "";
+                //cmd.ExecuteNonQuery();
+                for (int i = 0; i < dt.Rows.Count; i++)
+                {
+                    dtval = dt.Rows[i][0].ToString();
+                }
+
+                lblStock.Content = productName + " Stock :" + dtval.ToString();
             }
             catch (Exception ex)
             {

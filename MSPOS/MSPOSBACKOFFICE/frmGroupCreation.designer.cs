@@ -31,6 +31,14 @@
             this.pnlGroupItem = new System.Windows.Forms.Panel();
             this.lbl_Groupname = new System.Windows.Forms.Label();
             this.Pnl_Back = new System.Windows.Forms.Panel();
+            this.txtstaringnumber = new System.Windows.Forms.TextBox();
+            this.txtprefix = new System.Windows.Forms.TextBox();
+            this.label11 = new System.Windows.Forms.Label();
+            this.rdoauto = new System.Windows.Forms.RadioButton();
+            this.rdomanual = new System.Windows.Forms.RadioButton();
+            this.chkprintineod = new System.Windows.Forms.CheckBox();
+            this.chk100percent = new System.Windows.Forms.CheckBox();
+            this.chknonstock = new System.Windows.Forms.CheckBox();
             this.txtCommission = new System.Windows.Forms.TextBox();
             this.label10 = new System.Windows.Forms.Label();
             this.TxtDisAmt = new System.Windows.Forms.TextBox();
@@ -78,6 +86,7 @@
             this.pnlGroupItem.Name = "pnlGroupItem";
             this.pnlGroupItem.Size = new System.Drawing.Size(211, 477);
             this.pnlGroupItem.TabIndex = 1;
+            this.pnlGroupItem.Paint += new System.Windows.Forms.PaintEventHandler(this.pnlGroupItem_Paint);
             // 
             // lbl_Groupname
             // 
@@ -93,6 +102,14 @@
             // 
             // Pnl_Back
             // 
+            this.Pnl_Back.Controls.Add(this.txtstaringnumber);
+            this.Pnl_Back.Controls.Add(this.txtprefix);
+            this.Pnl_Back.Controls.Add(this.label11);
+            this.Pnl_Back.Controls.Add(this.rdoauto);
+            this.Pnl_Back.Controls.Add(this.rdomanual);
+            this.Pnl_Back.Controls.Add(this.chkprintineod);
+            this.Pnl_Back.Controls.Add(this.chk100percent);
+            this.Pnl_Back.Controls.Add(this.chknonstock);
             this.Pnl_Back.Controls.Add(this.txtCommission);
             this.Pnl_Back.Controls.Add(this.label10);
             this.Pnl_Back.Controls.Add(this.TxtDisAmt);
@@ -120,6 +137,102 @@
             this.Pnl_Back.Name = "Pnl_Back";
             this.Pnl_Back.Size = new System.Drawing.Size(799, 506);
             this.Pnl_Back.TabIndex = 12;
+            // 
+            // txtstaringnumber
+            // 
+            this.txtstaringnumber.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.txtstaringnumber.Font = new System.Drawing.Font("Verdana", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtstaringnumber.Location = new System.Drawing.Point(712, 96);
+            this.txtstaringnumber.Name = "txtstaringnumber";
+            this.txtstaringnumber.Size = new System.Drawing.Size(79, 23);
+            this.txtstaringnumber.TabIndex = 41;
+            this.txtstaringnumber.Visible = false;
+            // 
+            // txtprefix
+            // 
+            this.txtprefix.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.txtprefix.Font = new System.Drawing.Font("Verdana", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtprefix.Location = new System.Drawing.Point(659, 96);
+            this.txtprefix.Name = "txtprefix";
+            this.txtprefix.Size = new System.Drawing.Size(47, 23);
+            this.txtprefix.TabIndex = 2;
+            this.txtprefix.Visible = false;
+            this.txtprefix.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
+            // 
+            // label11
+            // 
+            this.label11.AutoSize = true;
+            this.label11.Font = new System.Drawing.Font("Verdana", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label11.ForeColor = System.Drawing.Color.White;
+            this.label11.Location = new System.Drawing.Point(658, 43);
+            this.label11.Name = "label11";
+            this.label11.Size = new System.Drawing.Size(130, 16);
+            this.label11.TabIndex = 40;
+            this.label11.Text = "Numbering Method";
+            // 
+            // rdoauto
+            // 
+            this.rdoauto.AutoSize = true;
+            this.rdoauto.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.rdoauto.Location = new System.Drawing.Point(729, 72);
+            this.rdoauto.Name = "rdoauto";
+            this.rdoauto.Size = new System.Drawing.Size(47, 17);
+            this.rdoauto.TabIndex = 39;
+            this.rdoauto.TabStop = true;
+            this.rdoauto.Text = "Auto";
+            this.rdoauto.UseVisualStyleBackColor = true;
+            this.rdoauto.Click += new System.EventHandler(this.rdoauto_Click);
+            // 
+            // rdomanual
+            // 
+            this.rdomanual.AutoSize = true;
+            this.rdomanual.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.rdomanual.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.rdomanual.Location = new System.Drawing.Point(659, 73);
+            this.rdomanual.Name = "rdomanual";
+            this.rdomanual.Size = new System.Drawing.Size(60, 17);
+            this.rdomanual.TabIndex = 38;
+            this.rdomanual.TabStop = true;
+            this.rdomanual.Text = "Manual";
+            this.rdomanual.UseVisualStyleBackColor = true;
+            this.rdomanual.Click += new System.EventHandler(this.rdomanual_Click);
+            // 
+            // chkprintineod
+            // 
+            this.chkprintineod.BackColor = System.Drawing.Color.Transparent;
+            this.chkprintineod.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.chkprintineod.ForeColor = System.Drawing.Color.White;
+            this.chkprintineod.Location = new System.Drawing.Point(500, 102);
+            this.chkprintineod.Name = "chkprintineod";
+            this.chkprintineod.Size = new System.Drawing.Size(100, 17);
+            this.chkprintineod.TabIndex = 37;
+            this.chkprintineod.Text = "Print in EOD";
+            this.chkprintineod.UseVisualStyleBackColor = false;
+            // 
+            // chk100percent
+            // 
+            this.chk100percent.BackColor = System.Drawing.Color.Transparent;
+            this.chk100percent.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.chk100percent.ForeColor = System.Drawing.Color.White;
+            this.chk100percent.Location = new System.Drawing.Point(500, 74);
+            this.chk100percent.Name = "chk100percent";
+            this.chk100percent.Size = new System.Drawing.Size(100, 17);
+            this.chk100percent.TabIndex = 36;
+            this.chk100percent.Text = "100 % Profit";
+            this.chk100percent.UseVisualStyleBackColor = false;
+            // 
+            // chknonstock
+            // 
+            this.chknonstock.AutoSize = true;
+            this.chknonstock.BackColor = System.Drawing.Color.Transparent;
+            this.chknonstock.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.chknonstock.ForeColor = System.Drawing.Color.White;
+            this.chknonstock.Location = new System.Drawing.Point(500, 43);
+            this.chknonstock.Name = "chknonstock";
+            this.chknonstock.Size = new System.Drawing.Size(117, 20);
+            this.chknonstock.TabIndex = 35;
+            this.chknonstock.Text = "Non Stock Item";
+            this.chknonstock.UseVisualStyleBackColor = false;
             // 
             // txtCommission
             // 
@@ -161,7 +274,7 @@
             this.label9.ForeColor = System.Drawing.Color.White;
             this.label9.Location = new System.Drawing.Point(34, 392);
             this.label9.Name = "label9";
-            this.label9.Size = new System.Drawing.Size(102, 16);
+            this.label9.Size = new System.Drawing.Size(103, 16);
             this.label9.TabIndex = 31;
             this.label9.Text = "Discount Type";
             // 
@@ -204,7 +317,7 @@
             // pictureBox1
             // 
             this.pictureBox1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox1.Location = new System.Drawing.Point(522, 298);
+            this.pictureBox1.Location = new System.Drawing.Point(502, 298);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(115, 103);
             this.pictureBox1.TabIndex = 27;
@@ -223,7 +336,7 @@
             // btnColorImage
             // 
             this.btnColorImage.BackColor = System.Drawing.SystemColors.Control;
-            this.btnColorImage.Location = new System.Drawing.Point(522, 199);
+            this.btnColorImage.Location = new System.Drawing.Point(502, 199);
             this.btnColorImage.Name = "btnColorImage";
             this.btnColorImage.Size = new System.Drawing.Size(115, 99);
             this.btnColorImage.TabIndex = 25;
@@ -539,5 +652,13 @@
         private System.Windows.Forms.TextBox TxtDisAmt;
         private System.Windows.Forms.TextBox txtCommission;
         private System.Windows.Forms.Label label10;
+        private System.Windows.Forms.CheckBox chknonstock;
+        private System.Windows.Forms.CheckBox chk100percent;
+        private System.Windows.Forms.CheckBox chkprintineod;
+        private System.Windows.Forms.Label label11;
+        private System.Windows.Forms.RadioButton rdoauto;
+        private System.Windows.Forms.RadioButton rdomanual;
+        private System.Windows.Forms.TextBox txtprefix;
+        private System.Windows.Forms.TextBox txtstaringnumber;
     }
 }
