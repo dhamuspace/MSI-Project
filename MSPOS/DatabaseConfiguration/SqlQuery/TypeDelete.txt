@@ -1,0 +1,23 @@
+﻿//Delete Type:
+Drop Type DgDiscountTable
+Drop Type dtSingleFreeSales
+Drop Type Sp_BarCodeTable
+Drop Type SP_BomCreation
+Drop Type Sp_BomMasterissue
+Drop Type sp_funBtnDolorAlterTable
+Drop Type Sp_issuecreation
+Drop Type SP_PurAlterType
+Drop Type SP_PurchaseGridEntry
+Drop Type SP_PurchaseItemAlter
+Drop Type SP_PurchaseTypeAlter
+Drop Type type_DOSale
+Drop Type type_DOSales
+Drop Type Type_FreeItem1
+Drop Type Type_FreeItem2
+Drop Type Type_gridValue
+Drop Type Type_gridValue5
+Drop Type type_SalesAlteration
+Drop Type type_SalesAlter
+Drop Type type_SalesCreate
+Drop Type type_SalesCreation
+Drop Type type_StockAdjCreate

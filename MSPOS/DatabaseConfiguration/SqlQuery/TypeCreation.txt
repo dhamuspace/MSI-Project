@@ -1,0 +1,250 @@
+﻿
+
+//Create Type
+
+CREATE TYPE [dbo].[DgDiscountTable] AS TABLE(
+	[Types] [varchar](100) NULL,
+	[Details] [varchar](100) NULL,
+	[PreQty] [numeric](18, 2) NULL,
+	[Percent] [numeric](18, 2) NULL,
+	[Amount] [numeric](18, 2) NULL
+);
+
+CREATE TYPE [dbo].[dtSingleFreeSales] AS TABLE(
+	[ItemName] [varchar](400) NULL,
+	[Qty] [numeric](18, 4) NULL,
+	[ScannedQty] [varchar](100) NULL,
+	[MainItemName] [varchar](400) NULL,
+	[OfferName] [varchar](400) NULL,
+	[OfferFreeQty] [numeric](18, 2) NULL,
+	[TotSaleQty] [numeric](18, 2) NULL
+);
+
+CREATE TYPE [dbo].[Sp_BarCodeTable] AS TABLE(
+	[Item_no] [varchar](50) NULL,
+	[Barcode] [varchar](50) NULL,
+	[MTBarcode] [varchar](50) NULL,
+	[barcodevalues] [varchar](50) NULL,
+	[rate] [numeric](18, 2) NULL,
+	[qty] [numeric](18, 2) NULL
+);
+
+CREATE TYPE [dbo].[SP_BomCreation] AS TABLE(
+	[ItemCode] [varchar](100) NULL,
+	[ItemName] [varchar](500) NULL,
+	[bom_sno] [varchar](10) NULL,
+	[Unit] [varchar](20) NULL,
+	[Typs] [varchar](20) NULL,
+	[TaxQty] [numeric](18, 2) NULL,
+	[qty] [numeric](18, 2) NULL,
+	[Rate] [numeric](18, 2) NULL,
+	[Amount] [numeric](18, 2) NULL
+);
+
+CREATE TYPE [dbo].[Sp_BomMasterissue] AS TABLE(
+	[ItemCode] [varchar](500) NULL,
+	[ItemName] [varchar](500) NULL,
+	[UnitName] [varchar](100) NULL,
+	[Typess] [varchar](10) NULL,
+	[TaxQty] [varchar](20) NULL,
+	[Qty] [varchar](25) NULL,
+	[Rate] [varchar](25) NULL,
+	[Amount] [varchar](25) NULL,
+	[BOM_No] [varchar](100) NULL,
+	[LabourAmount] [varchar](25) NULL,
+	[BOM_name] [varchar](100) NULL
+);
+
+CREATE TYPE [dbo].[sp_funBtnDolorAlterTable] AS TABLE(
+	[Type1] [varchar](50) NULL,
+	[RemaininbillAmt] [numeric](18, 2) NULL,
+	[ReceiverAmt] [numeric](18, 2) NULL,
+	[Types2] [varchar](50) NULL
+);
+
+CREATE TYPE [dbo].[Sp_issuecreation] AS TABLE(
+	[ItemCode] [varchar](500) NULL,
+	[ItemName] [varchar](500) NULL,
+	[UnitName] [varchar](100) NULL,
+	[Typess] [varchar](10) NULL,
+	[TaxQty] [varchar](20) NULL,
+	[Qty] [varchar](25) NULL,
+	[Rate] [varchar](25) NULL,
+	[Amount] [varchar](25) NULL,
+	[BOM_No] [varchar](100) NULL,
+	[LabourAmount] [varchar](25) NULL,
+	[BOM_name] [varchar](100) NULL
+);
+
+CREATE TYPE [dbo].[SP_PurAlterType] AS TABLE(
+	[ItemCode] [varchar](100) NULL,
+	[ItemName] [varchar](200) NULL,
+	[Remarks] [varchar](400) NULL,
+	[Unit] [varchar](100) NULL,
+	[Qty] [varchar](100) NULL,
+	[Rate] [varchar](200) NULL,
+	[TaxRate] [varchar](10) NULL,
+	[Amount] [varchar](20) NULL,
+	[Discount] [varchar](20) NULL,
+	[DiscountAmount] [varchar](20) NULL,
+	[MrpRate] [varchar](20) NULL,
+	[Special1] [varchar](20) NULL,
+	[Special2] [varchar](20) NULL,
+	[Special3] [varchar](20) NULL,
+	[TotalAmount] [varchar](30) NULL,
+	[Ex] [varchar](20) NULL,
+	[StrnNo] [varchar](20) NULL,
+	[StrnSno] [varchar](20) NULL,
+	[TaxName] [varchar](100) NULL,
+	[TaxPer] [numeric](18, 2) NULL,
+	[TaxAmt] [numeric](18, 2) NULL
+);
+
+CREATE TYPE [dbo].[SP_PurchaseGridEntry] AS TABLE(
+	[itemCode] [varchar](200) NULL,
+	[ItemName] [varchar](200) NULL,
+	[Quantity] [numeric](18, 2) NULL,
+	[Rate] [numeric](18, 2) NULL,
+	[Amount] [numeric](18, 2) NULL,
+	[DicountPerSentage] [numeric](18, 2) NULL,
+	[DiscountAmount] [numeric](18, 2) NULL,
+	[MrpRate] [numeric](18, 2) NULL,
+	[TotalAmount] [numeric](18, 2) NULL,
+	[Dates] [date] NULL,
+	[Counters] [varchar](100) NULL,
+	[TaxRate] [varchar](100) NULL,
+	[TaxName] [varchar](100) NULL,
+	[TaxPer] [numeric](18, 2) NULL,
+	[TaxAmt] [numeric](18, 2) NULL,
+	[Special_1] [numeric](18, 2) NULL,
+	[Special_2] [numeric](18, 2) NULL,
+	[Special_3] [numeric](18, 2) NULL
+);
+
+CREATE TYPE [dbo].[SP_PurchaseItemAlter] AS TABLE(
+	[strn_sno] [varchar](20) NULL,
+	[strn_no] [varchar](20) NULL,
+	[ite_no] [varchar](20) NULL,
+	[nt_qty] [varchar](20) NULL,
+	[Amount] [varchar](20) NULL
+);
+
+CREATE TYPE [dbo].[SP_PurchaseTypeAlter] AS TABLE(
+	[ItemCode] [varchar](100) NULL,
+	[ItemName] [varchar](200) NULL,
+	[Remarks] [varchar](400) NULL,
+	[Unit] [varchar](100) NULL,
+	[Qty] [varchar](100) NULL,
+	[Rate] [varchar](200) NULL,
+	[TaxRate] [varchar](10) NULL,
+	[Amount] [varchar](20) NULL,
+	[Discount] [varchar](20) NULL,
+	[DiscountAmount] [varchar](20) NULL,
+	[MrpRate] [varchar](20) NULL,
+	[Special1] [varchar](20) NULL,
+	[Special2] [varchar](20) NULL,
+	[Special3] [varchar](20) NULL,
+	[TotalAmount] [varchar](30) NULL,
+	[Ex] [varchar](20) NULL,
+	[StrnNo] [varchar](20) NULL,
+	[StrnSno] [varchar](20) NULL,
+	[TaxName] [varchar](100) NULL,
+	[TaxPer] [numeric](18, 2) NULL,
+	[TaxAmt] [numeric](18, 2) NULL
+);
+
+CREATE TYPE [dbo].[type_DOSale] AS TABLE(
+	[SNo] [int] NULL,
+	[Description] [varchar](100) NULL,
+	[NewQty] [numeric](18, 0) NULL,
+	[UsedQty] [numeric](18, 0) NULL,
+	[NewUsedQty] [numeric](18, 0) NULL
+);
+
+CREATE TYPE [dbo].[type_DOSales] AS TABLE(
+	[SNo] [int] NULL,
+	[Description] [varchar](100) NULL,
+	[NewQty] [numeric](18, 0) NULL,
+	[UsedQty] [numeric](18, 0) NULL
+)
+
+CREATE TYPE [dbo].[Type_FreeItem1] AS TABLE(
+	[ItemCode] [varchar](400) NULL,
+	[ItemName] [varchar](400) NULL,
+	[Qty] [numeric](18, 2) NULL,
+	[Rate] [numeric](18, 2) NULL,
+	[Amt] [numeric](18, 2) NULL
+);
+
+CREATE TYPE [dbo].[Type_FreeItem2] AS TABLE(
+	[ItemCode] [varchar](400) NULL,
+	[ItemName] [varchar](400) NULL,
+	[Free_Qty] [numeric](18, 2) NULL,
+	[Rate] [numeric](18, 2) NULL,
+	[Stock] [numeric](18, 2) NULL
+);
+
+CREATE TYPE [dbo].[Type_gridValue] AS TABLE(
+	[ItemName] [varchar](100) NULL,
+	[Qty] [numeric](18, 4) NULL,
+	[Rate] [numeric](18, 2) NULL,
+	[Amt] [numeric](18, 2) NULL,
+	[Disc] [numeric](18, 2) NULL
+);
+
+CREATE TYPE [dbo].[Type_gridValue5] AS TABLE(
+	[ItemName] [varchar](100) NULL,
+	[Qty] [numeric](18, 4) NULL,
+	[Rate] [numeric](18, 2) NULL,
+	[Amt] [numeric](18, 2) NULL,
+	[Id] [numeric](18, 0) NULL
+);
+
+CREATE TYPE [dbo].[type_SalesAlter] AS TABLE(
+	[Invoice_Sno] [int] NULL
+);
+
+CREATE TYPE [dbo].[type_SalesAlteration] AS TABLE(
+	[InvSNo] [int] NULL,
+	[Description] [varchar](100) NULL,
+	[NewQty] [numeric](18, 2) NULL,
+	[NewRate] [numeric](18, 2) NULL,
+	[NewTotal] [numeric](18, 2) NULL,
+	[UsedQty] [numeric](18, 2) NULL,
+	[UsedRate] [numeric](18, 2) NULL,
+	[UsedTotal] [numeric](18, 2) NULL
+);
+
+CREATE TYPE [dbo].[type_SalesCreate] AS TABLE(
+	[SNo] [int] NULL,
+	[Description] [varchar](100) NULL,
+	[NewQty] [numeric](18, 2) NULL,
+	[NewRate] [numeric](18, 2) NULL,
+	[NewTotal] [numeric](18, 2) NULL,
+	[UsedQty] [numeric](18, 2) NULL,
+	[UsedRate] [numeric](18, 2) NULL,
+	[UsedTotal] [numeric](18, 2) NULL
+);
+
+CREATE TYPE [dbo].[type_SalesCreation] AS TABLE(
+	[SNo] [int] NULL,
+	[Description] [varchar](100) NULL,
+	[NewQty] [numeric](18, 0) NULL,
+	[NewRate] [numeric](18, 2) NULL,
+	[NewTotal] [numeric](18, 2) NULL,
+	[UsedQty] [numeric](18, 0) NULL,
+	[UsedRate] [numeric](18, 2) NULL,
+	[UsedTotal] [numeric](18, 2) NULL
+);
+
+CREATE TYPE [dbo].[type_StockAdjCreate] AS TABLE(
+	[ItemCode] [varchar](100) NULL,
+	[ItemName] [varchar](100) NULL,
+	[Unit] [varchar](100) NULL,
+	[LessQty] [numeric](18, 2) NULL,
+	[AddQty] [numeric](18, 2) NULL,
+	[Rate] [numeric](18, 2) NULL,
+	[Amount] [numeric](18, 2) NULL
+);
+
+

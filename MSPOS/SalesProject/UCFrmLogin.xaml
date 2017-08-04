@@ -1,0 +1,221 @@
+﻿<UserControl xmlns:my="clr-namespace:SalesProject"  x:Class="SalesProject.UCFrmLogin"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+         Height="608" Width="1024" Background=" #FF313146"  Loaded="Window_Loaded" >
+    <UserControl.Resources>
+        <RoutedUICommand x:Key="MyMinimize"  />
+    </UserControl.Resources>
+
+    <UserControl.CommandBindings>
+        <CommandBinding Command="{StaticResource MyMinimize}" Executed="btnMinimizeMethod" />
+    </UserControl.CommandBindings>
+
+    <UserControl.InputBindings>        
+        <KeyBinding Key="F12"  Command="{StaticResource MyMinimize}" />
+    </UserControl.InputBindings>
+    <StackPanel Orientation="Vertical" VerticalAlignment="Center" HorizontalAlignment="Center">
+        <StackPanel>
+            <Border  CornerRadius="10" BorderThickness="5" BorderBrush="#FFF2F2F8"   SnapsToDevicePixels="True" Background="#FF313146"  >
+                <TextBox HorizontalContentAlignment="Center" Background="#FF003232" Foreground="#FFADF213" Text="Welcome to MSPOS" BorderThickness="0" Height="40" Name="lblTitle" Width="1024" FontSize="25" VerticalAlignment="Center" IsReadOnly="True"/>
+            </Border>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal" Background="#FF004040" HorizontalAlignment="Center">
+
+            <Border Padding="5" CornerRadius="10" BorderThickness="5" BorderBrush="#FFF2F2F8"   SnapsToDevicePixels="True" Background="#FF313146"  >
+                <StackPanel Name="pnlKeyboardMain" Orientation="Vertical" VerticalAlignment="Center" Height="470" Width="570" >
+                    <!--<StackPanel.Background>
+                <ImageBrush ImageSource="/SalesProject;component/Images/login1.png" />
+            </StackPanel.Background>-->
+                    <my:UCKeyBoradAct x:Name="UCKeyBoardAct1" Loaded="UCKeyBoardAct1_Loaded"></my:UCKeyBoradAct>
+                </StackPanel>
+            </Border>
+            <StackPanel  Orientation="Vertical" Background="#FF003636" VerticalAlignment="Center" HorizontalAlignment="Right" Height="auto" Width="420" >
+            <StackPanel Orientation="Vertical"  >
+                <StackPanel >
+                        <!--<Label Content="Enter Login Pin" Height="40" HorizontalAlignment="Center"  Name="label1" VerticalAlignment="Center"  Foreground="White" FontWeight="Black" FontSize="24" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Width="300" />-->
+                <Border Padding="5" CornerRadius="10" BorderThickness="5" BorderBrush="#FFF2F2F8"   SnapsToDevicePixels="True" Background="#FF313146"  >
+                            <PasswordBox Background="#FF003232" Foreground="#FFADF213"  BorderThickness="0" Grid.Row="1" Grid.ColumnSpan="3" Height="50" HorizontalAlignment="Center" HorizontalContentAlignment="Center"  Name="txtEnterValue" VerticalAlignment="Center"     Width="400" FontSize="16" FontWeight="Black" VerticalContentAlignment="Center" KeyDown="txtEnterValue_KeyDown" TabIndex="1" />
+                        <!--<PasswordBox.Background>
+                        <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                            <GradientStop Color="#FFA6C7C7" Offset="0" />
+                            <GradientStop Color="#FF004040" Offset="0.523" />
+                            <GradientStop Color="#FFA6C7C7" Offset="0" />
+                        </LinearGradientBrush>
+                    </PasswordBox.Background>-->
+                   
+                </Border>
+                        <Border Padding="5" CornerRadius="10" BorderThickness="5" BorderBrush="#FFF2F2F8"   SnapsToDevicePixels="True" Background="#FF313146"  >
+                <StackPanel  Width="400" Height="400"  HorizontalAlignment="Center" >
+                    <Grid VerticalAlignment="Top"  >
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition ></ColumnDefinition>
+                            <ColumnDefinition></ColumnDefinition>
+                            <ColumnDefinition Width="100"></ColumnDefinition>
+                            <ColumnDefinition></ColumnDefinition>
+                        </Grid.ColumnDefinitions>
+                        <Grid.RowDefinitions>
+
+                            <RowDefinition></RowDefinition>
+                            <RowDefinition></RowDefinition>
+                            <RowDefinition></RowDefinition>
+                            <RowDefinition></RowDefinition>
+                            <RowDefinition></RowDefinition>
+                        </Grid.RowDefinitions>
+                        <!--<TextBox Background="Transparent"  Foreground="White"  BorderThickness="0" Grid.Row="0" Grid.ColumnSpan="3" Height="50" HorizontalAlignment="Left" Padding="5" Name="txtEnterValue" VerticalAlignment="Center"  Width="330" FontSize="30" FontWeight="Black" HorizontalContentAlignment="Center" />-->
+                        <Button Foreground="White"  BorderThickness="0" Content="1" Grid.Row="0" Grid.Column="0" Height="100" HorizontalAlignment="Left"  Name="btnOne" VerticalAlignment="Top" Width="100" FontSize="48" FontWeight="Black" Click="btnOne_Click" BorderBrush="Indigo" TabIndex="2">
+                            <Button.Background>
+                                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                                    <GradientStop Color="#FFA6C7C7" Offset="0" />
+                                    <GradientStop Color="#FF004040" Offset="0.523" />
+                                </LinearGradientBrush>
+                            </Button.Background>
+                        </Button>
+                        <Button Foreground="White"  BorderThickness="0" Content="2" Grid.Row="0" Grid.Column="1" Height="100" HorizontalAlignment="Left" Name="btnTwo" VerticalAlignment="Top" Width="100" FontSize="48" FontWeight="Black" Click="btnOne_Click" TabIndex="2">
+                            <Button.Background>
+                                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                                    <GradientStop Color="#FFA6C7C7" Offset="0" />
+                                    <GradientStop Color="#FF004040" Offset="0.523" />
+                                </LinearGradientBrush>
+                            </Button.Background>
+                        </Button>
+                        <Button Foreground="White"  BorderThickness="0" Content="3" Grid.Row="0" Grid.Column="2" Height="100" HorizontalAlignment="Left" Padding="5" Name="btnThree" VerticalAlignment="Top" Width="100" FontSize="48" FontWeight="Black" Click="btnOne_Click" TabIndex="3">
+                            <Button.Background>
+                                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                                    <GradientStop Color="#FFA6C7C7" Offset="0" />
+                                    <GradientStop Color="#FF004040" Offset="0.523" />
+                                </LinearGradientBrush>
+                            </Button.Background>
+                        </Button>
+                        <Button Foreground="White"  BorderThickness="0" Content="4" Grid.Row="1" Grid.Column="0" Height="100" HorizontalAlignment="Left" Padding="5" Name="btnFour" VerticalAlignment="Top" Width="100" FontSize="48" FontWeight="Black" Click="btnOne_Click" TabIndex="5">
+                            <Button.Background>
+                                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                                    <GradientStop Color="#FFA6C7C7" Offset="0" />
+                                    <GradientStop Color="#FF004040" Offset="0.523" />
+                                </LinearGradientBrush>
+                            </Button.Background>
+                        </Button>
+                        
+                        <Button Foreground="White"  BorderThickness="0" Content="5" Grid.Row="1" Grid.Column="1" Height="100" HorizontalAlignment="Left" Padding="5" Name="btnFive" VerticalAlignment="Top" Width="100" FontSize="48" FontWeight="Black" Click="btnOne_Click" TabIndex="6">
+                            <Button.Background>
+                                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                                    <GradientStop Color="#FFA6C7C7" Offset="0" />
+                                    <GradientStop Color="#FF004040" Offset="0.523" />
+                                </LinearGradientBrush>
+                            </Button.Background>
+                        </Button>
+                        <Button Foreground="White"  BorderThickness="0" Content="6" Grid.Row="1" Grid.Column="2" Height="100" HorizontalAlignment="Left" Padding="5" Name="btnSix" VerticalAlignment="Top" Width="100" FontSize="48" FontWeight="Black" Click="btnOne_Click" TabIndex="7">
+                            <Button.Background>
+                                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                                    <GradientStop Color="#FFA6C7C7" Offset="0" />
+                                    <GradientStop Color="#FF004040" Offset="0.523" />
+                                </LinearGradientBrush>
+                            </Button.Background>
+                        </Button>
+                        <Button Foreground="White"  BorderThickness="0" Content="7" Grid.Row="2" Grid.Column="0" Height="100" HorizontalAlignment="Left" Padding="5" Name="btnSeven" VerticalAlignment="Top" Width="100" FontSize="48" FontWeight="Black" Click="btnOne_Click" TabIndex="8">
+                            <Button.Background>
+                                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                                    <GradientStop Color="#FFA6C7C7" Offset="0" />
+                                    <GradientStop Color="#FF004040" Offset="0.523" />
+                                </LinearGradientBrush>
+                            </Button.Background>
+                        </Button>
+                        <Button Foreground="White"  BorderThickness="0" Content="8" Grid.Row="2" Grid.Column="1" Height="100" HorizontalAlignment="Left" Padding="5" Name="btnEight" VerticalAlignment="Top" Width="100" FontSize="48" FontWeight="Black" Click="btnOne_Click" TabIndex="9">
+                            <Button.Background>
+                                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                                    <GradientStop Color="#FFA6C7C7" Offset="0" />
+                                    <GradientStop Color="#FF004040" Offset="0.523" />
+                                </LinearGradientBrush>
+                            </Button.Background>
+                        </Button>
+                        <Button Foreground="White"  BorderThickness="0" Content="9" Grid.Row="2" Grid.Column="2" Height="100" HorizontalAlignment="Left" Padding="5" Name="btnNine" VerticalAlignment="Top" Width="100" FontSize="48" FontWeight="Black" Click="btnOne_Click" TabIndex="10">
+                            <Button.Background>
+                                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                                    <GradientStop Color="#FFA6C7C7" Offset="0" />
+                                    <GradientStop Color="#FF004040" Offset="0.523" />
+                                </LinearGradientBrush>
+                            </Button.Background>
+                        </Button>
+                        <Button Foreground="White"  BorderThickness="0"  Grid.Row="0" Content="CE" Grid.Column="3" Height="100" HorizontalAlignment="Left" Padding="5" Name="btnClear" VerticalAlignment="Top" Width="100" FontSize="26" FontWeight="Black" Click="btnClear_Click" TabIndex="4">
+                            <!--<StackPanel Orientation="Horizontal">
+                                <Image  Source="/SalesProject;component/Images/previous1.png" Height="75" Width="50" >
+
+                                </Image>
+
+                            </StackPanel>-->
+                            <Button.Background>
+                                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                                    <GradientStop Color="#FFA6C7C7" Offset="0" />
+                                    <GradientStop Color="#FF004040" Offset="0.523" />
+                                </LinearGradientBrush>
+                            </Button.Background>
+                        </Button>
+                        <Button Foreground="White"  BorderThickness="0" Content="@" Grid.Row="3" Grid.Column="2" Height="100" HorizontalAlignment="Left" Padding="5" Name="btnAt" VerticalAlignment="Top" Width="100" FontSize="48" FontWeight="Black" Click="btnOne_Click" TabIndex="13">
+                            <Button.Background>
+                                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                                    <GradientStop Color="#FFA6C7C7" Offset="0" />
+                                    <GradientStop Color="#FF004040" Offset="0.523" />
+                                </LinearGradientBrush>
+                            </Button.Background>
+                        </Button>
+                        <Button Foreground="White"  BorderThickness="0" Content="0" Grid.Row="3" Grid.Column="1" Height="100" HorizontalAlignment="Left" Padding="5" Name="btnZero" VerticalAlignment="Top" Width="100" FontSize="48" FontWeight="Black" Click="btnOne_Click" TabIndex="12">
+                            <Button.Background>
+                                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                                    <GradientStop Color="#FFA6C7C7" Offset="0" />
+                                    <GradientStop Color="#FF004040" Offset="0.523" />
+                                </LinearGradientBrush>
+                            </Button.Background>
+                        </Button>
+                        <Button Foreground="White"  BorderThickness="0" Content="Key" Grid.Row="1" Grid.Column="3" Height="100" HorizontalAlignment="Left" Padding="5" Name="btnKey" VerticalAlignment="Top" Width="100" FontSize="30" FontWeight="Black" Click="btnKey_Click" TabIndex="8">
+                                        <Button.Background>
+                                            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                                                <GradientStop Color="#FFA6C7C7" Offset="0" />
+                                                <GradientStop Color="#FF004040" Offset="0.523" />
+                                            </LinearGradientBrush>
+                                        </Button.Background>
+                                    </Button>
+                        <Button Foreground="White"  BorderThickness="0" Grid.Row="2" Grid.RowSpan="2" Grid.Column="3" Height="200" HorizontalAlignment="Left" Padding="5" Name="btnLogin" VerticalAlignment="Top" Width="100" FontSize="26" FontWeight="Black" Click="btnLogin_Click" TabIndex="14">
+                            <StackPanel Orientation="Horizontal">
+                                <Image  Source="/SalesProject;component/Images/next%20copy1.png" Height="75" Width="50" >
+
+                                </Image>
+
+                            </StackPanel>
+                            <Button.Background>
+                                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                                    <GradientStop Color="#FFA6C7C7" Offset="0" />
+                                    <GradientStop Color="#FF004040" Offset="0.523" />
+                                </LinearGradientBrush>
+                            </Button.Background>
+                        </Button>
+                        <Button  Grid.Row="3" Grid.Column="0"  Content="Exit" Height="100" HorizontalAlignment="Center" Name="btnExit" VerticalAlignment="Center" Width="100" FontSize="30" FontWeight="Bold" BorderThickness="0" Foreground="White" HorizontalContentAlignment="Center" Click="btnExit_Click" TabIndex="11">
+                            <!--<StackPanel Orientation="Horizontal">
+                                <Image Source="/SalesProject;component/Images/turn_off.png" Height="75" Width="75" >
+
+                                </Image>
+
+                            </StackPanel>-->
+                            <Button.Background>
+                                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                                    <GradientStop Color="#FFF5E9E9" Offset="0" />
+                                    <GradientStop Color="#FFDB0E0E" Offset="0.738" />
+                                </LinearGradientBrush>
+                            </Button.Background>
+                        </Button>
+
+                    </Grid>
+                </StackPanel>
+            </Border>
+                        <my:FrmActivation Grid.Column="1" Grid.ColumnSpan="3" Grid.RowSpan="5" HorizontalAlignment="Left" Margin="0,-487,0,0" x:Name="frmActivation1"   VerticalAlignment="Top"  Height="484" Loaded="frmActivation1_Loaded" />
+
+                    </StackPanel>
+        </StackPanel>
+        </StackPanel>
+      
+        </StackPanel>
+        <StackPanel>
+            <Border  CornerRadius="10" BorderThickness="5" BorderBrush="#FFF2F2F8"   SnapsToDevicePixels="True" Background="#FF313146"  >
+                <TextBox Text="Save your money with MSPOS" HorizontalContentAlignment="Center" Background="#FF003232" Foreground="Red" BorderThickness="0" Height="40" VerticalAlignment="Center" VerticalContentAlignment="Center" TextWrapping="WrapWithOverflow" Name="lblWarning" Width="1024" FontSize="15"  IsReadOnly="True"/>
+            </Border>
+        </StackPanel>
+    </StackPanel>
+</UserControl>

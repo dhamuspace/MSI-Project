@@ -1,0 +1,331 @@
+﻿<UserControl xmlns:my1="clr-namespace:SalesProject"  x:Class="SalesProject.UCfrmVoid"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:local="clr-namespace:DataGridNameSpace"
+        Height="640" Width="1024" Background="#373599B9"  Loaded="Window_Loaded" xmlns:my="clr-namespace:System.Windows.Forms;assembly=System.Windows.Forms" >
+    <UserControl.Resources>
+
+        <Style x:Key="styleCalendar" TargetType="{x:Type Calendar}">
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="{x:Type Calendar}">
+
+                        <!-- Wrapping in ViewBox will enlarge calendar of that size.-->
+                        <Viewbox Height="300"
+                         Width="300">
+                            <CalendarItem x:Name="PART_CalendarItem"
+                                  Background="{TemplateBinding Background}"
+                                  BorderBrush="{TemplateBinding BorderBrush}"
+                                  BorderThickness="{TemplateBinding BorderThickness}"/>
+                        </Viewbox>
+
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+        <Style x:Key="ButtonStyle1" TargetType="{x:Type Button}">
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="{x:Type Button}">
+                        <Border x:Name="Chrome" BorderBrush="White" BorderThickness="2" CornerRadius="2" Background="{TemplateBinding Property=Background}">
+                            <ContentPresenter HorizontalAlignment="{TemplateBinding HorizontalContentAlignment}" Margin="{TemplateBinding Padding}" RecognizesAccessKey="True" SnapsToDevicePixels="{TemplateBinding SnapsToDevicePixels}" VerticalAlignment="{TemplateBinding VerticalContentAlignment}"/>
+                        </Border>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </UserControl.Resources>
+    <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center" >
+        <StackPanel  Background="#FF003232" Orientation="Horizontal">
+        <StackPanel   Width="570" Background="#FF003232" VerticalAlignment="Center">
+            <StackPanel DockPanel.Dock="Top" Orientation="Horizontal" HorizontalAlignment="Center">
+                <Label Margin="0,0,0,0" Content="LIST OF SALES" Height="40" Name="label1" HorizontalContentAlignment="Left" Foreground="#FFADF213" FontSize="20" FontWeight="ExtraBold"  FontFamily="Segoe UI Symbol" HorizontalAlignment="Left" />
+                <Label Content="Date :" Height="40"  HorizontalContentAlignment="Left" Foreground="White" FontSize="20" FontWeight="ExtraBold"  FontFamily="Segoe UI Symbol" />
+                <DatePicker   CalendarStyle="{StaticResource styleCalendar}"  VerticalAlignment="Center" FontStretch="Normal" BorderThickness="3" Name="dtpFrom" Width="115" SelectedDateChanged="dtpTo_SelectedDateChanged" />
+                <Label Content="-" Height="40"  HorizontalContentAlignment="Left" Foreground="White" FontSize="20" FontWeight="ExtraBold"  FontFamily="Segoe UI Symbol" />
+                <DatePicker  CalendarStyle="{StaticResource styleCalendar}"  VerticalAlignment="Center"  Name="dtpTo" Width="115" SelectedDateChanged="dtpTo_SelectedDateChanged" />
+                <Button Style="{DynamicResource ButtonStyle1}" VerticalAlignment="Center" FontWeight="Heavy" Height="50" Width="100"  Content="Load" FontSize="22" Foreground="White" Name="btnLoad"  Margin="10,0,0,0" Click="btnLoad_Click">
+                    <Button.Background>
+                        <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                            <GradientStop Color="#FFA6C7C7" Offset="0" />
+                            <GradientStop Color="#FF004040" Offset="0.523" />
+                        </LinearGradientBrush>
+                    </Button.Background>
+                </Button>
+            </StackPanel>
+            <StackPanel  Orientation="Vertical" Name="pnlGroupItem" Height="580"  Width="570" HorizontalAlignment="Left" Background="#373599B9">
+                <Border Padding="2" CornerRadius="10" BorderThickness="1" BorderBrush="#FFF2F2F8"   SnapsToDevicePixels="True" Background="#FF313146" Width="565"  >
+                    <WindowsFormsHost Height="445" Name="windowsFormsHost1" VerticalAlignment="Top" HorizontalAlignment="Left" Width="560"  TabIndex="17" PreviewKeyDown="windowsFormsHost1_PreviewKeyDown">
+
+                        <local:MyDataGrid x:Name="gridDisplay" AutoGenerateColumns="True"   EditMode="EditOnEnter" RowHeadersBorderStyle="Single" BackgroundColor="White" ForeColor="Black"  BorderStyle="None"  TabIndex="5"  AllowUserToAddRows="False" RowHeadersVisible="False" ScrollBars="Vertical" MultiSelect="False" AutoSizeColumnsMode="Fill" CellClick="gridDisplay_CellClick">
+                            <local:MyDataGrid.RowTemplate>
+                                <my:DataGridViewRow Height="30" ReadOnly="True" />
+                            </local:MyDataGrid.RowTemplate>
+                        </local:MyDataGrid>
+                    </WindowsFormsHost>
+                </Border>
+<StackPanel Orientation="Horizontal" HorizontalAlignment="Left" >
+                    <Label Content="Reason to void:" Height="28" FontSize="16"  Foreground="White" />
+                    <TextBox Height="30" Name="txtReason" Width="270" Text="" HorizontalContentAlignment="Left" VerticalContentAlignment="Center" Margin="0,0,10,0" IsReadOnly="False" GotFocus="txtReason_GotFocus" LostFocus="txtReason_LostFocus" />
+                    <Label Content="Total:" Height="28" FontSize="16" Name="label2" Foreground="White" />
+                    <TextBox Height="30" Name="txtTotal" Width="120" Text="0.00" HorizontalContentAlignment="Right" VerticalContentAlignment="Center" Margin="0,0,10,0" IsReadOnly="True" />
+                </StackPanel>
+                <StackPanel DockPanel.Dock="Bottom" Orientation="Horizontal" HorizontalAlignment="Center" >
+                    <Button Style="{DynamicResource ButtonStyle1}" Name="btnCash"  VerticalAlignment="Center" FontWeight="Heavy" Height="85" Width="80"  Content="Cash" FontSize="24" Foreground="White" Click="btnCash_Click">
+                        <Button.Background>
+                            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                                <GradientStop Color="#FFA6C7C7" Offset="0" />
+                                <GradientStop Color="#FF004040" Offset="0.523" />
+                            </LinearGradientBrush>
+                        </Button.Background>
+                    </Button>
+                    <Button Style="{DynamicResource ButtonStyle1}" Name="btnNETS" VerticalAlignment="Center" FontWeight="Heavy" Height="85" Width="80"  Content="NETS" FontSize="24" Foreground="White" Click="btnNETS_Click">
+                        <Button.Background>
+                            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                                <GradientStop Color="#FFA6C7C7" Offset="0" />
+                                <GradientStop Color="#FF004040" Offset="0.523" />
+                            </LinearGradientBrush>
+                        </Button.Background>
+                    </Button>
+                    <Button Style="{DynamicResource ButtonStyle1}" Name="btnCreditCard" VerticalAlignment="Center" FontWeight="Heavy" Height="85" Width="80"  FontSize="24" Foreground="White" Click="btnCreditCard_Click">
+                        <Button.Background>
+                            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                                <GradientStop Color="#FFA6C7C7" Offset="0" />
+                                <GradientStop Color="#FF004040" Offset="0.523" />
+                            </LinearGradientBrush>
+                        </Button.Background>
+                        <Button.Content>
+                            <StackPanel HorizontalAlignment="Center">
+                            <Label HorizontalContentAlignment="Center" Content="Credit" Height="32" Name="label4" FontWeight="Heavy"  Width="75"  FontSize="16" Foreground="White" />
+                            <Label HorizontalContentAlignment="Center" Margin="0,-10,0,0" Content="Card" Height="32" Name="label6" FontWeight="Heavy"  Width="75"  FontSize="16" Foreground="White"/>
+                            </StackPanel>
+                        </Button.Content>
+                    </Button>
+                    <Button Style="{DynamicResource ButtonStyle1}" Name="btnHouseAC" FontWeight="Heavy" Height="85" Width="80" FontSize="24" Foreground="White" Click="btnHouseAC_Click">
+                        <Button.Background>
+                            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                                <GradientStop Color="#FFA6C7C7" Offset="0" />
+                                <GradientStop Color="#FF004040" Offset="0.523" />
+                            </LinearGradientBrush>
+                        </Button.Background>
+                        <Button.Content>
+                            <StackPanel HorizontalAlignment="Center">
+                                <Label HorizontalContentAlignment="Center" Content="House" Height="32" FontWeight="Heavy"  Width="75"  FontSize="16" Foreground="White" />
+                                <Label HorizontalContentAlignment="Center" Margin="0,-10,0,0" Content="Account" Height="32"  FontWeight="Heavy"  Width="75"  FontSize="16" Foreground="White"/>
+                            </StackPanel>
+                        </Button.Content>
+                    </Button>
+                    <Button Name="btnPayment" Style="{DynamicResource ButtonStyle1}" VerticalAlignment="Center" FontWeight="Heavy" Height="85" Width="80"  FontSize="24" Foreground="White" Click="btnPayment_Click">
+                        <Button.Background>
+                            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                                <GradientStop Color="#FFA6C7C7" Offset="0" />
+                                <GradientStop Color="#FF004040" Offset="0.523" />
+                            </LinearGradientBrush>
+                        </Button.Background>
+                        <Button.Content>
+                            <StackPanel HorizontalAlignment="Center">
+                                <Label HorizontalContentAlignment="Center" Content="Payment" Height="32" FontWeight="Heavy"  Width="80"  FontSize="16" Foreground="White" />
+                                <!--<Label HorizontalContentAlignment="Center" Margin="0,-10,0,0" Content="Card" Height="35" Name="label6" FontWeight="Heavy"  Width="95"  FontSize="20" Foreground="White"/>-->
+                            </StackPanel>
+                        </Button.Content>
+                    </Button>
+                    <Button Style="{DynamicResource ButtonStyle1}" Name="btnVoid" VerticalAlignment="Center" FontWeight="Heavy" Height="85" Width="80" Content="Void" FontSize="24" Foreground="White" Click="btnVoid_Click">
+                        <Button.Background>
+                            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                                <GradientStop Color="#FFA6C7C7" Offset="0" />
+                                <GradientStop Color="#FF004040" Offset="0.523" />
+                            </LinearGradientBrush>
+                        </Button.Background>
+                    </Button>
+                    <!--<Button Name="btnHouseAccount" VerticalAlignment="Center" FontWeight="Heavy" Height="85" Width="100"  FontSize="24" Foreground="White" >
+                        <Button.Background>
+                            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                                <GradientStop Color="#FFA6C7C7" Offset="0" />
+                                <GradientStop Color="#FF004040" Offset="0.523" />
+                            </LinearGradientBrush>
+                        </Button.Background>
+                        <Button.Content>
+                            <StackPanel HorizontalAlignment="Center">
+                                <Label HorizontalContentAlignment="Center" Content="House" Height="35"  FontWeight="Heavy"  Width="95"  FontSize="20" Foreground="White" />
+                                <Label HorizontalContentAlignment="Center" Margin="0,-10,0,0" Content="Account" Height="35"  FontWeight="Heavy"  Width="95"  FontSize="20" Foreground="White"/>
+                            </StackPanel>
+                        </Button.Content>
+                    </Button>
+                    <Button Name="btnVoucher" VerticalAlignment="Center" FontWeight="Heavy" Height="85" Width="100"  Content="Voucher" FontSize="22" Foreground="White" >
+                        <Button.Background>
+                            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                                <GradientStop Color="#FFA6C7C7" Offset="0" />
+                                <GradientStop Color="#FF004040" Offset="0.523" />
+                            </LinearGradientBrush>
+                        </Button.Background>
+                    </Button>-->
+                    <Button Style="{DynamicResource ButtonStyle1}" Name="btnPrint" FontWeight="Heavy" Height="85" Width="80"  Content="Print" FontSize="24" Foreground="White" Click="btnPrint_Click">
+                        <Button.Background>
+                            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                                <GradientStop Color="#FFA6C7C7" Offset="0" />
+                                <GradientStop Color="#FF004040" Offset="0.523" />
+                            </LinearGradientBrush>
+                        </Button.Background>
+                    </Button>
+                </StackPanel>
+                
+            </StackPanel>
+
+        </StackPanel>
+        <StackPanel Orientation="Vertical" VerticalAlignment="Center">
+            <Button Style="{DynamicResource ButtonStyle1}" VerticalAlignment="Center" FontWeight="Heavy" Height="89" Width="90"  Content="Go" FontSize="22" Foreground="White" Name="btnGo" Click="btnGo_Click">
+                <Button.Background>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="#FFA6C7C7" Offset="0" />
+                        <GradientStop Color="#FF004040" Offset="0.523" />
+                    </LinearGradientBrush>
+                </Button.Background>
+            </Button>
+            <Button Style="{DynamicResource ButtonStyle1}"  VerticalAlignment="Center" FontWeight="Heavy" Height="89" Width="90"  Content="Remove" FontSize="22" Foreground="White" Name="btnRemove" Click="btnRemove_Click">
+                <Button.Background>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="#FFA6C7C7" Offset="0" />
+                        <GradientStop Color="#FF004040" Offset="0.523" />
+                    </LinearGradientBrush>
+                </Button.Background>
+            </Button>
+            <Button  Style="{DynamicResource ButtonStyle1}" VerticalAlignment="Center" FontWeight="Heavy" Height="89" Width="90"  Content="Up" FontSize="22" Foreground="White" Name="btnUp" Click="btnUp_Click">
+                <Button.Background>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="#FFA6C7C7" Offset="0" />
+                        <GradientStop Color="#FF004040" Offset="0.523" />
+                    </LinearGradientBrush>
+                </Button.Background>
+            </Button>
+            <Button Style="{DynamicResource ButtonStyle1}"  VerticalAlignment="Center" FontWeight="Heavy" Height="89" Width="90"  Content="Down" FontSize="22" Foreground="White" Name="btnDown" Click="btnDown_Click">
+                <Button.Background>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="#FFA6C7C7" Offset="0" />
+                        <GradientStop Color="#FF004040" Offset="0.523" />
+                    </LinearGradientBrush>
+                </Button.Background>
+            </Button>
+            <Button Style="{DynamicResource ButtonStyle1}"  VerticalAlignment="Center" FontWeight="Heavy" Height="89" Width="90"  Content="Key" FontSize="22" Foreground="White" Name="btnKey" Click="btnKey_Click">
+                <Button.Background>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="#FFA6C7C7" Offset="0" />
+                        <GradientStop Color="#FF004040" Offset="0.523" />
+                    </LinearGradientBrush>
+                </Button.Background>
+            </Button>
+            <Button Style="{DynamicResource ButtonStyle1}"  VerticalAlignment="Center" FontWeight="Heavy" Height="89" Width="90"  Content="Return" FontSize="22" Foreground="White" Name="btnSave" Click="btnSave_Click">
+                <Button.Background>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="#FFA6C7C7" Offset="0" />
+                        <GradientStop Color="#FF004040" Offset="0.523" />
+                    </LinearGradientBrush>
+                </Button.Background>
+            </Button>
+            <Button Style="{DynamicResource ButtonStyle1}"  VerticalAlignment="Center" FontWeight="Heavy" Height="89" Width="90"  Content="Close" FontSize="24" Foreground="White" Name="btnExit" Click="btnExit_Click">
+
+                <Button.Background>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="#FFF5E9E9" Offset="0" />
+                        <GradientStop Color="#FFDB0E0E" Offset="0.738" />
+                    </LinearGradientBrush>
+                </Button.Background>
+
+            </Button>
+
+        </StackPanel>
+        <StackPanel Orientation="Horizontal" Background="#FF003232">
+          
+            <StackPanel  Orientation="Vertical" Name="pnItem" Height="620"  Width="345" Background="#373599B9">
+                <Grid>
+                    <Grid.Background>
+                        <SolidColorBrush />
+                    </Grid.Background>
+                    <Grid.RowDefinitions>
+                        <RowDefinition></RowDefinition>
+                        <RowDefinition></RowDefinition>
+                    </Grid.RowDefinitions>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="65"></ColumnDefinition>
+                        <ColumnDefinition Width="270"></ColumnDefinition>
+                        <!--<ColumnDefinition Width="80"></ColumnDefinition>-->
+                    </Grid.ColumnDefinitions>
+                    <Label Grid.Column="0" Grid.Row="1" Content="Item" Height="28" HorizontalAlignment="Left" Margin="10,5,0,0" Name="label8" VerticalAlignment="Top" FontSize="16" Foreground="White" />
+                    <TextBox Grid.Column="1" Grid.Row="1" Margin="5,0,0,0" Height="28" Name="txtEnterValue" Width="275" KeyDown="txtEnterValue_KeyDown" LostFocus="txtEnterValue_LostFocus" />
+                    <Label Grid.Column="0" Grid.Row="0" Content="Bill No" Height="28" HorizontalAlignment="Left" Margin="10,0,0,0"  VerticalAlignment="Top" FontSize="16" Foreground="White" />
+                    <TextBox Grid.Column="1" Grid.Row="0" Margin="5,0,0,0" Height="28" Name="txtBillNo" Width="275" KeyDown="txtBillNo_KeyDown" LostFocus="txtBillNo_LostFocus" />
+                    <!--<Button Grid.Row="0" Grid.Column="2" Grid.RowSpan="2" Name="btnGo" Margin="10,0,0,0" VerticalAlignment="Center" FontWeight="Heavy" Height="70" Width="70"  Content="GO" FontSize="24" Foreground="White">
+                        <Button.Background>
+                            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                                <GradientStop Color="#FFA6C7C7" Offset="0" />
+                                <GradientStop Color="#FF004040" Offset="0.523" />
+                            </LinearGradientBrush>
+                        </Button.Background>
+                    </Button>-->
+                   
+                </Grid>
+                <Border Padding="2" CornerRadius="10" BorderThickness="1" BorderBrush="#FFF2F2F8"   SnapsToDevicePixels="True" Background="#FF313146"  >
+                    <WindowsFormsHost Height="350" Name="windowsFormsHost2" VerticalAlignment="Top" HorizontalAlignment="Left" Width="340"  TabIndex="17" PreviewKeyDown="windowsFormsHost1_PreviewKeyDown">
+                        <local:MyDataGrid x:Name="gridItems" AutoGenerateColumns="True"   EditMode="EditOnEnter" RowHeadersBorderStyle="Single" BackgroundColor="White" ForeColor="Black"  BorderStyle="None"  TabIndex="5"  AllowUserToAddRows="False" RowHeadersVisible="False" ScrollBars="Vertical" MultiSelect="False" SelectionMode="FullRowSelect">
+                            <local:MyDataGrid.RowTemplate>
+                                <my:DataGridViewRow Height="30" ReadOnly="True" />
+                            </local:MyDataGrid.RowTemplate>
+                        </local:MyDataGrid>
+                    </WindowsFormsHost>
+                </Border>
+                <StackPanel >
+                    <Border Padding="2" CornerRadius="10" BorderThickness="1" BorderBrush="#FFF2F2F8"   SnapsToDevicePixels="True" Background="#FF003232"  >
+                        <Grid Background="#FF004040">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition></ColumnDefinition>
+                                <ColumnDefinition></ColumnDefinition>
+                                <ColumnDefinition></ColumnDefinition>
+                                <ColumnDefinition></ColumnDefinition>
+                            </Grid.ColumnDefinitions>
+                            <Grid.RowDefinitions>
+                                <RowDefinition></RowDefinition>
+                                <RowDefinition></RowDefinition>
+                                <RowDefinition></RowDefinition>
+                                <RowDefinition></RowDefinition>
+                                <RowDefinition></RowDefinition>
+                                <RowDefinition></RowDefinition>
+                                <RowDefinition></RowDefinition>
+                            </Grid.RowDefinitions>
+                            <Label Grid.ColumnSpan="2" Content="DD/MM/YYYY" Height="28" HorizontalAlignment="left"  Name="lblDate" VerticalAlignment="Top" FontSize="15" Foreground="#FFF2ECEC" Width="90" Padding="5" Margin="3,0,0,0" />
+                            <!--<Label Grid.Row="0" Grid.Column="1" Content="" Height="28" HorizontalAlignment="Left" Name="labelTime" VerticalAlignment="Top" FontSize="14" Foreground="#FFF2ECEC" Width="100" />-->
+                            <Label Grid.Row="0" Grid.Column="2" Content="Bill No" Height="28" HorizontalAlignment="Left" Margin="10,0,0,0" Name="lblCurrentBillTitle" VerticalAlignment="Top" FontSize="15" Foreground="#FFADF213" Width="80" Padding="5" />
+                            <Label Grid.Row="0" Grid.Column="3" Content="0001" Height="28" HorizontalAlignment="Left" Name="lblBillNo" VerticalAlignment="Top" FontSize="15" Foreground="#FFF2ECEC" Width="100" Padding="5" />
+                            <!--  <Label Grid.Row="1" Grid.Column="1"  Content ="0.00" Height="35" HorizontalAlignment="Right" Margin="10,0,0,0" Name="lblDate" VerticalAlignment="Top" FontSize="20" Foreground="#FFF2ECEC" Width="109" />
+                        <Label Grid.Row="2" Grid.Column="0" Content="Time     :" Height="35" HorizontalAlignment="Left" Margin="10,0,0,0" Name="labelTime" VerticalAlignment="Top" FontSize="20" Foreground="#FFF2ECEC" Width="235" />
+                        <Label Grid.Row="2" Grid.Column="1"  Content ="0.00" Height="35" HorizontalAlignment="Right" Margin="10,0,0,0" Name="lblTime" VerticalAlignment="Top" FontSize="20" Foreground="#FFF2ECEC" Width="109" />-->
+                            <Label Grid.Row="1" Grid.Column="0" Content="Total Qty" Height="28" HorizontalAlignment="Left"  Name="labelnew" VerticalAlignment="Top" FontSize="15" Foreground="#FFF2ECEC" Width="90" Padding="5" />
+                            <Label Grid.Row="1" Grid.Column="1"  Content ="0" Height="28" HorizontalAlignment="Right"  Name="lblTotQty" VerticalAlignment="Top" FontSize="15" Foreground="#FFF2ECEC" Width="80" Padding="5" />
+                            <Label Grid.Row="2" Content="Gross Amt" Height="28" HorizontalAlignment="Left"  Name="label3" VerticalAlignment="Bottom" FontSize="15" Foreground="#FFF2ECEC" Width="90" Padding="5" />
+                            <Label Grid.Row="2" Grid.Column="1"  Content ="0.00" Height="28" HorizontalAlignment="Right"  Name="lblTotAmt" VerticalAlignment="Top" FontSize="15" Foreground="#FFF2ECEC" Width="80" Padding="5" />
+                            <Label Grid.Row="1" Grid.Column="2" Content="Tax Amt   " Height="28" HorizontalAlignment="Left"  Name="lblTax" VerticalAlignment="Top" FontSize="15" Foreground="#FFF2ECEC" Width="90" Padding="5" />
+                            <Label Grid.Row="1" Grid.Column="3"  Content ="0.00" Height="28" HorizontalAlignment="Right"  Name="lblTaxAmt" VerticalAlignment="Top" FontSize="15" Foreground="#FFF2ECEC" Width="80" Padding="5" />
+                            <Label Grid.Row="2"  Grid.Column="2"  Content="Disc. Amt" Height="28" HorizontalAlignment="Left"  Name="label5" VerticalAlignment="Bottom" FontSize="15" Foreground="#FFF2ECEC" Width="90" Padding="5" />
+                            <Label Grid.Row="2" Grid.Column="3"  Content ="0.00" Height="28" HorizontalAlignment="Right"  Name="lblDiscount" VerticalAlignment="Top" FontSize="15" Foreground="#FFF2ECEC" Width="80" IsEnabled="False" Padding="5" />
+                            <Label Grid.Row="3" Grid.ColumnSpan="2" Grid.Column="0" Content="Net Amount(R)    :" Height="28" HorizontalAlignment="Left"  Name="label7" VerticalAlignment="Top" FontSize="15" Foreground="#FFF2ECEC" Width="170" Padding="5" />
+                            <Label Grid.Row="3" Grid.Column="2" Grid.ColumnSpan="2" Content ="0.00" Height="28" HorizontalAlignment="Right"  Name="lblNetAmt" VerticalAlignment="Top" FontSize="15" Foreground="#FFF2ECEC" Width="150" Padding="5" />
+                            <Label Grid.Row="3" Grid.Column="2" Grid.ColumnSpan="2" Content ="0.00" Height="28" HorizontalAlignment="Right"  Name="lblRefund" Visibility="Hidden" VerticalAlignment="Top" FontSize="15" Foreground="#FFF2ECEC" Width="150" Padding="5" />
+
+                        </Grid>
+                    </Border>
+
+                    <Button Style="{DynamicResource ButtonStyle1}" Name="btnReSettle" FontWeight="Heavy" Height="85" Width="340"  Content="Re-Settle" FontSize="24" Foreground="White" Click="btnReSettle_Click">
+                        <Button.Background>
+                            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                                <GradientStop Color="#FFA6C7C7" Offset="0" />
+                                <GradientStop Color="#FF004040" Offset="0.523" />
+                            </LinearGradientBrush>
+                        </Button.Background>
+                    </Button>
+                </StackPanel>
+            </StackPanel>
+           
+        </StackPanel>  
+            
+    </StackPanel>
+        <my1:UCfrmPayment  x:Name="UCfrmPayment1" Margin="0,-630,0,0" Visibility="Hidden"/>
+    </StackPanel>
+</UserControl>

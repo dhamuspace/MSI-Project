@@ -1,0 +1,3 @@
+ItemName;Qty;Rate;Amt
+2 Fat Farmers Shiraz;1;12.15;12.15
+Aires Andinos Merlot;1;14.49;14.49

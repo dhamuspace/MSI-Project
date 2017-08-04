@@ -1,0 +1,36 @@
+﻿//Create View :
+CREATE View [dbo].[FreeItemMasterDetailView] As Select Item_table.Item_no,Item_table.Item_name,Item_table.Item_code,FreeItemDetail_table.FreeRate,FreeItemDetail_table.FreeQty,FreeItemDetail_table.FreeSno  from Item_table join FreeItemDetail_table on FreeItemDetail_table.FreeItem_no=Item_table.Item_no where Active=1;
+
+CREATE VIEW [dbo].[FreeItemMasterDifferentView] As select Item_table.Item_no,item_table.Item_name,Item_table.Item_Code,FreeItemMaster_table.FreeSnoGroup,FreeItemMaster_table.FreeType,FreeItemMaster_table.TotSaleQty,FreeItemMaster_table.SaleQty,FreeItemMaster_table.ItemImage,FreeItemMaster_table.FromDate,FreeItemMaster_table.todate from item_table join FreeItemMaster_table  on FreeItemMaster_table.Item_no=Item_table.Item_no where Active=1 and ItemType='Different' or ItemType='Single';
+
+CREATE VIEW [dbo].[FreeItemMasterSingleDifferentView] As select Item_table.Item_no,item_table.Item_name,Item_table.Item_Code,FreeItemMaster_table.FreeSnoGroup,FreeItemMaster_table.FreeType,FreeItemMaster_table.TotSaleQty,FreeItemMaster_table.SaleQty,FreeItemMaster_table.ItemImage,FreeItemMaster_table.FromDate,FreeItemMaster_table.todate from item_table join FreeItemMaster_table  on FreeItemMaster_table.Item_no=Item_table.Item_no where Active=1 and ItemType='Different' or ItemType='Single' or ItemType='Same Free' or Itemtype='Different Free';
+
+CREATE VIEW [dbo].[FreeItemMasterView] As select Item_table.Item_no,item_table.Item_name,Item_table.Item_Code,FreeItemMaster_table.FreeSnoGroup,FreeItemMaster_table.FreeType,FreeItemMaster_table.TotSaleQty,FreeItemMaster_table.SaleQty,FreeItemMaster_table.ItemImage,FreeItemMaster_table.FromDate,FreeItemMaster_table.todate from item_table join FreeItemMaster_table  on FreeItemMaster_table.Item_no=Item_table.Item_no where Active=1 and ItemType='Single' or ItemType='Different';
+
+Create View [dbo].[tempView] as Select FreeSno, FreeItem_no, Item_table.Item_name, SaleQtyFrom, SaleQtyTo, Free_Qty,Rate, Disc_amt, Disc_Per, Date, FromDate, ToDate, FreeItem_Stock, FreeItem_TempStock, FreeType,Active, FreeSnoGroup from FreeItem_table, Item_table Where Item_table.Item_no=FreeItem_table.Item_no and FreeItem_table.Active=1 and FromDate<=(Select convert(date,DATEADD(DAY,1,EndOfDay),103) from EndOfDay_Table where Id=(Select MAX(id) from EndOfDay_Table)) and ToDate>=(Select convert(date,DATEADD(DAY,1,EndOfDay),103) from EndOfDay_Table where Id=(Select MAX(id) from EndOfDay_Table));
+
+CREATE  View [dbo].[viewDifferentFree] as Select Item_table.Item_no as FreeItem_no,Item_table.Item_name as FreeItem_name, FreeItemDetail_table.FreeQty,    
+FreeItemDetail_table.FreeSno,FreeItemMaster_table.OfferName,FreeItemMaster_table.TotSaleQty, FreeItemMaster_table.Item_no,FreeItemMaster_table.Sunday,FreeItemMaster_table.monday,   
+FreeItemMaster_table.Tuesday,FreeItemMaster_table.Wednesday,FreeItemMaster_table.Thursday,FreeItemMaster_table.Friday,FreeItemMaster_table.Sturday from FreeItemMaster_table,    
+FreeItemDetail_table, Item_table where FreeItemDetail_table.FreeItem_no=Item_table.Item_no and FreeItemDetail_table.FreeSno=FreeItemMaster_table.FreeSnoGroup       
+and FreeItemMaster_table.ItemType='Single' and FreeType='Free Different' and FreeItemMaster_table.Active=1 and       
+FromDate<=(Select convert(date,DATEADD(DAY,1,EndOfDay),103) from EndOfDay_Table where Id=(Select MAX(id) from EndOfDay_Table))      
+and ToDate>=(Select convert(date,DATEADD(DAY,1,EndOfDay),103) from EndOfDay_Table where Id=(Select MAX(id) from EndOfDay_Table));
+
+CREATE View [dbo].[viewDiffFree] as Select FreeSno, FreeSnoGroup,OfferName, Item_table.Item_name, TotSaleQty, TotSalePrice, FromDate, ToDate, ItemType,FreeType,Active from FreeItemMaster_table, Item_table Where  Item_table.Item_no=FreeItemMaster_table.Item_no and FreeType='Price' and ItemType='Different' and FreeItemMaster_table.Active=1 and FromDate<=(Select convert(date,DATEADD(DAY,1,EndOfDay),103) from EndOfDay_Table where Id=(Select MAX(id) from EndOfDay_Table)) and ToDate>=(Select convert(date,DATEADD(DAY,1,EndOfDay),103) from EndOfDay_Table where Id=(Select MAX(id) from EndOfDay_Table));
+
+CREATE View [dbo].[viewSameFree] as Select Item_table.Item_no as FreeItem_no,Item_table.Item_name as FreeItem_name, FreeItemDetail_table.FreeQty,      
+FreeItemDetail_table.FreeSno,FreeItemMaster_table.OfferName,FreeItemMaster_table.TotSaleQty, FreeItemMaster_table.Item_no,FreeItemMaster_table.Sunday,FreeItemMaster_table.monday,     
+FreeItemMaster_table.Tuesday,FreeItemMaster_table.Wednesday,FreeItemMaster_table.Thursday,FreeItemMaster_table.Friday,FreeItemMaster_table.Sturday from FreeItemMaster_table,      
+FreeItemDetail_table, Item_table where FreeItemDetail_table.FreeItem_no=Item_table.Item_no and FreeItemDetail_table.FreeSno=FreeItemMaster_table.FreeSnoGroup         
+and FreeItemMaster_table.ItemType='Single' and FreeType='Same Free' and FreeItemMaster_table.Active=1 and         
+FromDate<=(Select convert(date,DATEADD(DAY,1,EndOfDay),103) from EndOfDay_Table where Id=(Select MAX(id) from EndOfDay_Table))        
+and ToDate>=(Select convert(date,DATEADD(DAY,1,EndOfDay),103) from EndOfDay_Table where Id=(Select MAX(id) from EndOfDay_Table));
+
+CREATE View [dbo].[viewSingleFree] as Select Item_table.Item_no as FreeItem_no,Item_table.Item_name as FreeItem_name, FreeItemDetail_table.FreeQty,      
+FreeItemDetail_table.FreeSno,FreeItemMaster_table.OfferName,FreeItemMaster_table.TotSaleQty, FreeItemMaster_table.Item_no,FreeItemMaster_table.Sunday,FreeItemMaster_table.monday,     
+FreeItemMaster_table.Tuesday,FreeItemMaster_table.Wednesday,FreeItemMaster_table.Thursday,FreeItemMaster_table.Friday,FreeItemMaster_table.Sturday from FreeItemMaster_table,      
+FreeItemDetail_table, Item_table where FreeItemDetail_table.FreeItem_no=Item_table.Item_no and FreeItemDetail_table.FreeSno=FreeItemMaster_table.FreeSnoGroup         
+and FreeItemMaster_table.ItemType='Single' and FreeType='Different Free' and FreeItemMaster_table.Active=1 and         
+FromDate<=(Select convert(date,DATEADD(DAY,1,EndOfDay),103) from EndOfDay_Table where Id=(Select MAX(id) from EndOfDay_Table))        
+and ToDate>=(Select convert(date,DATEADD(DAY,1,EndOfDay),103) from EndOfDay_Table where Id=(Select MAX(id) from EndOfDay_Table));    

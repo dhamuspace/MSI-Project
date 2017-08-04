@@ -1,0 +1,99 @@
+﻿<UserControl x:Class="SalesProject.UCItemUpdateQtyNRate"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+         Width="500"  Height="620" >
+    <UserControl.Resources>
+        <Style x:Key="ButtonStyle1" TargetType="{x:Type Button}">
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="{x:Type Button}">
+                        <Border x:Name="Chrome" BorderBrush="White" BorderThickness="2" CornerRadius="2" Background="{TemplateBinding Property=Background}">
+                            <ContentPresenter HorizontalAlignment="{TemplateBinding HorizontalContentAlignment}" Margin="{TemplateBinding Padding}" RecognizesAccessKey="True" SnapsToDevicePixels="{TemplateBinding SnapsToDevicePixels}" VerticalAlignment="{TemplateBinding VerticalContentAlignment}"/>
+                        </Border>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+        <Style x:Key="styleCalendar" TargetType="{x:Type Calendar}">
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate>
+                    <Viewbox Height="300" Width="300">
+                        <CalendarItem x:Name="Part_Calendar" 
+                                      Background="{TemplateBinding Background}"
+                                      BorderBrush="{TemplateBinding BorderBrush}"
+                                      BorderThickness="{TemplateBinding BorderThickness}"/>
+                    </Viewbox>
+                   </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </UserControl.Resources>
+
+    <Grid Height="732" Width="1005" OpacityMask="Brown" DataContext="{Binding}" Name="gridDisplay" Background="#FF004040">
+        <Rectangle Fill="Transparent" Stroke="White" StrokeThickness="2" Height="467" HorizontalAlignment="Left" Margin="21,122,0,0" Name="rectangle1" VerticalAlignment="Top" Width="286" />
+        <Button Style="{StaticResource ButtonStyle1}" Content="+1" Height="80" HorizontalAlignment="Left" Margin="43,190,0,0" Name="btnAddOne" VerticalAlignment="Top" Width="115" FontSize="16" FontWeight="Black" Background="Green" Foreground="White" BorderBrush="White" Click="btnAddOne_Click" Focusable="False" />
+        <Button Style="{StaticResource ButtonStyle1}" Content="-1" Height="80" HorizontalAlignment="Left" Margin="172,190,0,0" Name="btnSubone" VerticalAlignment="Top" Width="115" FontSize="16" FontWeight="Black" Background="#FFDB0E0E" Foreground="White" BorderBrush="White" Click="btnSubone_Click" />
+        <Button Style="{StaticResource ButtonStyle1}" Content="+5" Height="80" HorizontalAlignment="Left" Margin="43,283,0,0" Name="btnAddFive" VerticalAlignment="Top" Width="115" FontSize="16" FontWeight="Black" Background="Green" Foreground="White" BorderBrush="White" Click="btnAddFive_Click" />
+        <Button Style="{StaticResource ButtonStyle1}" Content="-5" Height="80" HorizontalAlignment="Left" Margin="172,283,0,0" Name="btnSubFive" VerticalAlignment="Top" Width="115" FontSize="16" FontWeight="Black" Background="#FFDB0E0E" Foreground="White" BorderBrush="White" Click="btnSubFive_Click" />
+        <Button Style="{StaticResource ButtonStyle1}" Content="+10" Height="80" HorizontalAlignment="Left" Margin="43,375,0,0" Name="btnAddTen" VerticalAlignment="Top" Width="115" FontSize="16" FontWeight="Black" Background="Green" Foreground="White" BorderBrush="White" Click="btnAddTen_Click" />
+        <Button Style="{StaticResource ButtonStyle1}" Content="-10" Height="80" HorizontalAlignment="Left" Margin="172,375,0,0" Name="btnSubTen" VerticalAlignment="Top" Width="115" FontSize="16" FontWeight="Black" Background="#FFDB0E0E" Foreground="White" BorderBrush="White" Click="btnSubTen_Click" />
+        <Button Style="{StaticResource ButtonStyle1}" Height="70" HorizontalAlignment="Left" Margin="42,499,0,0" Name="btnItemDiscount" VerticalAlignment="Top" Width="246" FontSize="16" FontWeight="Bold" BorderBrush="White" Foreground="White">
+            <Button.Background>
+                <SolidColorBrush />
+            </Button.Background>
+        </Button>
+        <Button Style="{StaticResource ButtonStyle1}" Content="UNDO CHANGES" Height="85" HorizontalAlignment="Left" Margin="324,407,0,0" Name="btnUndoChanges" VerticalAlignment="Top" Width="150" FontSize="16" FontWeight="Bold" BorderBrush="White" Foreground="White" Click="btnUndoChanges_Click">
+            <Button.Background>
+                <SolidColorBrush />
+            </Button.Background>
+        </Button>
+        <Button Style="{StaticResource ButtonStyle1}"  Content="REMOVE ITEM" Height="85" HorizontalAlignment="Left" Margin="324,121,0,0" Name="UCbtnRemoveItem" VerticalAlignment="Top" Width="150" FontSize="16" FontWeight="Bold" BorderBrush="White" Foreground="White" Click="UCbtnRemoveItem_Click">
+            <Button.Background>
+                <SolidColorBrush />
+            </Button.Background>
+        </Button>
+        <Button Style="{StaticResource ButtonStyle1}" Content="ITEM DISCOUNT" Height="85" HorizontalAlignment="Left" Margin="324,218,0,0" Name="UCbtnShowModifiers" VerticalAlignment="Top" Width="150" FontSize="16" FontWeight="Bold" BorderBrush="White" Foreground="White" Click="UCbtnShowModifiers_Click">
+            <Button.Background>
+                <SolidColorBrush />
+            </Button.Background>
+        </Button>
+        <!--<Button Style="{StaticResource ButtonStyle1}" Content="MISC CHANGE" Height="85" HorizontalAlignment="Left" Margin="324,0,0,333" Name="UCbtnMiscChange" VerticalAlignment="Bottom" Width="150" FontSize="16" FontWeight="Bold" BorderBrush="White" Foreground="White" Click="UCbtnMiscChange_Click">
+            <Button.Background>
+                <SolidColorBrush />
+            </Button.Background>
+        </Button>-->
+        <Button Style="{StaticResource ButtonStyle1}" Content="PRICE CHANGE" Height="85" HorizontalAlignment="Left" Margin="324,312,0,0" Name="UCbtnPriceChange" VerticalAlignment="Top" Width="150" FontSize="16" FontWeight="Bold" BorderBrush="White" Foreground="White" Click="UCbtnPriceChange_Click">
+            <Button.Background>
+                <SolidColorBrush />
+            </Button.Background>
+        </Button>
+        <Button Style="{StaticResource ButtonStyle1}" Content="FINISHED" Height="85" HorizontalAlignment="Left" Margin="324,503,0,0" Name="UCbtnFinished" VerticalAlignment="Top" Width="150" FontSize="20" FontWeight="Bold" Background="#FF009600" BorderBrush="White" Foreground="White" Click="UCbtnFinished_Click" />
+        <Label HorizontalContentAlignment="Center" Content="CHANGE QUANTITY OR GUEST" Height="32" HorizontalAlignment="Left" Margin="21,12,0,0" Name="UCUpdatelblItemName" FontSize="18" FontWeight="Bold" VerticalAlignment="Top" Foreground="White" Width="440" />
+        <Label HorizontalContentAlignment="Center" Content="CHANGE QUANTITY OR GUEST" Height="32" HorizontalAlignment="Left" Margin="21,12,0,0" Name="UCUpdateSelectedItemNumber" FontSize="18" FontWeight="Bold" VerticalAlignment="Top" Foreground="White" Width="440"  Visibility="Hidden"/>
+
+        <StackPanel  Height="38" Orientation="Horizontal" HorizontalAlignment="Right" Margin="0,63,531,0" Name="stackPanel1" VerticalAlignment="Top" Width="454" Background="White">
+            <Label Content="ORIGINAL QUANTITY :" FontSize="12" FontWeight="Bold" Height="28" Name="label6" Foreground="Blue" VerticalContentAlignment="Center" />
+            <TextBox FontSize="12" FontWeight="Bold" Name="txtOriginalQuantity" Width="102" Foreground="Blue" VerticalContentAlignment="Center">
+                <TextBox.Background>
+                    <SolidColorBrush />
+                </TextBox.Background>
+                <TextBox.BorderBrush>
+                    <SolidColorBrush />
+                </TextBox.BorderBrush>
+            </TextBox>
+            <Label Content="NEW QUANTITY :" Height="28" Name="label4" FontSize="12" FontWeight="Bold"  Foreground="Blue" VerticalContentAlignment="Center" />
+           
+
+            <TextBox Name="txtNewQuantity" Width="91" FontSize="12" FontWeight="Bold" Foreground="Blue" VerticalContentAlignment="Center">
+                <TextBox.Background>
+                    <SolidColorBrush />
+                </TextBox.Background>
+                <TextBox.BorderBrush>
+                    <SolidColorBrush />
+                </TextBox.BorderBrush>
+            </TextBox>
+            <Label Content="0.00" Height="28" Name="UCLblItemRate" FontSize="12" FontWeight="Bold"  Foreground="Blue" VerticalContentAlignment="Center"  Visibility="Hidden"/>
+        </StackPanel>
+    </Grid>
+</UserControl>

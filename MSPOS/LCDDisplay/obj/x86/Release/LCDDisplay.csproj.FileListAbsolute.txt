@@ -1,0 +1,243 @@
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\LCDDisplay\obj\x86\Release\ResolveAssemblyReference.cache
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\LCDDisplay\obj\x86\Release\Page1.baml
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\LCDDisplay\obj\x86\Release\Page1.g.cs
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\LCDDisplay\obj\x86\Release\App.g.cs
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\LCDDisplay\obj\x86\Release\GeneratedInternalTypeHelper.g.cs
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\LCDDisplay\obj\x86\Release\LCDDisplay_MarkupCompile.cache
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\LCDDisplay\bin\Release\LCDDisplay.exe.config
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\LCDDisplay\bin\Release\LCDDisplay.exe
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\LCDDisplay\bin\Release\LCDDisplay.pdb
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\LCDDisplay\bin\Release\WpfPageTransitions.dll
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\LCDDisplay\bin\Release\WpfPageTransitions.pdb
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\LCDDisplay\obj\x86\Release\LCDDisplayScreen.g.cs
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\LCDDisplay\obj\x86\Release\LCDDisplay_MarkupCompile.lref
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\LCDDisplay\obj\x86\Release\LCDDisplayScreen.baml
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\LCDDisplay\obj\x86\Release\LCDDisplay.g.resources
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\LCDDisplay\obj\x86\Release\LCDDisplay.Properties.Resources.resources
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\LCDDisplay\obj\x86\Release\GenerateResource.read.1.tlog
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\LCDDisplay\obj\x86\Release\GenerateResource.write.1.tlog
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\LCDDisplay\obj\x86\Release\LCDDisplay.exe
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\LCDDisplay\obj\x86\Release\LCDDisplay.pdb
+D:\Anbu\LCDDisplay\bin\Release\LCDDisplay.exe.config
+D:\Anbu\LCDDisplay\bin\Release\LCDDisplay.exe
+D:\Anbu\LCDDisplay\bin\Release\LCDDisplay.pdb
+D:\Anbu\LCDDisplay\obj\x86\Release\Page1.baml
+D:\Anbu\LCDDisplay\obj\x86\Release\LCDDisplayScreen.g.cs
+D:\Anbu\LCDDisplay\obj\x86\Release\Page1.g.cs
+D:\Anbu\LCDDisplay\obj\x86\Release\App.g.cs
+D:\Anbu\LCDDisplay\obj\x86\Release\GeneratedInternalTypeHelper.g.cs
+D:\Anbu\LCDDisplay\obj\x86\Release\LCDDisplay_MarkupCompile.cache
+D:\Anbu\LCDDisplay\obj\x86\Release\LCDDisplay_MarkupCompile.lref
+D:\Anbu\LCDDisplay\obj\x86\Release\LCDDisplayScreen.baml
+D:\Anbu\LCDDisplay\obj\x86\Release\LCDDisplay.g.resources
+D:\Anbu\LCDDisplay\obj\x86\Release\LCDDisplay.Properties.Resources.resources
+D:\Anbu\LCDDisplay\obj\x86\Release\LCDDisplay.csproj.GenerateResource.Cache
+D:\Anbu\LCDDisplay\obj\x86\Release\LCDDisplay.exe
+D:\Anbu\LCDDisplay\obj\x86\Release\LCDDisplay.pdb
+D:\Anbu\LCDDisplay\obj\x86\Release\LCDDisplay.csprojResolveAssemblyReference.cache
+D:\parthi\MSPOS\LCDDisplay\bin\Release\LCDDisplay.exe.config
+D:\parthi\MSPOS\LCDDisplay\bin\Release\LCDDisplay.exe
+D:\parthi\MSPOS\LCDDisplay\bin\Release\LCDDisplay.pdb
+D:\parthi\MSPOS\LCDDisplay\obj\x86\Release\Page1.baml
+D:\parthi\MSPOS\LCDDisplay\obj\x86\Release\LCDDisplayScreen.g.cs
+D:\parthi\MSPOS\LCDDisplay\obj\x86\Release\Page1.g.cs
+D:\parthi\MSPOS\LCDDisplay\obj\x86\Release\App.g.cs
+D:\parthi\MSPOS\LCDDisplay\obj\x86\Release\GeneratedInternalTypeHelper.g.cs
+D:\parthi\MSPOS\LCDDisplay\obj\x86\Release\LCDDisplay_MarkupCompile.cache
+D:\parthi\MSPOS\LCDDisplay\obj\x86\Release\LCDDisplay_MarkupCompile.lref
+D:\parthi\MSPOS\LCDDisplay\obj\x86\Release\LCDDisplayScreen.baml
+D:\parthi\MSPOS\LCDDisplay\obj\x86\Release\LCDDisplay.g.resources
+D:\parthi\MSPOS\LCDDisplay\obj\x86\Release\LCDDisplay.Properties.Resources.resources
+D:\parthi\MSPOS\LCDDisplay\obj\x86\Release\LCDDisplay.csproj.GenerateResource.Cache
+D:\parthi\MSPOS\LCDDisplay\obj\x86\Release\LCDDisplay.exe
+D:\parthi\MSPOS\LCDDisplay\obj\x86\Release\LCDDisplay.pdb
+D:\parthi\MSPOS\LCDDisplay\obj\x86\Release\LCDDisplay.csprojResolveAssemblyReference.cache
+D:\Munish\MSPOS45days\LCDDisplay\bin\Release\LCDDisplay.exe.config
+D:\Munish\MSPOS45days\LCDDisplay\bin\Release\LCDDisplay.exe
+D:\Munish\MSPOS45days\LCDDisplay\bin\Release\LCDDisplay.pdb
+D:\Munish\MSPOS45days\LCDDisplay\obj\x86\Release\Page1.baml
+D:\Munish\MSPOS45days\LCDDisplay\obj\x86\Release\LCDDisplayScreen.g.cs
+D:\Munish\MSPOS45days\LCDDisplay\obj\x86\Release\Page1.g.cs
+D:\Munish\MSPOS45days\LCDDisplay\obj\x86\Release\App.g.cs
+D:\Munish\MSPOS45days\LCDDisplay\obj\x86\Release\GeneratedInternalTypeHelper.g.cs
+D:\Munish\MSPOS45days\LCDDisplay\obj\x86\Release\LCDDisplay_MarkupCompile.cache
+D:\Munish\MSPOS45days\LCDDisplay\obj\x86\Release\LCDDisplay_MarkupCompile.lref
+D:\Munish\MSPOS45days\LCDDisplay\obj\x86\Release\LCDDisplayScreen.baml
+D:\Munish\MSPOS45days\LCDDisplay\obj\x86\Release\LCDDisplay.g.resources
+D:\Munish\MSPOS45days\LCDDisplay\obj\x86\Release\LCDDisplay.Properties.Resources.resources
+D:\Munish\MSPOS45days\LCDDisplay\obj\x86\Release\LCDDisplay.csproj.GenerateResource.Cache
+D:\Munish\MSPOS45days\LCDDisplay\obj\x86\Release\LCDDisplay.exe
+D:\Munish\MSPOS45days\LCDDisplay\obj\x86\Release\LCDDisplay.pdb
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\LCDDisplay\bin\Release\LCDDisplay.exe.config
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\LCDDisplay\bin\Release\LCDDisplay.exe
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\LCDDisplay\bin\Release\LCDDisplay.pdb
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\LCDDisplay\obj\x86\Release\LCDDisplay.csprojResolveAssemblyReference.cache
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\LCDDisplay\obj\x86\Release\Page1.baml
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\LCDDisplay\obj\x86\Release\LCDDisplayScreen.g.cs
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\LCDDisplay\obj\x86\Release\Page1.g.cs
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\LCDDisplay\obj\x86\Release\App.g.cs
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\LCDDisplay\obj\x86\Release\GeneratedInternalTypeHelper.g.cs
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\LCDDisplay\obj\x86\Release\LCDDisplay_MarkupCompile.cache
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\LCDDisplay\obj\x86\Release\LCDDisplay_MarkupCompile.lref
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\LCDDisplay\obj\x86\Release\LCDDisplayScreen.baml
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\LCDDisplay\obj\x86\Release\LCDDisplay.g.resources
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\LCDDisplay\obj\x86\Release\LCDDisplay.Properties.Resources.resources
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\LCDDisplay\obj\x86\Release\LCDDisplay.csproj.GenerateResource.Cache
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\LCDDisplay\obj\x86\Release\LCDDisplay.exe
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\LCDDisplay\obj\x86\Release\LCDDisplay.pdb
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\LCDDisplay\bin\Release\LCDDisplay.exe.config
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\LCDDisplay\bin\Release\LCDDisplay.exe
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\LCDDisplay\bin\Release\LCDDisplay.pdb
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\LCDDisplay\obj\x86\Release\ResolveAssemblyReference.cache
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\LCDDisplay\obj\x86\Release\Page1.baml
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\LCDDisplay\obj\x86\Release\LCDDisplayScreen.g.cs
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\LCDDisplay\obj\x86\Release\Page1.g.cs
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\LCDDisplay\obj\x86\Release\App.g.cs
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\LCDDisplay\obj\x86\Release\GeneratedInternalTypeHelper.g.cs
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\LCDDisplay\obj\x86\Release\LCDDisplay_MarkupCompile.cache
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\LCDDisplay\obj\x86\Release\LCDDisplay_MarkupCompile.lref
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\LCDDisplay\obj\x86\Release\LCDDisplayScreen.baml
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\LCDDisplay\obj\x86\Release\LCDDisplay.g.resources
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\LCDDisplay\obj\x86\Release\LCDDisplay.Properties.Resources.resources
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\LCDDisplay\obj\x86\Release\GenerateResource.read.1.tlog
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\LCDDisplay\obj\x86\Release\GenerateResource.write.1.tlog
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\LCDDisplay\obj\x86\Release\LCDDisplay.exe
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\LCDDisplay\obj\x86\Release\LCDDisplay.pdb
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\LCDDisplay\bin\Release\LCDDisplay.exe.config
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\LCDDisplay\bin\Release\LCDDisplay.exe
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\LCDDisplay\bin\Release\LCDDisplay.pdb
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\LCDDisplay\obj\x86\Release\LCDDisplay.csprojResolveAssemblyReference.cache
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\LCDDisplay\obj\x86\Release\Page1.baml
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\LCDDisplay\obj\x86\Release\LCDDisplayScreen.g.cs
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\LCDDisplay\obj\x86\Release\Page1.g.cs
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\LCDDisplay\obj\x86\Release\App.g.cs
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\LCDDisplay\obj\x86\Release\GeneratedInternalTypeHelper.g.cs
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\LCDDisplay\obj\x86\Release\LCDDisplay_MarkupCompile.cache
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\LCDDisplay\obj\x86\Release\LCDDisplay_MarkupCompile.lref
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\LCDDisplay\obj\x86\Release\LCDDisplayScreen.baml
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\LCDDisplay\obj\x86\Release\LCDDisplay.g.resources
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\LCDDisplay\obj\x86\Release\LCDDisplay.Properties.Resources.resources
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\LCDDisplay\obj\x86\Release\LCDDisplay.csproj.GenerateResource.Cache
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\LCDDisplay\obj\x86\Release\LCDDisplay.exe
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\LCDDisplay\obj\x86\Release\LCDDisplay.pdb
+C:\Thulasi\Test\MSPOS1\LCDDisplay\bin\Release\LCDDisplay.exe.config
+C:\Thulasi\Test\MSPOS1\LCDDisplay\bin\Release\LCDDisplay.exe
+C:\Thulasi\Test\MSPOS1\LCDDisplay\bin\Release\LCDDisplay.pdb
+C:\Thulasi\Test\MSPOS1\LCDDisplay\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Thulasi\Test\MSPOS1\LCDDisplay\obj\x86\Release\Page1.baml
+C:\Thulasi\Test\MSPOS1\LCDDisplay\obj\x86\Release\LCDDisplayScreen.g.cs
+C:\Thulasi\Test\MSPOS1\LCDDisplay\obj\x86\Release\Page1.g.cs
+C:\Thulasi\Test\MSPOS1\LCDDisplay\obj\x86\Release\App.g.cs
+C:\Thulasi\Test\MSPOS1\LCDDisplay\obj\x86\Release\GeneratedInternalTypeHelper.g.cs
+C:\Thulasi\Test\MSPOS1\LCDDisplay\obj\x86\Release\LCDDisplay_MarkupCompile.cache
+C:\Thulasi\Test\MSPOS1\LCDDisplay\obj\x86\Release\LCDDisplay_MarkupCompile.lref
+C:\Thulasi\Test\MSPOS1\LCDDisplay\obj\x86\Release\LCDDisplayScreen.baml
+C:\Thulasi\Test\MSPOS1\LCDDisplay\obj\x86\Release\LCDDisplay.g.resources
+C:\Thulasi\Test\MSPOS1\LCDDisplay\obj\x86\Release\LCDDisplay.Properties.Resources.resources
+C:\Thulasi\Test\MSPOS1\LCDDisplay\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Thulasi\Test\MSPOS1\LCDDisplay\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Thulasi\Test\MSPOS1\LCDDisplay\obj\x86\Release\LCDDisplay.exe
+C:\Thulasi\Test\MSPOS1\LCDDisplay\obj\x86\Release\LCDDisplay.pdb
+E:\Thulasi\MSPOS1\LCDDisplay\bin\Release\LCDDisplay.exe.config
+E:\Thulasi\MSPOS1\LCDDisplay\bin\Release\LCDDisplay.exe
+E:\Thulasi\MSPOS1\LCDDisplay\bin\Release\LCDDisplay.pdb
+E:\Thulasi\MSPOS1\LCDDisplay\obj\x86\Release\LCDDisplay.csprojResolveAssemblyReference.cache
+E:\Thulasi\MSPOS1\LCDDisplay\obj\x86\Release\Page1.baml
+E:\Thulasi\MSPOS1\LCDDisplay\obj\x86\Release\LCDDisplayScreen.g.cs
+E:\Thulasi\MSPOS1\LCDDisplay\obj\x86\Release\Page1.g.cs
+E:\Thulasi\MSPOS1\LCDDisplay\obj\x86\Release\App.g.cs
+E:\Thulasi\MSPOS1\LCDDisplay\obj\x86\Release\GeneratedInternalTypeHelper.g.cs
+E:\Thulasi\MSPOS1\LCDDisplay\obj\x86\Release\LCDDisplay_MarkupCompile.cache
+E:\Thulasi\MSPOS1\LCDDisplay\obj\x86\Release\LCDDisplay_MarkupCompile.lref
+E:\Thulasi\MSPOS1\LCDDisplay\obj\x86\Release\LCDDisplayScreen.baml
+E:\Thulasi\MSPOS1\LCDDisplay\obj\x86\Release\LCDDisplay.g.resources
+E:\Thulasi\MSPOS1\LCDDisplay\obj\x86\Release\LCDDisplay.Properties.Resources.resources
+E:\Thulasi\MSPOS1\LCDDisplay\obj\x86\Release\LCDDisplay.csproj.GenerateResource.Cache
+E:\Thulasi\MSPOS1\LCDDisplay\obj\x86\Release\LCDDisplay.exe
+E:\Thulasi\MSPOS1\LCDDisplay\obj\x86\Release\LCDDisplay.pdb
+C:\Users\Hp\Desktop\MSPOS1\LCDDisplay\bin\Release\LCDDisplay.exe.config
+C:\Users\Hp\Desktop\MSPOS1\LCDDisplay\bin\Release\LCDDisplay.exe
+C:\Users\Hp\Desktop\MSPOS1\LCDDisplay\bin\Release\LCDDisplay.pdb
+C:\Users\Hp\Desktop\MSPOS1\LCDDisplay\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Hp\Desktop\MSPOS1\LCDDisplay\obj\x86\Release\Page1.baml
+C:\Users\Hp\Desktop\MSPOS1\LCDDisplay\obj\x86\Release\LCDDisplayScreen.g.cs
+C:\Users\Hp\Desktop\MSPOS1\LCDDisplay\obj\x86\Release\Page1.g.cs
+C:\Users\Hp\Desktop\MSPOS1\LCDDisplay\obj\x86\Release\App.g.cs
+C:\Users\Hp\Desktop\MSPOS1\LCDDisplay\obj\x86\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\Hp\Desktop\MSPOS1\LCDDisplay\obj\x86\Release\LCDDisplay_MarkupCompile.cache
+C:\Users\Hp\Desktop\MSPOS1\LCDDisplay\obj\x86\Release\LCDDisplay_MarkupCompile.lref
+C:\Users\Hp\Desktop\MSPOS1\LCDDisplay\obj\x86\Release\LCDDisplayScreen.baml
+C:\Users\Hp\Desktop\MSPOS1\LCDDisplay\obj\x86\Release\LCDDisplay.g.resources
+C:\Users\Hp\Desktop\MSPOS1\LCDDisplay\obj\x86\Release\LCDDisplay.Properties.Resources.resources
+C:\Users\Hp\Desktop\MSPOS1\LCDDisplay\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Hp\Desktop\MSPOS1\LCDDisplay\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Hp\Desktop\MSPOS1\LCDDisplay\obj\x86\Release\LCDDisplay.exe
+C:\Users\Hp\Desktop\MSPOS1\LCDDisplay\obj\x86\Release\LCDDisplay.pdb
+E:\Updated POS\MSPOS1\LCDDisplay\bin\Release\LCDDisplay.exe.config
+E:\Updated POS\MSPOS1\LCDDisplay\bin\Release\LCDDisplay.exe
+E:\Updated POS\MSPOS1\LCDDisplay\bin\Release\LCDDisplay.pdb
+E:\Updated POS\MSPOS1\LCDDisplay\obj\x86\Release\LCDDisplay.csprojResolveAssemblyReference.cache
+E:\Updated POS\MSPOS1\LCDDisplay\obj\x86\Release\Page1.baml
+E:\Updated POS\MSPOS1\LCDDisplay\obj\x86\Release\LCDDisplayScreen.g.cs
+E:\Updated POS\MSPOS1\LCDDisplay\obj\x86\Release\Page1.g.cs
+E:\Updated POS\MSPOS1\LCDDisplay\obj\x86\Release\App.g.cs
+E:\Updated POS\MSPOS1\LCDDisplay\obj\x86\Release\GeneratedInternalTypeHelper.g.cs
+E:\Updated POS\MSPOS1\LCDDisplay\obj\x86\Release\LCDDisplay_MarkupCompile.cache
+E:\Updated POS\MSPOS1\LCDDisplay\obj\x86\Release\LCDDisplay_MarkupCompile.lref
+E:\Updated POS\MSPOS1\LCDDisplay\obj\x86\Release\LCDDisplayScreen.baml
+E:\Updated POS\MSPOS1\LCDDisplay\obj\x86\Release\LCDDisplay.g.resources
+E:\Updated POS\MSPOS1\LCDDisplay\obj\x86\Release\LCDDisplay.Properties.Resources.resources
+E:\Updated POS\MSPOS1\LCDDisplay\obj\x86\Release\LCDDisplay.csproj.GenerateResource.Cache
+E:\Updated POS\MSPOS1\LCDDisplay\obj\x86\Release\LCDDisplay.exe
+E:\Updated POS\MSPOS1\LCDDisplay\obj\x86\Release\LCDDisplay.pdb
+E:\POS Final Version 5\MSPOS1\LCDDisplay\bin\Release\LCDDisplay.exe.config
+E:\POS Final Version 5\MSPOS1\LCDDisplay\bin\Release\LCDDisplay.exe
+E:\POS Final Version 5\MSPOS1\LCDDisplay\bin\Release\LCDDisplay.pdb
+E:\POS Final Version 5\MSPOS1\LCDDisplay\obj\x86\Release\LCDDisplay.csprojResolveAssemblyReference.cache
+E:\POS Final Version 5\MSPOS1\LCDDisplay\obj\x86\Release\Page1.baml
+E:\POS Final Version 5\MSPOS1\LCDDisplay\obj\x86\Release\LCDDisplayScreen.g.cs
+E:\POS Final Version 5\MSPOS1\LCDDisplay\obj\x86\Release\Page1.g.cs
+E:\POS Final Version 5\MSPOS1\LCDDisplay\obj\x86\Release\App.g.cs
+E:\POS Final Version 5\MSPOS1\LCDDisplay\obj\x86\Release\GeneratedInternalTypeHelper.g.cs
+E:\POS Final Version 5\MSPOS1\LCDDisplay\obj\x86\Release\LCDDisplay_MarkupCompile.cache
+E:\POS Final Version 5\MSPOS1\LCDDisplay\obj\x86\Release\LCDDisplay_MarkupCompile.lref
+E:\POS Final Version 5\MSPOS1\LCDDisplay\obj\x86\Release\LCDDisplayScreen.baml
+E:\POS Final Version 5\MSPOS1\LCDDisplay\obj\x86\Release\LCDDisplay.g.resources
+E:\POS Final Version 5\MSPOS1\LCDDisplay\obj\x86\Release\LCDDisplay.Properties.Resources.resources
+E:\POS Final Version 5\MSPOS1\LCDDisplay\obj\x86\Release\LCDDisplay.csproj.GenerateResource.Cache
+E:\POS Final Version 5\MSPOS1\LCDDisplay\obj\x86\Release\LCDDisplay.exe
+E:\POS Final Version 5\MSPOS1\LCDDisplay\obj\x86\Release\LCDDisplay.pdb
+E:\SETUP TESTING\MSPOS1\LCDDisplay\bin\Release\LCDDisplay.exe.config
+E:\SETUP TESTING\MSPOS1\LCDDisplay\bin\Release\LCDDisplay.exe
+E:\SETUP TESTING\MSPOS1\LCDDisplay\bin\Release\LCDDisplay.pdb
+E:\SETUP TESTING\MSPOS1\LCDDisplay\obj\x86\Release\LCDDisplay.csprojResolveAssemblyReference.cache
+E:\SETUP TESTING\MSPOS1\LCDDisplay\obj\x86\Release\Page1.baml
+E:\SETUP TESTING\MSPOS1\LCDDisplay\obj\x86\Release\LCDDisplayScreen.g.cs
+E:\SETUP TESTING\MSPOS1\LCDDisplay\obj\x86\Release\Page1.g.cs
+E:\SETUP TESTING\MSPOS1\LCDDisplay\obj\x86\Release\App.g.cs
+E:\SETUP TESTING\MSPOS1\LCDDisplay\obj\x86\Release\GeneratedInternalTypeHelper.g.cs
+E:\SETUP TESTING\MSPOS1\LCDDisplay\obj\x86\Release\LCDDisplay_MarkupCompile.cache
+E:\SETUP TESTING\MSPOS1\LCDDisplay\obj\x86\Release\LCDDisplay_MarkupCompile.lref
+E:\SETUP TESTING\MSPOS1\LCDDisplay\obj\x86\Release\LCDDisplayScreen.baml
+E:\SETUP TESTING\MSPOS1\LCDDisplay\obj\x86\Release\LCDDisplay.g.resources
+E:\SETUP TESTING\MSPOS1\LCDDisplay\obj\x86\Release\LCDDisplay.Properties.Resources.resources
+E:\SETUP TESTING\MSPOS1\LCDDisplay\obj\x86\Release\LCDDisplay.csproj.GenerateResource.Cache
+E:\SETUP TESTING\MSPOS1\LCDDisplay\obj\x86\Release\LCDDisplay.exe
+E:\SETUP TESTING\MSPOS1\LCDDisplay\obj\x86\Release\LCDDisplay.pdb
+E:\SETUP TESTING version 9\MSPOS1\LCDDisplay\bin\Release\LCDDisplay.exe.config
+E:\SETUP TESTING version 9\MSPOS1\LCDDisplay\bin\Release\LCDDisplay.exe
+E:\SETUP TESTING version 9\MSPOS1\LCDDisplay\bin\Release\LCDDisplay.pdb
+E:\SETUP TESTING version 9\MSPOS1\LCDDisplay\obj\x86\Release\LCDDisplay.csprojResolveAssemblyReference.cache
+E:\SETUP TESTING version 9\MSPOS1\LCDDisplay\obj\x86\Release\Page1.baml
+E:\SETUP TESTING version 9\MSPOS1\LCDDisplay\obj\x86\Release\LCDDisplayScreen.g.cs
+E:\SETUP TESTING version 9\MSPOS1\LCDDisplay\obj\x86\Release\Page1.g.cs
+E:\SETUP TESTING version 9\MSPOS1\LCDDisplay\obj\x86\Release\App.g.cs
+E:\SETUP TESTING version 9\MSPOS1\LCDDisplay\obj\x86\Release\GeneratedInternalTypeHelper.g.cs
+E:\SETUP TESTING version 9\MSPOS1\LCDDisplay\obj\x86\Release\LCDDisplay_MarkupCompile.cache
+E:\SETUP TESTING version 9\MSPOS1\LCDDisplay\obj\x86\Release\LCDDisplay_MarkupCompile.lref
+E:\SETUP TESTING version 9\MSPOS1\LCDDisplay\obj\x86\Release\LCDDisplayScreen.baml
+E:\SETUP TESTING version 9\MSPOS1\LCDDisplay\obj\x86\Release\LCDDisplay.g.resources
+E:\SETUP TESTING version 9\MSPOS1\LCDDisplay\obj\x86\Release\LCDDisplay.Properties.Resources.resources
+E:\SETUP TESTING version 9\MSPOS1\LCDDisplay\obj\x86\Release\LCDDisplay.csproj.GenerateResource.Cache
+E:\SETUP TESTING version 9\MSPOS1\LCDDisplay\obj\x86\Release\LCDDisplay.exe
+E:\SETUP TESTING version 9\MSPOS1\LCDDisplay\obj\x86\Release\LCDDisplay.pdb

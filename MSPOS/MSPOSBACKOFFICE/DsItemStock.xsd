@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DsItemStock" targetNamespace="http://tempuri.org/DsItemStock.xsd" xmlns:mstns="http://tempuri.org/DsItemStock.xsd" xmlns="http://tempuri.org/DsItemStock.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DsItemStock" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="DsItemStock" msprop:Generator_UserDSName="DsItemStock">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="DtItemStock" msprop:Generator_TableClassName="DtItemStockDataTable" msprop:Generator_TableVarName="tableDtItemStock" msprop:Generator_RowChangedName="DtItemStockRowChanged" msprop:Generator_TablePropName="DtItemStock" msprop:Generator_RowDeletingName="DtItemStockRowDeleting" msprop:Generator_RowChangingName="DtItemStockRowChanging" msprop:Generator_RowEvHandlerName="DtItemStockRowChangeEventHandler" msprop:Generator_RowDeletedName="DtItemStockRowDeleted" msprop:Generator_RowClassName="DtItemStockRow" msprop:Generator_UserTableName="DtItemStock" msprop:Generator_RowEvArgName="DtItemStockRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Code" msprop:Generator_ColumnVarNameInTable="columnCode" msprop:Generator_ColumnPropNameInRow="Code" msprop:Generator_ColumnPropNameInTable="CodeColumn" msprop:Generator_UserColumnName="Code" type="xs:string" minOccurs="0" />
+              <xs:element name="Name" msprop:Generator_ColumnVarNameInTable="columnName" msprop:Generator_ColumnPropNameInRow="Name" msprop:Generator_ColumnPropNameInTable="NameColumn" msprop:Generator_UserColumnName="Name" type="xs:string" minOccurs="0" />
+              <xs:element name="OpenQty" msprop:Generator_ColumnVarNameInTable="columnOpenQty" msprop:Generator_ColumnPropNameInRow="OpenQty" msprop:Generator_ColumnPropNameInTable="OpenQtyColumn" msprop:Generator_UserColumnName="OpenQty" type="xs:string" minOccurs="0" />
+              <xs:element name="PurchaseQty" msprop:Generator_ColumnVarNameInTable="columnPurchaseQty" msprop:Generator_ColumnPropNameInRow="PurchaseQty" msprop:Generator_ColumnPropNameInTable="PurchaseQtyColumn" msprop:Generator_UserColumnName="PurchaseQty" type="xs:string" minOccurs="0" />
+              <xs:element name="SalesQty" msprop:Generator_ColumnVarNameInTable="columnSalesQty" msprop:Generator_ColumnPropNameInRow="SalesQty" msprop:Generator_ColumnPropNameInTable="SalesQtyColumn" msprop:Generator_UserColumnName="SalesQty" type="xs:string" minOccurs="0" />
+              <xs:element name="CloseQty" msprop:Generator_ColumnVarNameInTable="columnCloseQty" msprop:Generator_ColumnPropNameInRow="CloseQty" msprop:Generator_ColumnPropNameInTable="CloseQtyColumn" msprop:Generator_UserColumnName="CloseQty" type="xs:string" minOccurs="0" />
+              <xs:element name="Rate" msprop:Generator_ColumnVarNameInTable="columnRate" msprop:Generator_ColumnPropNameInRow="Rate" msprop:Generator_ColumnPropNameInTable="RateColumn" msprop:Generator_UserColumnName="Rate" type="xs:string" minOccurs="0" />
+              <xs:element name="Value" msprop:Generator_ColumnVarNameInTable="columnValue" msprop:Generator_ColumnPropNameInRow="Value" msprop:Generator_ColumnPropNameInTable="ValueColumn" msprop:Generator_UserColumnName="Value" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

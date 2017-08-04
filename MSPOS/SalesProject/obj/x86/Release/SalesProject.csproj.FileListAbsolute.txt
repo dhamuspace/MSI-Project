@@ -1,0 +1,1628 @@
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\SalesProject\obj\x86\Release\CASHDRAWERS.baml
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\SalesProject\obj\x86\Release\ColorPicker.baml
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\SalesProject\obj\x86\Release\EndOfDay.baml
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\SalesProject\obj\x86\Release\FormSettle.baml
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\SalesProject\obj\x86\Release\FrmDiscount.baml
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\SalesProject\obj\x86\Release\FrmHold.baml
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\SalesProject\obj\x86\Release\FrmLogin.baml
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\SalesProject\obj\x86\Release\FrmMain.baml
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\SalesProject\obj\x86\Release\FrmManagerMain.baml
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\SalesProject\obj\x86\Release\FrmNumberBoard.baml
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\SalesProject\obj\x86\Release\GroupItemSetting.baml
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\SalesProject\obj\x86\Release\MINI REPORT.baml
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\SalesProject\obj\x86\Release\Preview.baml
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\SalesProject\obj\x86\Release\RESETCASHDRAW.baml
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\SalesProject\obj\x86\Release\Window1.baml
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\SalesProject\obj\x86\Release\Window2.baml
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\SalesProject\obj\x86\Release\CASHDRAWERS.g.cs
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\SalesProject\obj\x86\Release\ColorDialog.g.cs
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\SalesProject\obj\x86\Release\ColorPicker.g.cs
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\SalesProject\obj\x86\Release\EndOfDay.g.cs
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\SalesProject\obj\x86\Release\FormSettle.g.cs
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\SalesProject\obj\x86\Release\FrmDiscount.g.cs
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\SalesProject\obj\x86\Release\FrmHold.g.cs
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\SalesProject\obj\x86\Release\FrmLogin.g.cs
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\SalesProject\obj\x86\Release\FrmMain.g.cs
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\SalesProject\obj\x86\Release\FrmManagerMain.g.cs
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\SalesProject\obj\x86\Release\FrmNumberBoard.g.cs
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\SalesProject\obj\x86\Release\FrmSale3Report.g.cs
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\SalesProject\obj\x86\Release\GroupItemSetting.g.cs
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\SalesProject\obj\x86\Release\MINI REPORT.g.cs
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\SalesProject\obj\x86\Release\Preview.g.cs
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\SalesProject\obj\x86\Release\RESETCASHDRAW.g.cs
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\SalesProject\obj\x86\Release\SalesCreation.g.cs
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\SalesProject\obj\x86\Release\Window1.g.cs
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\SalesProject\obj\x86\Release\Window2.g.cs
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\SalesProject\obj\x86\Release\App.g.cs
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\SalesProject\obj\x86\Release\SalesProject_Content.g.cs
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\SalesProject\obj\x86\Release\GeneratedInternalTypeHelper.g.cs
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\SalesProject\obj\x86\Release\SalesProject_MarkupCompile.cache
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\SalesProject\obj\x86\Release\SalesProject_MarkupCompile.lref
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\SalesProject\bin\Release\SalesProject.exe.config
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\SalesProject\bin\Release\SalesProject.exe
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\SalesProject\bin\Release\SalesProject.pdb
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\SalesProject\bin\Release\TabStripControlLibrary.dll
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\SalesProject\bin\Release\WPFColorPickerLib.dll
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\SalesProject\bin\Release\WPFColorPickerLib.pdb
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\SalesProject\obj\x86\Release\ColorDialog.baml
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\SalesProject\obj\x86\Release\FrmSale3Report.baml
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\SalesProject\obj\x86\Release\SalesCreation.baml
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\SalesProject\obj\x86\Release\SalesProject.g.resources
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\SalesProject\obj\x86\Release\SalesProject.addDiscount.resources
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\SalesProject\obj\x86\Release\SalesProject.Brand.resources
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\SalesProject\obj\x86\Release\SalesProject.ChkingDataGrid.resources
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\SalesProject\obj\x86\Release\SalesProject.ChkingGrid.resources
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\SalesProject\obj\x86\Release\SalesProject.CollapsiblePanel.resources
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\SalesProject\obj\x86\Release\SalesProject.frmBackOffice1.resources
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\SalesProject\obj\x86\Release\SalesProject.frmChecking.resources
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\SalesProject\obj\x86\Release\SalesProject.frmDailySalesSummary.resources
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\SalesProject\obj\x86\Release\SalesProject.frmDiscount_set.resources
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\SalesProject\obj\x86\Release\SalesProject.frmGroupCreation.resources
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\SalesProject\obj\x86\Release\SalesProject.frmItemView.resources
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\SalesProject\obj\x86\Release\SalesProject.frmItemWiseSalesSummary.resources
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\SalesProject\obj\x86\Release\SalesProject.Model.resources
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\SalesProject\obj\x86\Release\SalesProject._ExtraForm.frmQtyaNRate.resources
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\SalesProject\obj\x86\Release\SalesProject.frmSalesAlteration.resources
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\SalesProject\obj\x86\Release\SalesProject.frmSalesSummary.resources
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\SalesProject\obj\x86\Release\SalesProject.frmSalesSummaryDetails.resources
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\SalesProject\obj\x86\Release\SalesProject.frmTaxCreation.resources
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\SalesProject\obj\x86\Release\SalesProject.InfoForm.resources
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\SalesProject\obj\x86\Release\SalesProject.Itemalteration.resources
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\SalesProject\obj\x86\Release\SalesProject.ItemCreations.resources
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\SalesProject\obj\x86\Release\SalesProject.ItemFilter.resources
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\SalesProject\obj\x86\Release\SalesProject.ItemLedger.resources
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\SalesProject\obj\x86\Release\SalesProject.ItemList.resources
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\SalesProject\obj\x86\Release\SalesProject.ListOfPurchase.resources
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\SalesProject\obj\x86\Release\SalesProject.MonthlystockBreakeUp.resources
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\SalesProject\obj\x86\Release\SalesProject.MyMessageBox.resources
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\SalesProject\obj\x86\Release\SalesProject.MyMessageBox1.resources
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\SalesProject\obj\x86\Release\SalesProject.Properties.Resources.resources
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\SalesProject\obj\x86\Release\SalesProject.Rack.resources
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\SalesProject\obj\x86\Release\SalesProject.Receipt.resources
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\SalesProject\obj\x86\Release\SalesProject.StckAdjDisplay.resources
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\SalesProject\obj\x86\Release\SalesProject.StockAdjustCreate.resources
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\SalesProject\obj\x86\Release\SalesProject.StockAdjustmentAlteration.resources
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\SalesProject\obj\x86\Release\SalesProject.StocReport.resources
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\SalesProject\obj\x86\Release\SalesProject.unhideform.resources
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\SalesProject\obj\x86\Release\SalesProject.Unit.resources
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\SalesProject\obj\x86\Release\RdlCompile.cache
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\SalesProject\obj\x86\Release\RdlCompile.compiled
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\SalesProject\obj\x86\Release\SalesProject.exe
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\SalesProject\obj\x86\Release\SalesProject.pdb
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\SalesProject\obj\x86\Release\frmCOMPortChk.baml
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\SalesProject\obj\x86\Release\frmCOMPortChk.g.cs
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\SalesProject\obj\x86\Release\SalesProject.frmLedgerCreation.resources
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\SalesProject\obj\x86\Release\SalesProject._Ledger.frmLedgerGroupCreate.resources
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\SalesProject\obj\x86\Release\SalesProject.frmWeightScale.resources
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\SalesProject\obj\x86\Release\SalesProject._Ledger.LedgerAlteration.resources
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\SalesProject\obj\x86\Release\SalesProject._Ledger.LedgerCreation.resources
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\SalesProject\obj\x86\Release\SalesProject.PurchaseEntry1.resources
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\SalesProject\obj\x86\Release\SalesProject.frmPeripheralSettings.resources
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\SalesProject\obj\x86\Release\frmVoid.g.cs
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\SalesProject\obj\x86\Release\frmVoid.baml
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\SalesProject\obj\x86\Release\frmKeyBoard.baml
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\SalesProject\obj\x86\Release\frmKeyBoard.g.cs
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\SalesProject\obj\x86\Release\SalesProject.CounterCreation.resources
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\SalesProject\obj\x86\Release\SalesProject.Reorganize.resources
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\SalesProject\obj\x86\Release\SalesProject.SalesBOM.resources
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\SalesProject\obj\x86\Release\SalesProject.SalesBOMAlterion.resources
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\SalesProject\obj\x86\Release\SalesProject.SalesBOMIssueCreation.resources
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\SalesProject\obj\x86\Release\SalesProject.SalesBomIssueDisplay.resources
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\SalesProject\obj\x86\Release\SalesProject.SalesBOMMasterAltertion.resources
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\SalesProject\obj\x86\Release\SalesProject.UserAlteration.resources
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\SalesProject\obj\x86\Release\SalesProject.UserCreation.resources
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\SalesProject\obj\x86\Release\SalesProject.PurchaseTypeCreation.resources
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\SalesProject\obj\x86\Release\SalesProject.frmSalesReturnAlteration.resources
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\SalesProject\obj\x86\Release\chkingImage.baml
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\SalesProject\obj\x86\Release\chkingImage.g.cs
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\SalesProject\obj\x86\Release\SalesProject.frmRemoveitemdetailsSummary.resources
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\SalesProject\obj\x86\Release\ChkingForm.baml
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\SalesProject\obj\x86\Release\ChkingForm.g.cs
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\SalesProject\obj\x86\Release\SalesCreationSkin1.g.cs
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\SalesProject\obj\x86\Release\SalesCreationSkin1.baml
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\SalesProject\obj\x86\Release\SalesProject.frmBarcodeSettings.resources
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\SalesProject\obj\x86\Release\SalesProject.FrmBarcodePrinter.resources
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\SalesProject\obj\x86\Release\SalesProject.ItemImport.resources
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\SalesProject\obj\x86\Release\CreditCard.baml
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\SalesProject\obj\x86\Release\CreditCard.g.cs
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\SalesProject\obj\x86\Release\SalesProject.FrmCreditCardCreation.resources
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\SalesProject\obj\x86\Release\frmHouseAccount.baml
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\SalesProject\obj\x86\Release\frmHouseAccount.g.cs
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\SalesProject\obj\x86\Release\SalesProject.FrmLedgerAlteration.resources
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\SalesProject\obj\x86\Release\SalesProject.FrmPurchaseSalesprofit.resources
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\SalesProject\bin\Release\itextsharp.dll
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\SalesProject\bin\Release\itextsharp.pdfa.dll
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\SalesProject\bin\Release\itextsharp.xtra.dll
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\SalesProject\obj\x86\Release\SalesProject.Promotion.resources
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\SalesProject\obj\x86\Release\SalesProject.Promotionalteration.resources
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\SalesProject\obj\x86\Release\ResolveAssemblyReference.cache
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\SalesProject\obj\x86\Release\SalesProject.ControlSettings.resources
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\SalesProject\obj\x86\Release\GenerateResource.read.1.tlog
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\SalesProject\obj\x86\Release\GenerateResource.write.1.tlog
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\SalesProject\bin\Release\ClosedXML.dll
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\SalesProject\bin\Release\MSPOSBACKOFFICE.exe
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\SalesProject\bin\Release\MSPOSBACKOFFICE.pdb
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\SalesProject\obj\x86\Release\FrmActivation.baml
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\SalesProject\obj\x86\Release\UCKeyBoradAct.baml
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\SalesProject\obj\x86\Release\FrmActivation.g.cs
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\SalesProject\obj\x86\Release\UCKeyBoradAct.g.cs
+D:\parthi\MSPOS\SalesProject\bin\Release\SalesProject.exe.config
+D:\parthi\MSPOS\SalesProject\obj\x86\Release\SalesProject.exe
+D:\parthi\MSPOS\SalesProject\obj\x86\Release\SalesProject.pdb
+D:\parthi\MSPOS\SalesProject\bin\Release\SalesProject.exe
+D:\parthi\MSPOS\SalesProject\bin\Release\SalesProject.pdb
+D:\parthi\MSPOS\SalesProject\bin\Release\MSPOSBACKOFFICE.exe
+D:\parthi\MSPOS\SalesProject\bin\Release\TabStripControlLibrary.dll
+D:\parthi\MSPOS\SalesProject\bin\Release\MSPOSBACKOFFICE.pdb
+D:\parthi\MSPOS\SalesProject\obj\x86\Release\SalesProject.csprojResolveAssemblyReference.cache
+D:\parthi\MSPOS\SalesProject\obj\x86\Release\CreditCard.baml
+D:\parthi\MSPOS\SalesProject\obj\x86\Release\FrmActivation.baml
+D:\parthi\MSPOS\SalesProject\obj\x86\Release\FrmHold.baml
+D:\parthi\MSPOS\SalesProject\obj\x86\Release\frmHouseAccount.baml
+D:\parthi\MSPOS\SalesProject\obj\x86\Release\frmKeyBoard.baml
+D:\parthi\MSPOS\SalesProject\obj\x86\Release\UCItemDisplayMaster.baml
+D:\parthi\MSPOS\SalesProject\obj\x86\Release\UCItemUpdateQtyNRate.baml
+D:\parthi\MSPOS\SalesProject\obj\x86\Release\UCKeyBoradAct.baml
+D:\parthi\MSPOS\SalesProject\obj\x86\Release\UCPriceChange.baml
+D:\parthi\MSPOS\SalesProject\obj\x86\Release\CreditCard.g.cs
+D:\parthi\MSPOS\SalesProject\obj\x86\Release\FrmActivation.g.cs
+D:\parthi\MSPOS\SalesProject\obj\x86\Release\FrmHold.g.cs
+D:\parthi\MSPOS\SalesProject\obj\x86\Release\frmHouseAccount.g.cs
+D:\parthi\MSPOS\SalesProject\obj\x86\Release\frmKeyBoard.g.cs
+D:\parthi\MSPOS\SalesProject\obj\x86\Release\UCCreditCard.g.cs
+D:\parthi\MSPOS\SalesProject\obj\x86\Release\UCFormSettle.g.cs
+D:\parthi\MSPOS\SalesProject\obj\x86\Release\UCfrmCommission.g.cs
+D:\parthi\MSPOS\SalesProject\obj\x86\Release\UCFrmDiscount.g.cs
+D:\parthi\MSPOS\SalesProject\obj\x86\Release\UCfrmHouseAccount.g.cs
+D:\parthi\MSPOS\SalesProject\obj\x86\Release\UCFrmLogin.g.cs
+D:\parthi\MSPOS\SalesProject\obj\x86\Release\UCFrmManagerMain.g.cs
+D:\parthi\MSPOS\SalesProject\obj\x86\Release\UCfrmPayment.g.cs
+D:\parthi\MSPOS\SalesProject\obj\x86\Release\UCFrmSplit.g.cs
+D:\parthi\MSPOS\SalesProject\obj\x86\Release\UCfrmVoid.g.cs
+D:\parthi\MSPOS\SalesProject\obj\x86\Release\UCItemDisplayMaster.g.cs
+D:\parthi\MSPOS\SalesProject\obj\x86\Release\UCItemUpdateQtyNRate.g.cs
+D:\parthi\MSPOS\SalesProject\obj\x86\Release\UCKeyBoradAct.g.cs
+D:\parthi\MSPOS\SalesProject\obj\x86\Release\UCMain.g.cs
+D:\parthi\MSPOS\SalesProject\obj\x86\Release\UCPriceChange.g.cs
+D:\parthi\MSPOS\SalesProject\obj\x86\Release\UCSalesCreation.g.cs
+D:\parthi\MSPOS\SalesProject\obj\x86\Release\App.g.cs
+D:\parthi\MSPOS\SalesProject\obj\x86\Release\SalesProject_Content.g.cs
+D:\parthi\MSPOS\SalesProject\obj\x86\Release\GeneratedInternalTypeHelper.g.cs
+D:\parthi\MSPOS\SalesProject\obj\x86\Release\SalesProject_MarkupCompile.cache
+D:\parthi\MSPOS\SalesProject\obj\x86\Release\SalesProject_MarkupCompile.lref
+D:\parthi\MSPOS\SalesProject\obj\x86\Release\UCCreditCard.baml
+D:\parthi\MSPOS\SalesProject\obj\x86\Release\UCFormSettle.baml
+D:\parthi\MSPOS\SalesProject\obj\x86\Release\UCfrmCommission.baml
+D:\parthi\MSPOS\SalesProject\obj\x86\Release\UCFrmDiscount.baml
+D:\parthi\MSPOS\SalesProject\obj\x86\Release\UCfrmHouseAccount.baml
+D:\parthi\MSPOS\SalesProject\obj\x86\Release\UCFrmLogin.baml
+D:\parthi\MSPOS\SalesProject\obj\x86\Release\UCFrmManagerMain.baml
+D:\parthi\MSPOS\SalesProject\obj\x86\Release\UCfrmPayment.baml
+D:\parthi\MSPOS\SalesProject\obj\x86\Release\UCFrmSplit.baml
+D:\parthi\MSPOS\SalesProject\obj\x86\Release\UCfrmVoid.baml
+D:\parthi\MSPOS\SalesProject\obj\x86\Release\UCMain.baml
+D:\parthi\MSPOS\SalesProject\obj\x86\Release\UCSalesCreation.baml
+D:\parthi\MSPOS\SalesProject\obj\x86\Release\SalesProject.g.resources
+D:\parthi\MSPOS\SalesProject\obj\x86\Release\SalesProject.addDiscount.resources
+D:\parthi\MSPOS\SalesProject\obj\x86\Release\SalesProject.Brand.resources
+D:\parthi\MSPOS\SalesProject\obj\x86\Release\SalesProject.ChkingDataGrid.resources
+D:\parthi\MSPOS\SalesProject\obj\x86\Release\SalesProject.CollapsiblePanel.resources
+D:\parthi\MSPOS\SalesProject\obj\x86\Release\SalesProject.ControlSettings.resources
+D:\parthi\MSPOS\SalesProject\obj\x86\Release\SalesProject.CounterCreation.resources
+D:\parthi\MSPOS\SalesProject\obj\x86\Release\SalesProject.frmBackOffice1.resources
+D:\parthi\MSPOS\SalesProject\obj\x86\Release\SalesProject.FrmBarcodePrinter.resources
+D:\parthi\MSPOS\SalesProject\obj\x86\Release\SalesProject.frmBarcodeSettings.resources
+D:\parthi\MSPOS\SalesProject\obj\x86\Release\SalesProject.frmDailySalesSummary.resources
+D:\parthi\MSPOS\SalesProject\obj\x86\Release\SalesProject.frmDiscount_set.resources
+D:\parthi\MSPOS\SalesProject\obj\x86\Release\SalesProject.frmGroupCreation.resources
+D:\parthi\MSPOS\SalesProject\obj\x86\Release\SalesProject.frmItemView.resources
+D:\parthi\MSPOS\SalesProject\obj\x86\Release\SalesProject.frmItemWiseSalesSummary.resources
+D:\parthi\MSPOS\SalesProject\obj\x86\Release\SalesProject.FrmLedgerAlteration.resources
+D:\parthi\MSPOS\SalesProject\obj\x86\Release\SalesProject.frmLedgerCreation.resources
+D:\parthi\MSPOS\SalesProject\obj\x86\Release\SalesProject.Model.resources
+D:\parthi\MSPOS\SalesProject\obj\x86\Release\SalesProject.frmPeripheralSettings.resources
+D:\parthi\MSPOS\SalesProject\obj\x86\Release\SalesProject.FrmPurchaseSalesprofit.resources
+D:\parthi\MSPOS\SalesProject\obj\x86\Release\SalesProject._ExtraForm.frmQtyaNRate.resources
+D:\parthi\MSPOS\SalesProject\obj\x86\Release\SalesProject.frmRemoveitemdetailsSummary.resources
+D:\parthi\MSPOS\SalesProject\obj\x86\Release\SalesProject.frmSalesAlteration.resources
+D:\parthi\MSPOS\SalesProject\obj\x86\Release\SalesProject.frmSalesReturnAlteration.resources
+D:\parthi\MSPOS\SalesProject\obj\x86\Release\SalesProject.frmSalesSummary.resources
+D:\parthi\MSPOS\SalesProject\obj\x86\Release\SalesProject.frmSalesSummaryDetails.resources
+D:\parthi\MSPOS\SalesProject\obj\x86\Release\SalesProject.frmTaxCreation.resources
+D:\parthi\MSPOS\SalesProject\obj\x86\Release\SalesProject.InfoForm.resources
+D:\parthi\MSPOS\SalesProject\obj\x86\Release\SalesProject.Itemalteration.resources
+D:\parthi\MSPOS\SalesProject\obj\x86\Release\SalesProject.ItemCreations.resources
+D:\parthi\MSPOS\SalesProject\obj\x86\Release\SalesProject.ItemFilter.resources
+D:\parthi\MSPOS\SalesProject\obj\x86\Release\SalesProject.ItemImport.resources
+D:\parthi\MSPOS\SalesProject\obj\x86\Release\SalesProject.ItemLedger.resources
+D:\parthi\MSPOS\SalesProject\obj\x86\Release\SalesProject.ItemList.resources
+D:\parthi\MSPOS\SalesProject\obj\x86\Release\SalesProject.ListOfPurchase.resources
+D:\parthi\MSPOS\SalesProject\obj\x86\Release\SalesProject.MonthlystockBreakeUp.resources
+D:\parthi\MSPOS\SalesProject\obj\x86\Release\SalesProject.MyMessageBox.resources
+D:\parthi\MSPOS\SalesProject\obj\x86\Release\SalesProject.MyMessageBox1.resources
+D:\parthi\MSPOS\SalesProject\obj\x86\Release\SalesProject.Promotion.resources
+D:\parthi\MSPOS\SalesProject\obj\x86\Release\SalesProject.Promotionalteration.resources
+D:\parthi\MSPOS\SalesProject\obj\x86\Release\SalesProject.Properties.Resources.resources
+D:\parthi\MSPOS\SalesProject\obj\x86\Release\SalesProject.PurchaseEntry1.resources
+D:\parthi\MSPOS\SalesProject\obj\x86\Release\SalesProject.PurchaseTypeCreation.resources
+D:\parthi\MSPOS\SalesProject\obj\x86\Release\SalesProject.Rack.resources
+D:\parthi\MSPOS\SalesProject\obj\x86\Release\SalesProject.Receipt.resources
+D:\parthi\MSPOS\SalesProject\obj\x86\Release\SalesProject.Reorganize.resources
+D:\parthi\MSPOS\SalesProject\obj\x86\Release\SalesProject.SalesBOM.resources
+D:\parthi\MSPOS\SalesProject\obj\x86\Release\SalesProject.SalesBOMAlterion.resources
+D:\parthi\MSPOS\SalesProject\obj\x86\Release\SalesProject.SalesBOMIssueCreation.resources
+D:\parthi\MSPOS\SalesProject\obj\x86\Release\SalesProject.SalesBomIssueDisplay.resources
+D:\parthi\MSPOS\SalesProject\obj\x86\Release\SalesProject.SalesBOMMasterAltertion.resources
+D:\parthi\MSPOS\SalesProject\obj\x86\Release\SalesProject.StckAdjDisplay.resources
+D:\parthi\MSPOS\SalesProject\obj\x86\Release\SalesProject.StockAdjustCreate.resources
+D:\parthi\MSPOS\SalesProject\obj\x86\Release\SalesProject.StockAdjustmentAlteration.resources
+D:\parthi\MSPOS\SalesProject\obj\x86\Release\SalesProject.StocReport.resources
+D:\parthi\MSPOS\SalesProject\obj\x86\Release\SalesProject.unhideform.resources
+D:\parthi\MSPOS\SalesProject\obj\x86\Release\SalesProject.Unit.resources
+D:\parthi\MSPOS\SalesProject\obj\x86\Release\SalesProject.UserAlteration.resources
+D:\parthi\MSPOS\SalesProject\obj\x86\Release\SalesProject.UserCreation.resources
+D:\parthi\MSPOS\SalesProject\obj\x86\Release\SalesProject.csproj.GenerateResource.Cache
+D:\parthi\MSPOS\SalesProject\obj\x86\Release\RdlCompile.cache
+D:\parthi\MSPOS\SalesProject\obj\x86\Release\RdlCompile.compiled
+D:\parthi\MSPOS\SalesProject\obj\x86\Release\SalesProject.frmException.resources
+D:\Munish\MSPOS45days\SalesProject\bin\Release\SalesProject.exe.config
+D:\Munish\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.exe
+D:\Munish\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.pdb
+D:\Munish\MSPOS45days\SalesProject\bin\Release\SalesProject.exe
+D:\Munish\MSPOS45days\SalesProject\bin\Release\SalesProject.pdb
+D:\Munish\MSPOS45days\SalesProject\bin\Release\MSPOSBACKOFFICE.exe
+D:\Munish\MSPOS45days\SalesProject\bin\Release\TabStripControlLibrary.dll
+D:\Munish\MSPOS45days\SalesProject\bin\Release\MSPOSBACKOFFICE.pdb
+D:\Munish\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.csprojResolveAssemblyReference.cache
+D:\Munish\MSPOS45days\SalesProject\obj\x86\Release\CreditCard.baml
+D:\Munish\MSPOS45days\SalesProject\obj\x86\Release\FrmActivation.baml
+D:\Munish\MSPOS45days\SalesProject\obj\x86\Release\FrmHold.baml
+D:\Munish\MSPOS45days\SalesProject\obj\x86\Release\frmHouseAccount.baml
+D:\Munish\MSPOS45days\SalesProject\obj\x86\Release\frmKeyBoard.baml
+D:\Munish\MSPOS45days\SalesProject\obj\x86\Release\UCItemDisplayMaster.baml
+D:\Munish\MSPOS45days\SalesProject\obj\x86\Release\UCItemUpdateQtyNRate.baml
+D:\Munish\MSPOS45days\SalesProject\obj\x86\Release\UCKeyBoradAct.baml
+D:\Munish\MSPOS45days\SalesProject\obj\x86\Release\UCPriceChange.baml
+D:\Munish\MSPOS45days\SalesProject\obj\x86\Release\CreditCard.g.cs
+D:\Munish\MSPOS45days\SalesProject\obj\x86\Release\FrmActivation.g.cs
+D:\Munish\MSPOS45days\SalesProject\obj\x86\Release\FrmHold.g.cs
+D:\Munish\MSPOS45days\SalesProject\obj\x86\Release\frmHouseAccount.g.cs
+D:\Munish\MSPOS45days\SalesProject\obj\x86\Release\frmKeyBoard.g.cs
+D:\Munish\MSPOS45days\SalesProject\obj\x86\Release\UCCreditCard.g.cs
+D:\Munish\MSPOS45days\SalesProject\obj\x86\Release\UCFormSettle.g.cs
+D:\Munish\MSPOS45days\SalesProject\obj\x86\Release\UCfrmCommission.g.cs
+D:\Munish\MSPOS45days\SalesProject\obj\x86\Release\UCFrmDiscount.g.cs
+D:\Munish\MSPOS45days\SalesProject\obj\x86\Release\UCfrmHouseAccount.g.cs
+D:\Munish\MSPOS45days\SalesProject\obj\x86\Release\UCFrmLogin.g.cs
+D:\Munish\MSPOS45days\SalesProject\obj\x86\Release\UCFrmManagerMain.g.cs
+D:\Munish\MSPOS45days\SalesProject\obj\x86\Release\UCfrmPayment.g.cs
+D:\Munish\MSPOS45days\SalesProject\obj\x86\Release\UCFrmSplit.g.cs
+D:\Munish\MSPOS45days\SalesProject\obj\x86\Release\UCfrmVoid.g.cs
+D:\Munish\MSPOS45days\SalesProject\obj\x86\Release\UCItemDisplayMaster.g.cs
+D:\Munish\MSPOS45days\SalesProject\obj\x86\Release\UCItemUpdateQtyNRate.g.cs
+D:\Munish\MSPOS45days\SalesProject\obj\x86\Release\UCKeyBoradAct.g.cs
+D:\Munish\MSPOS45days\SalesProject\obj\x86\Release\UCMain.g.cs
+D:\Munish\MSPOS45days\SalesProject\obj\x86\Release\UCPriceChange.g.cs
+D:\Munish\MSPOS45days\SalesProject\obj\x86\Release\UCSalesCreation.g.cs
+D:\Munish\MSPOS45days\SalesProject\obj\x86\Release\App.g.cs
+D:\Munish\MSPOS45days\SalesProject\obj\x86\Release\SalesProject_Content.g.cs
+D:\Munish\MSPOS45days\SalesProject\obj\x86\Release\GeneratedInternalTypeHelper.g.cs
+D:\Munish\MSPOS45days\SalesProject\obj\x86\Release\SalesProject_MarkupCompile.cache
+D:\Munish\MSPOS45days\SalesProject\obj\x86\Release\SalesProject_MarkupCompile.lref
+D:\Munish\MSPOS45days\SalesProject\obj\x86\Release\UCCreditCard.baml
+D:\Munish\MSPOS45days\SalesProject\obj\x86\Release\UCFormSettle.baml
+D:\Munish\MSPOS45days\SalesProject\obj\x86\Release\UCfrmCommission.baml
+D:\Munish\MSPOS45days\SalesProject\obj\x86\Release\UCFrmDiscount.baml
+D:\Munish\MSPOS45days\SalesProject\obj\x86\Release\UCfrmHouseAccount.baml
+D:\Munish\MSPOS45days\SalesProject\obj\x86\Release\UCFrmLogin.baml
+D:\Munish\MSPOS45days\SalesProject\obj\x86\Release\UCFrmManagerMain.baml
+D:\Munish\MSPOS45days\SalesProject\obj\x86\Release\UCfrmPayment.baml
+D:\Munish\MSPOS45days\SalesProject\obj\x86\Release\UCFrmSplit.baml
+D:\Munish\MSPOS45days\SalesProject\obj\x86\Release\UCfrmVoid.baml
+D:\Munish\MSPOS45days\SalesProject\obj\x86\Release\UCMain.baml
+D:\Munish\MSPOS45days\SalesProject\obj\x86\Release\UCSalesCreation.baml
+D:\Munish\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.g.resources
+D:\Munish\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.addDiscount.resources
+D:\Munish\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.ChkingDataGrid.resources
+D:\Munish\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.CollapsiblePanel.resources
+D:\Munish\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.frmBackOffice1.resources
+D:\Munish\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.frmException.resources
+D:\Munish\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.frmFormColor.resources
+D:\Munish\MSPOS45days\SalesProject\obj\x86\Release\SalesProject._ExtraForm.frmQtyaNRate.resources
+D:\Munish\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.InfoForm.resources
+D:\Munish\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.MyMessageBox.resources
+D:\Munish\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.MyMessageBox1.resources
+D:\Munish\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.Properties.Resources.resources
+D:\Munish\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.PurchaseEntry1.resources
+D:\Munish\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.Receipt.resources
+D:\Munish\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.unhideform.resources
+D:\Munish\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.csproj.GenerateResource.Cache
+D:\Munish\MSPOS45days\SalesProject\obj\x86\Release\RdlCompile.cache
+D:\Munish\MSPOS45days\SalesProject\obj\x86\Release\RdlCompile.compiled
+D:\Munish\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.FrmLedgerAlteration.resources
+D:\Munish\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.frmLedgerCreation.resources
+D:\Munish\MSPOS45days\SalesProject\obj\x86\Release\SalesProject._Ledger.LedgerAlteration.resources
+D:\Munish\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.FrmNewSales.resources
+D:\Munish\MSPOS45days\MSPOS45days\SalesProject\bin\Release\SalesProject.exe.config
+D:\Munish\MSPOS45days\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.exe
+D:\Munish\MSPOS45days\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.pdb
+D:\Munish\MSPOS45days\MSPOS45days\SalesProject\bin\Release\SalesProject.exe
+D:\Munish\MSPOS45days\MSPOS45days\SalesProject\bin\Release\SalesProject.pdb
+D:\Munish\MSPOS45days\MSPOS45days\SalesProject\bin\Release\MSPOSBACKOFFICE.exe
+D:\Munish\MSPOS45days\MSPOS45days\SalesProject\bin\Release\TabStripControlLibrary.dll
+D:\Munish\MSPOS45days\MSPOS45days\SalesProject\bin\Release\MSPOSBACKOFFICE.pdb
+D:\Munish\MSPOS45days\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.csprojResolveAssemblyReference.cache
+D:\Munish\MSPOS45days\MSPOS45days\SalesProject\obj\x86\Release\CreditCard.baml
+D:\Munish\MSPOS45days\MSPOS45days\SalesProject\obj\x86\Release\FrmActivation.baml
+D:\Munish\MSPOS45days\MSPOS45days\SalesProject\obj\x86\Release\FrmHold.baml
+D:\Munish\MSPOS45days\MSPOS45days\SalesProject\obj\x86\Release\frmHouseAccount.baml
+D:\Munish\MSPOS45days\MSPOS45days\SalesProject\obj\x86\Release\frmKeyBoard.baml
+D:\Munish\MSPOS45days\MSPOS45days\SalesProject\obj\x86\Release\UCItemDisplayMaster.baml
+D:\Munish\MSPOS45days\MSPOS45days\SalesProject\obj\x86\Release\UCItemUpdateQtyNRate.baml
+D:\Munish\MSPOS45days\MSPOS45days\SalesProject\obj\x86\Release\UCKeyBoradAct.baml
+D:\Munish\MSPOS45days\MSPOS45days\SalesProject\obj\x86\Release\UCPriceChange.baml
+D:\Munish\MSPOS45days\MSPOS45days\SalesProject\obj\x86\Release\CreditCard.g.cs
+D:\Munish\MSPOS45days\MSPOS45days\SalesProject\obj\x86\Release\FrmActivation.g.cs
+D:\Munish\MSPOS45days\MSPOS45days\SalesProject\obj\x86\Release\FrmHold.g.cs
+D:\Munish\MSPOS45days\MSPOS45days\SalesProject\obj\x86\Release\frmHouseAccount.g.cs
+D:\Munish\MSPOS45days\MSPOS45days\SalesProject\obj\x86\Release\frmKeyBoard.g.cs
+D:\Munish\MSPOS45days\MSPOS45days\SalesProject\obj\x86\Release\UCCreditCard.g.cs
+D:\Munish\MSPOS45days\MSPOS45days\SalesProject\obj\x86\Release\UCFormSettle.g.cs
+D:\Munish\MSPOS45days\MSPOS45days\SalesProject\obj\x86\Release\UCfrmCommission.g.cs
+D:\Munish\MSPOS45days\MSPOS45days\SalesProject\obj\x86\Release\UCFrmDiscount.g.cs
+D:\Munish\MSPOS45days\MSPOS45days\SalesProject\obj\x86\Release\UCfrmHouseAccount.g.cs
+D:\Munish\MSPOS45days\MSPOS45days\SalesProject\obj\x86\Release\UCFrmLogin.g.cs
+D:\Munish\MSPOS45days\MSPOS45days\SalesProject\obj\x86\Release\UCFrmManagerMain.g.cs
+D:\Munish\MSPOS45days\MSPOS45days\SalesProject\obj\x86\Release\UCfrmPayment.g.cs
+D:\Munish\MSPOS45days\MSPOS45days\SalesProject\obj\x86\Release\UCFrmSplit.g.cs
+D:\Munish\MSPOS45days\MSPOS45days\SalesProject\obj\x86\Release\UCfrmVoid.g.cs
+D:\Munish\MSPOS45days\MSPOS45days\SalesProject\obj\x86\Release\UCItemDisplayMaster.g.cs
+D:\Munish\MSPOS45days\MSPOS45days\SalesProject\obj\x86\Release\UCItemUpdateQtyNRate.g.cs
+D:\Munish\MSPOS45days\MSPOS45days\SalesProject\obj\x86\Release\UCKeyBoradAct.g.cs
+D:\Munish\MSPOS45days\MSPOS45days\SalesProject\obj\x86\Release\UCMain.g.cs
+D:\Munish\MSPOS45days\MSPOS45days\SalesProject\obj\x86\Release\UCPriceChange.g.cs
+D:\Munish\MSPOS45days\MSPOS45days\SalesProject\obj\x86\Release\UCSalesCreation.g.cs
+D:\Munish\MSPOS45days\MSPOS45days\SalesProject\obj\x86\Release\App.g.cs
+D:\Munish\MSPOS45days\MSPOS45days\SalesProject\obj\x86\Release\SalesProject_Content.g.cs
+D:\Munish\MSPOS45days\MSPOS45days\SalesProject\obj\x86\Release\GeneratedInternalTypeHelper.g.cs
+D:\Munish\MSPOS45days\MSPOS45days\SalesProject\obj\x86\Release\SalesProject_MarkupCompile.cache
+D:\Munish\MSPOS45days\MSPOS45days\SalesProject\obj\x86\Release\SalesProject_MarkupCompile.lref
+D:\Munish\MSPOS45days\MSPOS45days\SalesProject\obj\x86\Release\UCCreditCard.baml
+D:\Munish\MSPOS45days\MSPOS45days\SalesProject\obj\x86\Release\UCFormSettle.baml
+D:\Munish\MSPOS45days\MSPOS45days\SalesProject\obj\x86\Release\UCfrmCommission.baml
+D:\Munish\MSPOS45days\MSPOS45days\SalesProject\obj\x86\Release\UCFrmDiscount.baml
+D:\Munish\MSPOS45days\MSPOS45days\SalesProject\obj\x86\Release\UCfrmHouseAccount.baml
+D:\Munish\MSPOS45days\MSPOS45days\SalesProject\obj\x86\Release\UCFrmLogin.baml
+D:\Munish\MSPOS45days\MSPOS45days\SalesProject\obj\x86\Release\UCFrmManagerMain.baml
+D:\Munish\MSPOS45days\MSPOS45days\SalesProject\obj\x86\Release\UCfrmPayment.baml
+D:\Munish\MSPOS45days\MSPOS45days\SalesProject\obj\x86\Release\UCFrmSplit.baml
+D:\Munish\MSPOS45days\MSPOS45days\SalesProject\obj\x86\Release\UCfrmVoid.baml
+D:\Munish\MSPOS45days\MSPOS45days\SalesProject\obj\x86\Release\UCMain.baml
+D:\Munish\MSPOS45days\MSPOS45days\SalesProject\obj\x86\Release\UCSalesCreation.baml
+D:\Munish\MSPOS45days\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.g.resources
+D:\Munish\MSPOS45days\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.addDiscount.resources
+D:\Munish\MSPOS45days\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.ChkingDataGrid.resources
+D:\Munish\MSPOS45days\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.CollapsiblePanel.resources
+D:\Munish\MSPOS45days\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.frmBackOffice1.resources
+D:\Munish\MSPOS45days\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.frmException.resources
+D:\Munish\MSPOS45days\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.frmFormColor.resources
+D:\Munish\MSPOS45days\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.FrmLedgerAlteration.resources
+D:\Munish\MSPOS45days\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.frmLedgerCreation.resources
+D:\Munish\MSPOS45days\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.FrmNewSales.resources
+D:\Munish\MSPOS45days\MSPOS45days\SalesProject\obj\x86\Release\SalesProject._ExtraForm.frmQtyaNRate.resources
+D:\Munish\MSPOS45days\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.InfoForm.resources
+D:\Munish\MSPOS45days\MSPOS45days\SalesProject\obj\x86\Release\SalesProject._Ledger.LedgerAlteration.resources
+D:\Munish\MSPOS45days\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.MyMessageBox.resources
+D:\Munish\MSPOS45days\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.MyMessageBox1.resources
+D:\Munish\MSPOS45days\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.Properties.Resources.resources
+D:\Munish\MSPOS45days\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.PurchaseEntry1.resources
+D:\Munish\MSPOS45days\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.Receipt.resources
+D:\Munish\MSPOS45days\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.unhideform.resources
+D:\Munish\MSPOS45days\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.csproj.GenerateResource.Cache
+D:\Munish\MSPOS45days\MSPOS45days\SalesProject\obj\x86\Release\RdlCompile.cache
+D:\Munish\MSPOS45days\MSPOS45days\SalesProject\obj\x86\Release\RdlCompile.compiled
+D:\Munish\MSPOS45days\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.frmPeripheralSettings.resources
+E:\MSPOS05032016\MSPOS45days\SalesProject\bin\Release\SalesProject.exe.config
+E:\MSPOS05032016\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.exe
+E:\MSPOS05032016\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.pdb
+E:\MSPOS05032016\MSPOS45days\SalesProject\bin\Release\SalesProject.exe
+E:\MSPOS05032016\MSPOS45days\SalesProject\bin\Release\SalesProject.pdb
+E:\MSPOS05032016\MSPOS45days\SalesProject\bin\Release\MSPOSBACKOFFICE.exe
+E:\MSPOS05032016\MSPOS45days\SalesProject\bin\Release\TabStripControlLibrary.dll
+E:\MSPOS05032016\MSPOS45days\SalesProject\bin\Release\MSPOSBACKOFFICE.pdb
+E:\MSPOS05032016\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.csprojResolveAssemblyReference.cache
+E:\MSPOS05032016\MSPOS45days\SalesProject\obj\x86\Release\CreditCard.baml
+E:\MSPOS05032016\MSPOS45days\SalesProject\obj\x86\Release\FrmActivation.baml
+E:\MSPOS05032016\MSPOS45days\SalesProject\obj\x86\Release\FrmHold.baml
+E:\MSPOS05032016\MSPOS45days\SalesProject\obj\x86\Release\frmHouseAccount.baml
+E:\MSPOS05032016\MSPOS45days\SalesProject\obj\x86\Release\frmKeyBoard.baml
+E:\MSPOS05032016\MSPOS45days\SalesProject\obj\x86\Release\UCItemDisplayMaster.baml
+E:\MSPOS05032016\MSPOS45days\SalesProject\obj\x86\Release\UCItemUpdateQtyNRate.baml
+E:\MSPOS05032016\MSPOS45days\SalesProject\obj\x86\Release\UCKeyBoradAct.baml
+E:\MSPOS05032016\MSPOS45days\SalesProject\obj\x86\Release\UCPriceChange.baml
+E:\MSPOS05032016\MSPOS45days\SalesProject\obj\x86\Release\CreditCard.g.cs
+E:\MSPOS05032016\MSPOS45days\SalesProject\obj\x86\Release\FrmActivation.g.cs
+E:\MSPOS05032016\MSPOS45days\SalesProject\obj\x86\Release\FrmHold.g.cs
+E:\MSPOS05032016\MSPOS45days\SalesProject\obj\x86\Release\frmHouseAccount.g.cs
+E:\MSPOS05032016\MSPOS45days\SalesProject\obj\x86\Release\frmKeyBoard.g.cs
+E:\MSPOS05032016\MSPOS45days\SalesProject\obj\x86\Release\UCCreditCard.g.cs
+E:\MSPOS05032016\MSPOS45days\SalesProject\obj\x86\Release\UCFormSettle.g.cs
+E:\MSPOS05032016\MSPOS45days\SalesProject\obj\x86\Release\UCfrmCommission.g.cs
+E:\MSPOS05032016\MSPOS45days\SalesProject\obj\x86\Release\UCFrmDiscount.g.cs
+E:\MSPOS05032016\MSPOS45days\SalesProject\obj\x86\Release\UCfrmHouseAccount.g.cs
+E:\MSPOS05032016\MSPOS45days\SalesProject\obj\x86\Release\UCFrmLogin.g.cs
+E:\MSPOS05032016\MSPOS45days\SalesProject\obj\x86\Release\UCFrmManagerMain.g.cs
+E:\MSPOS05032016\MSPOS45days\SalesProject\obj\x86\Release\UCfrmPayment.g.cs
+E:\MSPOS05032016\MSPOS45days\SalesProject\obj\x86\Release\UCFrmSplit.g.cs
+E:\MSPOS05032016\MSPOS45days\SalesProject\obj\x86\Release\UCfrmVoid.g.cs
+E:\MSPOS05032016\MSPOS45days\SalesProject\obj\x86\Release\UCItemDisplayMaster.g.cs
+E:\MSPOS05032016\MSPOS45days\SalesProject\obj\x86\Release\UCItemUpdateQtyNRate.g.cs
+E:\MSPOS05032016\MSPOS45days\SalesProject\obj\x86\Release\UCKeyBoradAct.g.cs
+E:\MSPOS05032016\MSPOS45days\SalesProject\obj\x86\Release\UCMain.g.cs
+E:\MSPOS05032016\MSPOS45days\SalesProject\obj\x86\Release\UCPriceChange.g.cs
+E:\MSPOS05032016\MSPOS45days\SalesProject\obj\x86\Release\UCSalesCreation.g.cs
+E:\MSPOS05032016\MSPOS45days\SalesProject\obj\x86\Release\App.g.cs
+E:\MSPOS05032016\MSPOS45days\SalesProject\obj\x86\Release\SalesProject_Content.g.cs
+E:\MSPOS05032016\MSPOS45days\SalesProject\obj\x86\Release\GeneratedInternalTypeHelper.g.cs
+E:\MSPOS05032016\MSPOS45days\SalesProject\obj\x86\Release\SalesProject_MarkupCompile.cache
+E:\MSPOS05032016\MSPOS45days\SalesProject\obj\x86\Release\SalesProject_MarkupCompile.lref
+E:\MSPOS05032016\MSPOS45days\SalesProject\obj\x86\Release\UCCreditCard.baml
+E:\MSPOS05032016\MSPOS45days\SalesProject\obj\x86\Release\UCFormSettle.baml
+E:\MSPOS05032016\MSPOS45days\SalesProject\obj\x86\Release\UCfrmCommission.baml
+E:\MSPOS05032016\MSPOS45days\SalesProject\obj\x86\Release\UCFrmDiscount.baml
+E:\MSPOS05032016\MSPOS45days\SalesProject\obj\x86\Release\UCfrmHouseAccount.baml
+E:\MSPOS05032016\MSPOS45days\SalesProject\obj\x86\Release\UCFrmLogin.baml
+E:\MSPOS05032016\MSPOS45days\SalesProject\obj\x86\Release\UCFrmManagerMain.baml
+E:\MSPOS05032016\MSPOS45days\SalesProject\obj\x86\Release\UCfrmPayment.baml
+E:\MSPOS05032016\MSPOS45days\SalesProject\obj\x86\Release\UCFrmSplit.baml
+E:\MSPOS05032016\MSPOS45days\SalesProject\obj\x86\Release\UCfrmVoid.baml
+E:\MSPOS05032016\MSPOS45days\SalesProject\obj\x86\Release\UCMain.baml
+E:\MSPOS05032016\MSPOS45days\SalesProject\obj\x86\Release\UCSalesCreation.baml
+E:\MSPOS05032016\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.g.resources
+E:\MSPOS05032016\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.addDiscount.resources
+E:\MSPOS05032016\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.ChkingDataGrid.resources
+E:\MSPOS05032016\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.CollapsiblePanel.resources
+E:\MSPOS05032016\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.frmBackOffice1.resources
+E:\MSPOS05032016\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.frmException.resources
+E:\MSPOS05032016\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.frmFormColor.resources
+E:\MSPOS05032016\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.FrmLedgerAlteration.resources
+E:\MSPOS05032016\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.frmLedgerCreation.resources
+E:\MSPOS05032016\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.FrmNewSales.resources
+E:\MSPOS05032016\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.frmPeripheralSettings.resources
+E:\MSPOS05032016\MSPOS45days\SalesProject\obj\x86\Release\SalesProject._ExtraForm.frmQtyaNRate.resources
+E:\MSPOS05032016\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.InfoForm.resources
+E:\MSPOS05032016\MSPOS45days\SalesProject\obj\x86\Release\SalesProject._Ledger.LedgerAlteration.resources
+E:\MSPOS05032016\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.MyMessageBox.resources
+E:\MSPOS05032016\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.MyMessageBox1.resources
+E:\MSPOS05032016\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.Properties.Resources.resources
+E:\MSPOS05032016\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.PurchaseEntry1.resources
+E:\MSPOS05032016\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.Receipt.resources
+E:\MSPOS05032016\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.unhideform.resources
+E:\MSPOS05032016\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.csproj.GenerateResource.Cache
+E:\MSPOS05032016\MSPOS45days\SalesProject\obj\x86\Release\RdlCompile.cache
+E:\MSPOS05032016\MSPOS45days\SalesProject\obj\x86\Release\RdlCompile.compiled
+E:\ANBU\12032016  MSPOS 45 Days File942\MSPOS45days\SalesProject\bin\Release\SalesProject.exe.config
+E:\ANBU\12032016  MSPOS 45 Days File942\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.exe
+E:\ANBU\12032016  MSPOS 45 Days File942\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.pdb
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\SalesProject\bin\Release\SalesProject.exe.config
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.exe
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.pdb
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\SalesProject\bin\Release\SalesProject.exe
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\SalesProject\bin\Release\SalesProject.pdb
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\SalesProject\bin\Release\MSPOSBACKOFFICE.exe
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\SalesProject\bin\Release\TabStripControlLibrary.dll
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\SalesProject\bin\Release\MSPOSBACKOFFICE.pdb
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.csprojResolveAssemblyReference.cache
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\SalesProject\obj\x86\Release\CreditCard.baml
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\SalesProject\obj\x86\Release\FrmActivation.baml
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\SalesProject\obj\x86\Release\FrmHold.baml
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\SalesProject\obj\x86\Release\frmHouseAccount.baml
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\SalesProject\obj\x86\Release\frmKeyBoard.baml
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\SalesProject\obj\x86\Release\UCItemDisplayMaster.baml
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\SalesProject\obj\x86\Release\UCItemUpdateQtyNRate.baml
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\SalesProject\obj\x86\Release\UCKeyBoradAct.baml
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\SalesProject\obj\x86\Release\UCPriceChange.baml
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\SalesProject\obj\x86\Release\CreditCard.g.cs
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\SalesProject\obj\x86\Release\FrmActivation.g.cs
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\SalesProject\obj\x86\Release\FrmHold.g.cs
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\SalesProject\obj\x86\Release\frmHouseAccount.g.cs
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\SalesProject\obj\x86\Release\frmKeyBoard.g.cs
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\SalesProject\obj\x86\Release\UCCreditCard.g.cs
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\SalesProject\obj\x86\Release\UCFormSettle.g.cs
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\SalesProject\obj\x86\Release\UCfrmCommission.g.cs
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\SalesProject\obj\x86\Release\UCFrmDiscount.g.cs
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\SalesProject\obj\x86\Release\UCfrmHouseAccount.g.cs
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\SalesProject\obj\x86\Release\UCFrmLogin.g.cs
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\SalesProject\obj\x86\Release\UCFrmManagerMain.g.cs
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\SalesProject\obj\x86\Release\UCfrmPayment.g.cs
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\SalesProject\obj\x86\Release\UCFrmSplit.g.cs
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\SalesProject\obj\x86\Release\UCfrmVoid.g.cs
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\SalesProject\obj\x86\Release\UCItemDisplayMaster.g.cs
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\SalesProject\obj\x86\Release\UCItemUpdateQtyNRate.g.cs
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\SalesProject\obj\x86\Release\UCKeyBoradAct.g.cs
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\SalesProject\obj\x86\Release\UCMain.g.cs
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\SalesProject\obj\x86\Release\UCPriceChange.g.cs
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\SalesProject\obj\x86\Release\UCSalesCreation.g.cs
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\SalesProject\obj\x86\Release\UCSalesmen.g.cs
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\SalesProject\obj\x86\Release\App.g.cs
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\SalesProject\obj\x86\Release\SalesProject_Content.g.cs
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\SalesProject\obj\x86\Release\GeneratedInternalTypeHelper.g.cs
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\SalesProject\obj\x86\Release\SalesProject_MarkupCompile.cache
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\SalesProject\obj\x86\Release\SalesProject_MarkupCompile.lref
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\SalesProject\obj\x86\Release\UCCreditCard.baml
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\SalesProject\obj\x86\Release\UCFormSettle.baml
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\SalesProject\obj\x86\Release\UCfrmCommission.baml
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\SalesProject\obj\x86\Release\UCFrmDiscount.baml
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\SalesProject\obj\x86\Release\UCfrmHouseAccount.baml
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\SalesProject\obj\x86\Release\UCFrmLogin.baml
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\SalesProject\obj\x86\Release\UCFrmManagerMain.baml
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\SalesProject\obj\x86\Release\UCfrmPayment.baml
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\SalesProject\obj\x86\Release\UCFrmSplit.baml
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\SalesProject\obj\x86\Release\UCfrmVoid.baml
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\SalesProject\obj\x86\Release\UCMain.baml
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\SalesProject\obj\x86\Release\UCSalesCreation.baml
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\SalesProject\obj\x86\Release\UCSalesmen.baml
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.g.resources
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.addDiscount.resources
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.ChkingDataGrid.resources
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.CollapsiblePanel.resources
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.frmBackOffice1.resources
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.frmException.resources
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.frmFormColor.resources
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.FrmLedgerAlteration.resources
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.frmLedgerCreation.resources
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.FrmNewSales.resources
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.frmPeripheralSettings.resources
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\SalesProject\obj\x86\Release\SalesProject._ExtraForm.frmQtyaNRate.resources
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.InfoForm.resources
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.ItemFilter.resources
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.ItemLedger.resources
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.ItemList.resources
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\SalesProject\obj\x86\Release\SalesProject._Ledger.LedgerAlteration.resources
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.MonthlystockBreakeUp.resources
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.MyMessageBox.resources
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.MyMessageBox1.resources
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.Properties.Resources.resources
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.PurchaseEntry1.resources
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.Receipt.resources
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.StocReport.resources
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.unhideform.resources
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.csproj.GenerateResource.Cache
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\SalesProject\obj\x86\Release\RdlCompile.cache
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\SalesProject\obj\x86\Release\RdlCompile.compiled
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.FrmTicketDisplay.resources
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.FrmTIcketIssue.resources
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\SalesProject\obj\x86\Release\UCCustomerList.g.cs
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\SalesProject\obj\x86\Release\UCCustomerList.baml
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\SalesProject\obj\x86\Release\frmCashDrawPassword.baml
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\SalesProject\obj\x86\Release\frmCashDrawPassword.g.cs
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\SalesProject\bin\Release\SalesProject.exe.config
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.exe
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.pdb
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\SalesProject\bin\Release\SalesProject.exe
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\SalesProject\bin\Release\SalesProject.pdb
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\SalesProject\bin\Release\MSPOSBACKOFFICE.exe
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\SalesProject\bin\Release\TabStripControlLibrary.dll
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\SalesProject\bin\Release\MSPOSBACKOFFICE.pdb
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\ResolveAssemblyReference.cache
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\CreditCard.baml
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\FrmActivation.baml
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\frmCashDrawPassword.baml
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\FrmHold.baml
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\frmHouseAccount.baml
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\frmKeyBoard.baml
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\UCItemDisplayMaster.baml
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\UCItemUpdateQtyNRate.baml
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\UCKeyBoradAct.baml
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\UCPriceChange.baml
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\CreditCard.g.cs
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\FrmActivation.g.cs
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\frmCashDrawPassword.g.cs
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\FrmHold.g.cs
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\frmHouseAccount.g.cs
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\frmKeyBoard.g.cs
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\UCCreditCard.g.cs
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\UCCustomerList.g.cs
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\UCFormSettle.g.cs
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\UCfrmCommission.g.cs
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\UCFrmDiscount.g.cs
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\UCfrmHouseAccount.g.cs
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\UCFrmLogin.g.cs
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\UCFrmManagerMain.g.cs
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\UCfrmPayment.g.cs
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\UCFrmSplit.g.cs
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\UCfrmVoid.g.cs
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\UCItemDisplayMaster.g.cs
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\UCItemUpdateQtyNRate.g.cs
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\UCKeyBoradAct.g.cs
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\UCMain.g.cs
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\UCPriceChange.g.cs
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\UCSalesCreation.g.cs
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\UCSalesmen.g.cs
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\App.g.cs
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\SalesProject_Content.g.cs
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\GeneratedInternalTypeHelper.g.cs
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\SalesProject_MarkupCompile.cache
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\SalesProject_MarkupCompile.lref
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\UCCreditCard.baml
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\UCCustomerList.baml
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\UCFormSettle.baml
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\UCfrmCommission.baml
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\UCFrmDiscount.baml
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\UCfrmHouseAccount.baml
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\UCFrmLogin.baml
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\UCFrmManagerMain.baml
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\UCfrmPayment.baml
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\UCFrmSplit.baml
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\UCfrmVoid.baml
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\UCMain.baml
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\UCSalesCreation.baml
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\UCSalesmen.baml
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.g.resources
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.addDiscount.resources
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.ChkingDataGrid.resources
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.CollapsiblePanel.resources
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.frmBackOffice1.resources
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.frmException.resources
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.frmFormColor.resources
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.FrmLedgerAlteration.resources
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.frmLedgerCreation.resources
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.FrmNewSales.resources
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.frmPeripheralSettings.resources
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\SalesProject._ExtraForm.frmQtyaNRate.resources
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.FrmTicketDisplay.resources
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.FrmTIcketIssue.resources
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.InfoForm.resources
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.ItemFilter.resources
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.ItemLedger.resources
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.ItemList.resources
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\SalesProject._Ledger.LedgerAlteration.resources
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.MonthlystockBreakeUp.resources
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.MyMessageBox.resources
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.MyMessageBox1.resources
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.Properties.Resources.resources
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.PurchaseEntry1.resources
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.Receipt.resources
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.StocReport.resources
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.unhideform.resources
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\GenerateResource.read.1.tlog
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\GenerateResource.write.1.tlog
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\RdlCompile.cache
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\RdlCompile.compiled
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.MyMessageBox2.resources
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\SalesProject\bin\Release\SalesProject.exe.config
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.exe
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.pdb
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\SalesProject\bin\Release\SalesProject.exe
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\SalesProject\bin\Release\SalesProject.pdb
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\SalesProject\bin\Release\MSPOSBACKOFFICE.exe
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\SalesProject\bin\Release\TabStripControlLibrary.dll
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\SalesProject\bin\Release\MSPOSBACKOFFICE.pdb
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.csprojResolveAssemblyReference.cache
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\CreditCard.baml
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\FrmActivation.baml
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\frmCashDrawPassword.baml
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\FrmHold.baml
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\frmHouseAccount.baml
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\frmKeyBoard.baml
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\UCItemDisplayMaster.baml
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\UCItemUpdateQtyNRate.baml
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\UCKeyBoradAct.baml
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\UCPriceChange.baml
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\CreditCard.g.cs
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\FrmActivation.g.cs
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\frmCashDrawPassword.g.cs
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\FrmHold.g.cs
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\frmHouseAccount.g.cs
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\frmKeyBoard.g.cs
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\UCCreditCard.g.cs
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\UCCustomerList.g.cs
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\UCFormSettle.g.cs
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\UCfrmCommission.g.cs
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\UCFrmDiscount.g.cs
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\UCfrmHouseAccount.g.cs
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\UCFrmLogin.g.cs
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\UCFrmManagerMain.g.cs
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\UCfrmPayment.g.cs
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\UCFrmSplit.g.cs
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\UCfrmVoid.g.cs
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\UCItemDisplayMaster.g.cs
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\UCItemUpdateQtyNRate.g.cs
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\UCKeyBoradAct.g.cs
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\UCMain.g.cs
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\UCPriceChange.g.cs
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\UCSalesCreation.g.cs
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\UCSalesmen.g.cs
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\App.g.cs
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\SalesProject_Content.g.cs
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\GeneratedInternalTypeHelper.g.cs
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\SalesProject_MarkupCompile.cache
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\SalesProject_MarkupCompile.lref
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\UCCreditCard.baml
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\UCCustomerList.baml
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\UCFormSettle.baml
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\UCfrmCommission.baml
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\UCFrmDiscount.baml
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\UCfrmHouseAccount.baml
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\UCFrmLogin.baml
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\UCFrmManagerMain.baml
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\UCfrmPayment.baml
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\UCFrmSplit.baml
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\UCfrmVoid.baml
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\UCMain.baml
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\UCSalesCreation.baml
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\UCSalesmen.baml
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.g.resources
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.addDiscount.resources
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.ChkingDataGrid.resources
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.CollapsiblePanel.resources
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.frmBackOffice1.resources
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.frmException.resources
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.frmFormColor.resources
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.FrmLedgerAlteration.resources
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.frmLedgerCreation.resources
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.FrmNewSales.resources
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.frmPeripheralSettings.resources
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\SalesProject._ExtraForm.frmQtyaNRate.resources
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.FrmTicketDisplay.resources
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.FrmTIcketIssue.resources
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.InfoForm.resources
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.ItemFilter.resources
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.ItemLedger.resources
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.ItemList.resources
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\SalesProject._Ledger.LedgerAlteration.resources
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.MonthlystockBreakeUp.resources
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.MyMessageBox.resources
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.MyMessageBox1.resources
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.MyMessageBox2.resources
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.Properties.Resources.resources
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.PurchaseEntry1.resources
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.Receipt.resources
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.StocReport.resources
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.unhideform.resources
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.csproj.GenerateResource.Cache
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\RdlCompile.cache
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\SalesProject\obj\x86\Release\RdlCompile.compiled
+E:\priya\newSource20052016\MSPOS45days\SalesProject\bin\Release\SalesProject.exe.config
+E:\priya\newSource20052016\MSPOS45days\SalesProject\bin\Release\SalesProject.exe
+E:\priya\newSource20052016\MSPOS45days\SalesProject\bin\Release\SalesProject.pdb
+E:\priya\newSource20052016\MSPOS45days\SalesProject\bin\Release\MSPOSBACKOFFICE.exe
+E:\priya\newSource20052016\MSPOS45days\SalesProject\bin\Release\TabStripControlLibrary.dll
+E:\priya\newSource20052016\MSPOS45days\SalesProject\bin\Release\MSPOSBACKOFFICE.pdb
+E:\priya\newSource20052016\MSPOS45days\SalesProject\obj\x86\Release\ResolveAssemblyReference.cache
+E:\priya\newSource20052016\MSPOS45days\SalesProject\obj\x86\Release\CreditCard.baml
+E:\priya\newSource20052016\MSPOS45days\SalesProject\obj\x86\Release\FrmActivation.baml
+E:\priya\newSource20052016\MSPOS45days\SalesProject\obj\x86\Release\frmCashDrawPassword.baml
+E:\priya\newSource20052016\MSPOS45days\SalesProject\obj\x86\Release\FrmHold.baml
+E:\priya\newSource20052016\MSPOS45days\SalesProject\obj\x86\Release\frmHouseAccount.baml
+E:\priya\newSource20052016\MSPOS45days\SalesProject\obj\x86\Release\frmKeyBoard.baml
+E:\priya\newSource20052016\MSPOS45days\SalesProject\obj\x86\Release\UCItemDisplayMaster.baml
+E:\priya\newSource20052016\MSPOS45days\SalesProject\obj\x86\Release\UCItemUpdateQtyNRate.baml
+E:\priya\newSource20052016\MSPOS45days\SalesProject\obj\x86\Release\UCKeyBoradAct.baml
+E:\priya\newSource20052016\MSPOS45days\SalesProject\obj\x86\Release\UCPriceChange.baml
+E:\priya\newSource20052016\MSPOS45days\SalesProject\obj\x86\Release\CreditCard.g.cs
+E:\priya\newSource20052016\MSPOS45days\SalesProject\obj\x86\Release\FrmActivation.g.cs
+E:\priya\newSource20052016\MSPOS45days\SalesProject\obj\x86\Release\frmCashDrawPassword.g.cs
+E:\priya\newSource20052016\MSPOS45days\SalesProject\obj\x86\Release\FrmHold.g.cs
+E:\priya\newSource20052016\MSPOS45days\SalesProject\obj\x86\Release\frmHouseAccount.g.cs
+E:\priya\newSource20052016\MSPOS45days\SalesProject\obj\x86\Release\frmKeyBoard.g.cs
+E:\priya\newSource20052016\MSPOS45days\SalesProject\obj\x86\Release\UCCreditCard.g.cs
+E:\priya\newSource20052016\MSPOS45days\SalesProject\obj\x86\Release\UCCustomerList.g.cs
+E:\priya\newSource20052016\MSPOS45days\SalesProject\obj\x86\Release\UCFormSettle.g.cs
+E:\priya\newSource20052016\MSPOS45days\SalesProject\obj\x86\Release\UCfrmCommission.g.cs
+E:\priya\newSource20052016\MSPOS45days\SalesProject\obj\x86\Release\UCFrmDiscount.g.cs
+E:\priya\newSource20052016\MSPOS45days\SalesProject\obj\x86\Release\UCfrmHouseAccount.g.cs
+E:\priya\newSource20052016\MSPOS45days\SalesProject\obj\x86\Release\UCFrmLogin.g.cs
+E:\priya\newSource20052016\MSPOS45days\SalesProject\obj\x86\Release\UCFrmManagerMain.g.cs
+E:\priya\newSource20052016\MSPOS45days\SalesProject\obj\x86\Release\UCfrmPayment.g.cs
+E:\priya\newSource20052016\MSPOS45days\SalesProject\obj\x86\Release\UCFrmSplit.g.cs
+E:\priya\newSource20052016\MSPOS45days\SalesProject\obj\x86\Release\UCfrmVoid.g.cs
+E:\priya\newSource20052016\MSPOS45days\SalesProject\obj\x86\Release\UCItemDisplayMaster.g.cs
+E:\priya\newSource20052016\MSPOS45days\SalesProject\obj\x86\Release\UCItemUpdateQtyNRate.g.cs
+E:\priya\newSource20052016\MSPOS45days\SalesProject\obj\x86\Release\UCKeyBoradAct.g.cs
+E:\priya\newSource20052016\MSPOS45days\SalesProject\obj\x86\Release\UCMain.g.cs
+E:\priya\newSource20052016\MSPOS45days\SalesProject\obj\x86\Release\UCPriceChange.g.cs
+E:\priya\newSource20052016\MSPOS45days\SalesProject\obj\x86\Release\UCSalesCreation.g.cs
+E:\priya\newSource20052016\MSPOS45days\SalesProject\obj\x86\Release\UCSalesmen.g.cs
+E:\priya\newSource20052016\MSPOS45days\SalesProject\obj\x86\Release\App.g.cs
+E:\priya\newSource20052016\MSPOS45days\SalesProject\obj\x86\Release\SalesProject_Content.g.cs
+E:\priya\newSource20052016\MSPOS45days\SalesProject\obj\x86\Release\GeneratedInternalTypeHelper.g.cs
+E:\priya\newSource20052016\MSPOS45days\SalesProject\obj\x86\Release\SalesProject_MarkupCompile.cache
+E:\priya\newSource20052016\MSPOS45days\SalesProject\obj\x86\Release\SalesProject_MarkupCompile.lref
+E:\priya\newSource20052016\MSPOS45days\SalesProject\obj\x86\Release\UCCreditCard.baml
+E:\priya\newSource20052016\MSPOS45days\SalesProject\obj\x86\Release\UCCustomerList.baml
+E:\priya\newSource20052016\MSPOS45days\SalesProject\obj\x86\Release\UCFormSettle.baml
+E:\priya\newSource20052016\MSPOS45days\SalesProject\obj\x86\Release\UCfrmCommission.baml
+E:\priya\newSource20052016\MSPOS45days\SalesProject\obj\x86\Release\UCFrmDiscount.baml
+E:\priya\newSource20052016\MSPOS45days\SalesProject\obj\x86\Release\UCfrmHouseAccount.baml
+E:\priya\newSource20052016\MSPOS45days\SalesProject\obj\x86\Release\UCFrmLogin.baml
+E:\priya\newSource20052016\MSPOS45days\SalesProject\obj\x86\Release\UCFrmManagerMain.baml
+E:\priya\newSource20052016\MSPOS45days\SalesProject\obj\x86\Release\UCfrmPayment.baml
+E:\priya\newSource20052016\MSPOS45days\SalesProject\obj\x86\Release\UCFrmSplit.baml
+E:\priya\newSource20052016\MSPOS45days\SalesProject\obj\x86\Release\UCfrmVoid.baml
+E:\priya\newSource20052016\MSPOS45days\SalesProject\obj\x86\Release\UCMain.baml
+E:\priya\newSource20052016\MSPOS45days\SalesProject\obj\x86\Release\UCSalesCreation.baml
+E:\priya\newSource20052016\MSPOS45days\SalesProject\obj\x86\Release\UCSalesmen.baml
+E:\priya\newSource20052016\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.g.resources
+E:\priya\newSource20052016\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.addDiscount.resources
+E:\priya\newSource20052016\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.ChkingDataGrid.resources
+E:\priya\newSource20052016\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.CollapsiblePanel.resources
+E:\priya\newSource20052016\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.frmBackOffice1.resources
+E:\priya\newSource20052016\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.frmException.resources
+E:\priya\newSource20052016\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.frmFormColor.resources
+E:\priya\newSource20052016\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.FrmLedgerAlteration.resources
+E:\priya\newSource20052016\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.frmLedgerCreation.resources
+E:\priya\newSource20052016\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.FrmNewSales.resources
+E:\priya\newSource20052016\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.frmPeripheralSettings.resources
+E:\priya\newSource20052016\MSPOS45days\SalesProject\obj\x86\Release\SalesProject._ExtraForm.frmQtyaNRate.resources
+E:\priya\newSource20052016\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.FrmTicketDisplay.resources
+E:\priya\newSource20052016\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.FrmTIcketIssue.resources
+E:\priya\newSource20052016\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.InfoForm.resources
+E:\priya\newSource20052016\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.ItemFilter.resources
+E:\priya\newSource20052016\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.ItemLedger.resources
+E:\priya\newSource20052016\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.ItemList.resources
+E:\priya\newSource20052016\MSPOS45days\SalesProject\obj\x86\Release\SalesProject._Ledger.LedgerAlteration.resources
+E:\priya\newSource20052016\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.MonthlystockBreakeUp.resources
+E:\priya\newSource20052016\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.MyMessageBox.resources
+E:\priya\newSource20052016\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.MyMessageBox1.resources
+E:\priya\newSource20052016\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.MyMessageBox2.resources
+E:\priya\newSource20052016\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.Properties.Resources.resources
+E:\priya\newSource20052016\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.PurchaseEntry1.resources
+E:\priya\newSource20052016\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.Receipt.resources
+E:\priya\newSource20052016\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.StocReport.resources
+E:\priya\newSource20052016\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.unhideform.resources
+E:\priya\newSource20052016\MSPOS45days\SalesProject\obj\x86\Release\GenerateResource.read.1.tlog
+E:\priya\newSource20052016\MSPOS45days\SalesProject\obj\x86\Release\GenerateResource.write.1.tlog
+E:\priya\newSource20052016\MSPOS45days\SalesProject\obj\x86\Release\RdlCompile.cache
+E:\priya\newSource20052016\MSPOS45days\SalesProject\obj\x86\Release\RdlCompile.compiled
+E:\priya\newSource20052016\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.exe
+E:\priya\newSource20052016\MSPOS45days\SalesProject\obj\x86\Release\SalesProject.pdb
+C:\Thulasi\Test\MSPOS1\SalesProject\bin\Release\SalesProject.exe.config
+C:\Thulasi\Test\MSPOS1\SalesProject\obj\x86\Release\SalesProject.exe
+C:\Thulasi\Test\MSPOS1\SalesProject\obj\x86\Release\SalesProject.pdb
+C:\Thulasi\Test\MSPOS1\SalesProject\bin\Release\SalesProject.exe
+C:\Thulasi\Test\MSPOS1\SalesProject\bin\Release\SalesProject.pdb
+C:\Thulasi\Test\MSPOS1\SalesProject\bin\Release\MSPOSBACKOFFICE.exe
+C:\Thulasi\Test\MSPOS1\SalesProject\bin\Release\TabStripControlLibrary.dll
+C:\Thulasi\Test\MSPOS1\SalesProject\bin\Release\MSPOSBACKOFFICE.pdb
+C:\Thulasi\Test\MSPOS1\SalesProject\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Thulasi\Test\MSPOS1\SalesProject\obj\x86\Release\CreditCard.baml
+C:\Thulasi\Test\MSPOS1\SalesProject\obj\x86\Release\FrmActivation.baml
+C:\Thulasi\Test\MSPOS1\SalesProject\obj\x86\Release\frmCashDrawPassword.baml
+C:\Thulasi\Test\MSPOS1\SalesProject\obj\x86\Release\FrmHold.baml
+C:\Thulasi\Test\MSPOS1\SalesProject\obj\x86\Release\frmHouseAccount.baml
+C:\Thulasi\Test\MSPOS1\SalesProject\obj\x86\Release\frmKeyBoard.baml
+C:\Thulasi\Test\MSPOS1\SalesProject\obj\x86\Release\UCItemDisplayMaster.baml
+C:\Thulasi\Test\MSPOS1\SalesProject\obj\x86\Release\UCItemUpdateQtyNRate.baml
+C:\Thulasi\Test\MSPOS1\SalesProject\obj\x86\Release\UCKeyBoradAct.baml
+C:\Thulasi\Test\MSPOS1\SalesProject\obj\x86\Release\UCPriceChange.baml
+C:\Thulasi\Test\MSPOS1\SalesProject\obj\x86\Release\CreditCard.g.cs
+C:\Thulasi\Test\MSPOS1\SalesProject\obj\x86\Release\FrmActivation.g.cs
+C:\Thulasi\Test\MSPOS1\SalesProject\obj\x86\Release\frmCashDrawPassword.g.cs
+C:\Thulasi\Test\MSPOS1\SalesProject\obj\x86\Release\FrmHold.g.cs
+C:\Thulasi\Test\MSPOS1\SalesProject\obj\x86\Release\frmHouseAccount.g.cs
+C:\Thulasi\Test\MSPOS1\SalesProject\obj\x86\Release\frmKeyBoard.g.cs
+C:\Thulasi\Test\MSPOS1\SalesProject\obj\x86\Release\UCCreditCard.g.cs
+C:\Thulasi\Test\MSPOS1\SalesProject\obj\x86\Release\UCCustomerList.g.cs
+C:\Thulasi\Test\MSPOS1\SalesProject\obj\x86\Release\UCFormSettle.g.cs
+C:\Thulasi\Test\MSPOS1\SalesProject\obj\x86\Release\UCfrmCommission.g.cs
+C:\Thulasi\Test\MSPOS1\SalesProject\obj\x86\Release\UCFrmDiscount.g.cs
+C:\Thulasi\Test\MSPOS1\SalesProject\obj\x86\Release\UCfrmHouseAccount.g.cs
+C:\Thulasi\Test\MSPOS1\SalesProject\obj\x86\Release\UCFrmLogin.g.cs
+C:\Thulasi\Test\MSPOS1\SalesProject\obj\x86\Release\UCFrmManagerMain.g.cs
+C:\Thulasi\Test\MSPOS1\SalesProject\obj\x86\Release\UCfrmPayment.g.cs
+C:\Thulasi\Test\MSPOS1\SalesProject\obj\x86\Release\UCFrmSplit.g.cs
+C:\Thulasi\Test\MSPOS1\SalesProject\obj\x86\Release\UCfrmVoid.g.cs
+C:\Thulasi\Test\MSPOS1\SalesProject\obj\x86\Release\UCItemDisplayMaster.g.cs
+C:\Thulasi\Test\MSPOS1\SalesProject\obj\x86\Release\UCItemUpdateQtyNRate.g.cs
+C:\Thulasi\Test\MSPOS1\SalesProject\obj\x86\Release\UCKeyBoradAct.g.cs
+C:\Thulasi\Test\MSPOS1\SalesProject\obj\x86\Release\UCMain.g.cs
+C:\Thulasi\Test\MSPOS1\SalesProject\obj\x86\Release\UCPriceChange.g.cs
+C:\Thulasi\Test\MSPOS1\SalesProject\obj\x86\Release\UCSalesCreation.g.cs
+C:\Thulasi\Test\MSPOS1\SalesProject\obj\x86\Release\UCSalesmen.g.cs
+C:\Thulasi\Test\MSPOS1\SalesProject\obj\x86\Release\App.g.cs
+C:\Thulasi\Test\MSPOS1\SalesProject\obj\x86\Release\SalesProject_Content.g.cs
+C:\Thulasi\Test\MSPOS1\SalesProject\obj\x86\Release\GeneratedInternalTypeHelper.g.cs
+C:\Thulasi\Test\MSPOS1\SalesProject\obj\x86\Release\SalesProject_MarkupCompile.cache
+C:\Thulasi\Test\MSPOS1\SalesProject\obj\x86\Release\SalesProject_MarkupCompile.lref
+C:\Thulasi\Test\MSPOS1\SalesProject\obj\x86\Release\UCCreditCard.baml
+C:\Thulasi\Test\MSPOS1\SalesProject\obj\x86\Release\UCCustomerList.baml
+C:\Thulasi\Test\MSPOS1\SalesProject\obj\x86\Release\UCFormSettle.baml
+C:\Thulasi\Test\MSPOS1\SalesProject\obj\x86\Release\UCfrmCommission.baml
+C:\Thulasi\Test\MSPOS1\SalesProject\obj\x86\Release\UCFrmDiscount.baml
+C:\Thulasi\Test\MSPOS1\SalesProject\obj\x86\Release\UCfrmHouseAccount.baml
+C:\Thulasi\Test\MSPOS1\SalesProject\obj\x86\Release\UCFrmLogin.baml
+C:\Thulasi\Test\MSPOS1\SalesProject\obj\x86\Release\UCFrmManagerMain.baml
+C:\Thulasi\Test\MSPOS1\SalesProject\obj\x86\Release\UCfrmPayment.baml
+C:\Thulasi\Test\MSPOS1\SalesProject\obj\x86\Release\UCFrmSplit.baml
+C:\Thulasi\Test\MSPOS1\SalesProject\obj\x86\Release\UCfrmVoid.baml
+C:\Thulasi\Test\MSPOS1\SalesProject\obj\x86\Release\UCMain.baml
+C:\Thulasi\Test\MSPOS1\SalesProject\obj\x86\Release\UCSalesCreation.baml
+C:\Thulasi\Test\MSPOS1\SalesProject\obj\x86\Release\UCSalesmen.baml
+C:\Thulasi\Test\MSPOS1\SalesProject\obj\x86\Release\SalesProject.g.resources
+C:\Thulasi\Test\MSPOS1\SalesProject\obj\x86\Release\SalesProject.addDiscount.resources
+C:\Thulasi\Test\MSPOS1\SalesProject\obj\x86\Release\SalesProject.ChkingDataGrid.resources
+C:\Thulasi\Test\MSPOS1\SalesProject\obj\x86\Release\SalesProject.CollapsiblePanel.resources
+C:\Thulasi\Test\MSPOS1\SalesProject\obj\x86\Release\SalesProject.frmBackOffice1.resources
+C:\Thulasi\Test\MSPOS1\SalesProject\obj\x86\Release\SalesProject.frmException.resources
+C:\Thulasi\Test\MSPOS1\SalesProject\obj\x86\Release\SalesProject.frmFormColor.resources
+C:\Thulasi\Test\MSPOS1\SalesProject\obj\x86\Release\SalesProject.FrmLedgerAlteration.resources
+C:\Thulasi\Test\MSPOS1\SalesProject\obj\x86\Release\SalesProject.frmLedgerCreation.resources
+C:\Thulasi\Test\MSPOS1\SalesProject\obj\x86\Release\SalesProject.FrmNewSales.resources
+C:\Thulasi\Test\MSPOS1\SalesProject\obj\x86\Release\SalesProject.frmPeripheralSettings.resources
+C:\Thulasi\Test\MSPOS1\SalesProject\obj\x86\Release\SalesProject._ExtraForm.frmQtyaNRate.resources
+C:\Thulasi\Test\MSPOS1\SalesProject\obj\x86\Release\SalesProject.FrmTicketDisplay.resources
+C:\Thulasi\Test\MSPOS1\SalesProject\obj\x86\Release\SalesProject.FrmTIcketIssue.resources
+C:\Thulasi\Test\MSPOS1\SalesProject\obj\x86\Release\SalesProject.InfoForm.resources
+C:\Thulasi\Test\MSPOS1\SalesProject\obj\x86\Release\SalesProject.ItemFilter.resources
+C:\Thulasi\Test\MSPOS1\SalesProject\obj\x86\Release\SalesProject.ItemLedger.resources
+C:\Thulasi\Test\MSPOS1\SalesProject\obj\x86\Release\SalesProject.ItemList.resources
+C:\Thulasi\Test\MSPOS1\SalesProject\obj\x86\Release\SalesProject._Ledger.LedgerAlteration.resources
+C:\Thulasi\Test\MSPOS1\SalesProject\obj\x86\Release\SalesProject.MonthlystockBreakeUp.resources
+C:\Thulasi\Test\MSPOS1\SalesProject\obj\x86\Release\SalesProject.MyMessageBox.resources
+C:\Thulasi\Test\MSPOS1\SalesProject\obj\x86\Release\SalesProject.MyMessageBox1.resources
+C:\Thulasi\Test\MSPOS1\SalesProject\obj\x86\Release\SalesProject.MyMessageBox2.resources
+C:\Thulasi\Test\MSPOS1\SalesProject\obj\x86\Release\SalesProject.Properties.Resources.resources
+C:\Thulasi\Test\MSPOS1\SalesProject\obj\x86\Release\SalesProject.PurchaseEntry1.resources
+C:\Thulasi\Test\MSPOS1\SalesProject\obj\x86\Release\SalesProject.Receipt.resources
+C:\Thulasi\Test\MSPOS1\SalesProject\obj\x86\Release\SalesProject.StocReport.resources
+C:\Thulasi\Test\MSPOS1\SalesProject\obj\x86\Release\SalesProject.unhideform.resources
+C:\Thulasi\Test\MSPOS1\SalesProject\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Thulasi\Test\MSPOS1\SalesProject\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Thulasi\Test\MSPOS1\SalesProject\obj\x86\Release\RdlCompile.cache
+C:\Thulasi\Test\MSPOS1\SalesProject\obj\x86\Release\RdlCompile.compiled
+E:\Thulasi\MSPOS1\SalesProject\bin\Release\SalesProject.exe.config
+E:\Thulasi\MSPOS1\SalesProject\obj\x86\Release\SalesProject.exe
+E:\Thulasi\MSPOS1\SalesProject\obj\x86\Release\SalesProject.pdb
+E:\Thulasi\MSPOS1\SalesProject\bin\Release\SalesProject.exe
+E:\Thulasi\MSPOS1\SalesProject\bin\Release\SalesProject.pdb
+E:\Thulasi\MSPOS1\SalesProject\bin\Release\MSPOSBACKOFFICE.exe
+E:\Thulasi\MSPOS1\SalesProject\bin\Release\TabStripControlLibrary.dll
+E:\Thulasi\MSPOS1\SalesProject\bin\Release\MSPOSBACKOFFICE.pdb
+E:\Thulasi\MSPOS1\SalesProject\obj\x86\Release\SalesProject.csprojResolveAssemblyReference.cache
+E:\Thulasi\MSPOS1\SalesProject\obj\x86\Release\CreditCard.baml
+E:\Thulasi\MSPOS1\SalesProject\obj\x86\Release\FrmActivation.baml
+E:\Thulasi\MSPOS1\SalesProject\obj\x86\Release\frmCashDrawPassword.baml
+E:\Thulasi\MSPOS1\SalesProject\obj\x86\Release\FrmHold.baml
+E:\Thulasi\MSPOS1\SalesProject\obj\x86\Release\frmHouseAccount.baml
+E:\Thulasi\MSPOS1\SalesProject\obj\x86\Release\frmKeyBoard.baml
+E:\Thulasi\MSPOS1\SalesProject\obj\x86\Release\UCItemDisplayMaster.baml
+E:\Thulasi\MSPOS1\SalesProject\obj\x86\Release\UCItemUpdateQtyNRate.baml
+E:\Thulasi\MSPOS1\SalesProject\obj\x86\Release\UCKeyBoradAct.baml
+E:\Thulasi\MSPOS1\SalesProject\obj\x86\Release\UCPriceChange.baml
+E:\Thulasi\MSPOS1\SalesProject\obj\x86\Release\CreditCard.g.cs
+E:\Thulasi\MSPOS1\SalesProject\obj\x86\Release\FrmActivation.g.cs
+E:\Thulasi\MSPOS1\SalesProject\obj\x86\Release\frmCashDrawPassword.g.cs
+E:\Thulasi\MSPOS1\SalesProject\obj\x86\Release\FrmHold.g.cs
+E:\Thulasi\MSPOS1\SalesProject\obj\x86\Release\frmHouseAccount.g.cs
+E:\Thulasi\MSPOS1\SalesProject\obj\x86\Release\frmKeyBoard.g.cs
+E:\Thulasi\MSPOS1\SalesProject\obj\x86\Release\UCCreditCard.g.cs
+E:\Thulasi\MSPOS1\SalesProject\obj\x86\Release\UCCustomerList.g.cs
+E:\Thulasi\MSPOS1\SalesProject\obj\x86\Release\UCFormSettle.g.cs
+E:\Thulasi\MSPOS1\SalesProject\obj\x86\Release\UCfrmCommission.g.cs
+E:\Thulasi\MSPOS1\SalesProject\obj\x86\Release\UCFrmDiscount.g.cs
+E:\Thulasi\MSPOS1\SalesProject\obj\x86\Release\UCfrmHouseAccount.g.cs
+E:\Thulasi\MSPOS1\SalesProject\obj\x86\Release\UCFrmLogin.g.cs
+E:\Thulasi\MSPOS1\SalesProject\obj\x86\Release\UCFrmManagerMain.g.cs
+E:\Thulasi\MSPOS1\SalesProject\obj\x86\Release\UCfrmPayment.g.cs
+E:\Thulasi\MSPOS1\SalesProject\obj\x86\Release\UCFrmSplit.g.cs
+E:\Thulasi\MSPOS1\SalesProject\obj\x86\Release\UCfrmVoid.g.cs
+E:\Thulasi\MSPOS1\SalesProject\obj\x86\Release\UCItemDisplayMaster.g.cs
+E:\Thulasi\MSPOS1\SalesProject\obj\x86\Release\UCItemUpdateQtyNRate.g.cs
+E:\Thulasi\MSPOS1\SalesProject\obj\x86\Release\UCKeyBoradAct.g.cs
+E:\Thulasi\MSPOS1\SalesProject\obj\x86\Release\UCMain.g.cs
+E:\Thulasi\MSPOS1\SalesProject\obj\x86\Release\UCPriceChange.g.cs
+E:\Thulasi\MSPOS1\SalesProject\obj\x86\Release\UCSalesCreation.g.cs
+E:\Thulasi\MSPOS1\SalesProject\obj\x86\Release\UCSalesmen.g.cs
+E:\Thulasi\MSPOS1\SalesProject\obj\x86\Release\App.g.cs
+E:\Thulasi\MSPOS1\SalesProject\obj\x86\Release\SalesProject_Content.g.cs
+E:\Thulasi\MSPOS1\SalesProject\obj\x86\Release\GeneratedInternalTypeHelper.g.cs
+E:\Thulasi\MSPOS1\SalesProject\obj\x86\Release\SalesProject_MarkupCompile.cache
+E:\Thulasi\MSPOS1\SalesProject\obj\x86\Release\SalesProject_MarkupCompile.lref
+E:\Thulasi\MSPOS1\SalesProject\obj\x86\Release\UCCreditCard.baml
+E:\Thulasi\MSPOS1\SalesProject\obj\x86\Release\UCCustomerList.baml
+E:\Thulasi\MSPOS1\SalesProject\obj\x86\Release\UCFormSettle.baml
+E:\Thulasi\MSPOS1\SalesProject\obj\x86\Release\UCfrmCommission.baml
+E:\Thulasi\MSPOS1\SalesProject\obj\x86\Release\UCFrmDiscount.baml
+E:\Thulasi\MSPOS1\SalesProject\obj\x86\Release\UCfrmHouseAccount.baml
+E:\Thulasi\MSPOS1\SalesProject\obj\x86\Release\UCFrmLogin.baml
+E:\Thulasi\MSPOS1\SalesProject\obj\x86\Release\UCFrmManagerMain.baml
+E:\Thulasi\MSPOS1\SalesProject\obj\x86\Release\UCfrmPayment.baml
+E:\Thulasi\MSPOS1\SalesProject\obj\x86\Release\UCFrmSplit.baml
+E:\Thulasi\MSPOS1\SalesProject\obj\x86\Release\UCfrmVoid.baml
+E:\Thulasi\MSPOS1\SalesProject\obj\x86\Release\UCMain.baml
+E:\Thulasi\MSPOS1\SalesProject\obj\x86\Release\UCSalesCreation.baml
+E:\Thulasi\MSPOS1\SalesProject\obj\x86\Release\UCSalesmen.baml
+E:\Thulasi\MSPOS1\SalesProject\obj\x86\Release\SalesProject.g.resources
+E:\Thulasi\MSPOS1\SalesProject\obj\x86\Release\SalesProject.addDiscount.resources
+E:\Thulasi\MSPOS1\SalesProject\obj\x86\Release\SalesProject.ChkingDataGrid.resources
+E:\Thulasi\MSPOS1\SalesProject\obj\x86\Release\SalesProject.CollapsiblePanel.resources
+E:\Thulasi\MSPOS1\SalesProject\obj\x86\Release\SalesProject.frmBackOffice1.resources
+E:\Thulasi\MSPOS1\SalesProject\obj\x86\Release\SalesProject.frmException.resources
+E:\Thulasi\MSPOS1\SalesProject\obj\x86\Release\SalesProject.frmFormColor.resources
+E:\Thulasi\MSPOS1\SalesProject\obj\x86\Release\SalesProject.FrmLedgerAlteration.resources
+E:\Thulasi\MSPOS1\SalesProject\obj\x86\Release\SalesProject.frmLedgerCreation.resources
+E:\Thulasi\MSPOS1\SalesProject\obj\x86\Release\SalesProject.FrmNewSales.resources
+E:\Thulasi\MSPOS1\SalesProject\obj\x86\Release\SalesProject.frmPeripheralSettings.resources
+E:\Thulasi\MSPOS1\SalesProject\obj\x86\Release\SalesProject._ExtraForm.frmQtyaNRate.resources
+E:\Thulasi\MSPOS1\SalesProject\obj\x86\Release\SalesProject.FrmTicketDisplay.resources
+E:\Thulasi\MSPOS1\SalesProject\obj\x86\Release\SalesProject.FrmTIcketIssue.resources
+E:\Thulasi\MSPOS1\SalesProject\obj\x86\Release\SalesProject.InfoForm.resources
+E:\Thulasi\MSPOS1\SalesProject\obj\x86\Release\SalesProject.ItemFilter.resources
+E:\Thulasi\MSPOS1\SalesProject\obj\x86\Release\SalesProject.ItemLedger.resources
+E:\Thulasi\MSPOS1\SalesProject\obj\x86\Release\SalesProject.ItemList.resources
+E:\Thulasi\MSPOS1\SalesProject\obj\x86\Release\SalesProject._Ledger.LedgerAlteration.resources
+E:\Thulasi\MSPOS1\SalesProject\obj\x86\Release\SalesProject.MonthlystockBreakeUp.resources
+E:\Thulasi\MSPOS1\SalesProject\obj\x86\Release\SalesProject.MyMessageBox.resources
+E:\Thulasi\MSPOS1\SalesProject\obj\x86\Release\SalesProject.MyMessageBox1.resources
+E:\Thulasi\MSPOS1\SalesProject\obj\x86\Release\SalesProject.MyMessageBox2.resources
+E:\Thulasi\MSPOS1\SalesProject\obj\x86\Release\SalesProject.Properties.Resources.resources
+E:\Thulasi\MSPOS1\SalesProject\obj\x86\Release\SalesProject.PurchaseEntry1.resources
+E:\Thulasi\MSPOS1\SalesProject\obj\x86\Release\SalesProject.Receipt.resources
+E:\Thulasi\MSPOS1\SalesProject\obj\x86\Release\SalesProject.StocReport.resources
+E:\Thulasi\MSPOS1\SalesProject\obj\x86\Release\SalesProject.unhideform.resources
+E:\Thulasi\MSPOS1\SalesProject\obj\x86\Release\SalesProject.csproj.GenerateResource.Cache
+E:\Thulasi\MSPOS1\SalesProject\obj\x86\Release\RdlCompile.cache
+E:\Thulasi\MSPOS1\SalesProject\obj\x86\Release\RdlCompile.compiled
+C:\Users\Hp\Desktop\MSPOS1\SalesProject\bin\Release\SalesProject.exe.config
+C:\Users\Hp\Desktop\MSPOS1\SalesProject\obj\x86\Release\SalesProject.exe
+C:\Users\Hp\Desktop\MSPOS1\SalesProject\obj\x86\Release\SalesProject.pdb
+C:\Users\Hp\Desktop\MSPOS1\SalesProject\bin\Release\SalesProject.exe
+C:\Users\Hp\Desktop\MSPOS1\SalesProject\bin\Release\SalesProject.pdb
+C:\Users\Hp\Desktop\MSPOS1\SalesProject\bin\Release\MSPOSBACKOFFICE.exe
+C:\Users\Hp\Desktop\MSPOS1\SalesProject\bin\Release\TabStripControlLibrary.dll
+C:\Users\Hp\Desktop\MSPOS1\SalesProject\bin\Release\MSPOSBACKOFFICE.pdb
+C:\Users\Hp\Desktop\MSPOS1\SalesProject\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Hp\Desktop\MSPOS1\SalesProject\obj\x86\Release\CreditCard.baml
+C:\Users\Hp\Desktop\MSPOS1\SalesProject\obj\x86\Release\FrmActivation.baml
+C:\Users\Hp\Desktop\MSPOS1\SalesProject\obj\x86\Release\frmCashDrawPassword.baml
+C:\Users\Hp\Desktop\MSPOS1\SalesProject\obj\x86\Release\FrmHold.baml
+C:\Users\Hp\Desktop\MSPOS1\SalesProject\obj\x86\Release\frmHouseAccount.baml
+C:\Users\Hp\Desktop\MSPOS1\SalesProject\obj\x86\Release\frmKeyBoard.baml
+C:\Users\Hp\Desktop\MSPOS1\SalesProject\obj\x86\Release\UCItemDisplayMaster.baml
+C:\Users\Hp\Desktop\MSPOS1\SalesProject\obj\x86\Release\UCItemUpdateQtyNRate.baml
+C:\Users\Hp\Desktop\MSPOS1\SalesProject\obj\x86\Release\UCKeyBoradAct.baml
+C:\Users\Hp\Desktop\MSPOS1\SalesProject\obj\x86\Release\UCPriceChange.baml
+C:\Users\Hp\Desktop\MSPOS1\SalesProject\obj\x86\Release\CreditCard.g.cs
+C:\Users\Hp\Desktop\MSPOS1\SalesProject\obj\x86\Release\FrmActivation.g.cs
+C:\Users\Hp\Desktop\MSPOS1\SalesProject\obj\x86\Release\frmCashDrawPassword.g.cs
+C:\Users\Hp\Desktop\MSPOS1\SalesProject\obj\x86\Release\FrmHold.g.cs
+C:\Users\Hp\Desktop\MSPOS1\SalesProject\obj\x86\Release\frmHouseAccount.g.cs
+C:\Users\Hp\Desktop\MSPOS1\SalesProject\obj\x86\Release\frmKeyBoard.g.cs
+C:\Users\Hp\Desktop\MSPOS1\SalesProject\obj\x86\Release\UCCreditCard.g.cs
+C:\Users\Hp\Desktop\MSPOS1\SalesProject\obj\x86\Release\UCCustomerList.g.cs
+C:\Users\Hp\Desktop\MSPOS1\SalesProject\obj\x86\Release\UCFormSettle.g.cs
+C:\Users\Hp\Desktop\MSPOS1\SalesProject\obj\x86\Release\UCfrmCommission.g.cs
+C:\Users\Hp\Desktop\MSPOS1\SalesProject\obj\x86\Release\UCFrmDiscount.g.cs
+C:\Users\Hp\Desktop\MSPOS1\SalesProject\obj\x86\Release\UCfrmHouseAccount.g.cs
+C:\Users\Hp\Desktop\MSPOS1\SalesProject\obj\x86\Release\UCFrmLogin.g.cs
+C:\Users\Hp\Desktop\MSPOS1\SalesProject\obj\x86\Release\UCFrmManagerMain.g.cs
+C:\Users\Hp\Desktop\MSPOS1\SalesProject\obj\x86\Release\UCfrmPayment.g.cs
+C:\Users\Hp\Desktop\MSPOS1\SalesProject\obj\x86\Release\UCFrmSplit.g.cs
+C:\Users\Hp\Desktop\MSPOS1\SalesProject\obj\x86\Release\UCfrmVoid.g.cs
+C:\Users\Hp\Desktop\MSPOS1\SalesProject\obj\x86\Release\UCItemDisplayMaster.g.cs
+C:\Users\Hp\Desktop\MSPOS1\SalesProject\obj\x86\Release\UCItemUpdateQtyNRate.g.cs
+C:\Users\Hp\Desktop\MSPOS1\SalesProject\obj\x86\Release\UCKeyBoradAct.g.cs
+C:\Users\Hp\Desktop\MSPOS1\SalesProject\obj\x86\Release\UCMain.g.cs
+C:\Users\Hp\Desktop\MSPOS1\SalesProject\obj\x86\Release\UCPriceChange.g.cs
+C:\Users\Hp\Desktop\MSPOS1\SalesProject\obj\x86\Release\UCSalesCreation.g.cs
+C:\Users\Hp\Desktop\MSPOS1\SalesProject\obj\x86\Release\UCSalesmen.g.cs
+C:\Users\Hp\Desktop\MSPOS1\SalesProject\obj\x86\Release\App.g.cs
+C:\Users\Hp\Desktop\MSPOS1\SalesProject\obj\x86\Release\SalesProject_Content.g.cs
+C:\Users\Hp\Desktop\MSPOS1\SalesProject\obj\x86\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\Hp\Desktop\MSPOS1\SalesProject\obj\x86\Release\SalesProject_MarkupCompile.cache
+C:\Users\Hp\Desktop\MSPOS1\SalesProject\obj\x86\Release\SalesProject_MarkupCompile.lref
+C:\Users\Hp\Desktop\MSPOS1\SalesProject\obj\x86\Release\UCCreditCard.baml
+C:\Users\Hp\Desktop\MSPOS1\SalesProject\obj\x86\Release\UCCustomerList.baml
+C:\Users\Hp\Desktop\MSPOS1\SalesProject\obj\x86\Release\UCFormSettle.baml
+C:\Users\Hp\Desktop\MSPOS1\SalesProject\obj\x86\Release\UCfrmCommission.baml
+C:\Users\Hp\Desktop\MSPOS1\SalesProject\obj\x86\Release\UCFrmDiscount.baml
+C:\Users\Hp\Desktop\MSPOS1\SalesProject\obj\x86\Release\UCfrmHouseAccount.baml
+C:\Users\Hp\Desktop\MSPOS1\SalesProject\obj\x86\Release\UCFrmLogin.baml
+C:\Users\Hp\Desktop\MSPOS1\SalesProject\obj\x86\Release\UCFrmManagerMain.baml
+C:\Users\Hp\Desktop\MSPOS1\SalesProject\obj\x86\Release\UCfrmPayment.baml
+C:\Users\Hp\Desktop\MSPOS1\SalesProject\obj\x86\Release\UCFrmSplit.baml
+C:\Users\Hp\Desktop\MSPOS1\SalesProject\obj\x86\Release\UCfrmVoid.baml
+C:\Users\Hp\Desktop\MSPOS1\SalesProject\obj\x86\Release\UCMain.baml
+C:\Users\Hp\Desktop\MSPOS1\SalesProject\obj\x86\Release\UCSalesCreation.baml
+C:\Users\Hp\Desktop\MSPOS1\SalesProject\obj\x86\Release\UCSalesmen.baml
+C:\Users\Hp\Desktop\MSPOS1\SalesProject\obj\x86\Release\SalesProject.g.resources
+C:\Users\Hp\Desktop\MSPOS1\SalesProject\obj\x86\Release\SalesProject.addDiscount.resources
+C:\Users\Hp\Desktop\MSPOS1\SalesProject\obj\x86\Release\SalesProject.ChkingDataGrid.resources
+C:\Users\Hp\Desktop\MSPOS1\SalesProject\obj\x86\Release\SalesProject.CollapsiblePanel.resources
+C:\Users\Hp\Desktop\MSPOS1\SalesProject\obj\x86\Release\SalesProject.frmBackOffice1.resources
+C:\Users\Hp\Desktop\MSPOS1\SalesProject\obj\x86\Release\SalesProject.frmException.resources
+C:\Users\Hp\Desktop\MSPOS1\SalesProject\obj\x86\Release\SalesProject.frmFormColor.resources
+C:\Users\Hp\Desktop\MSPOS1\SalesProject\obj\x86\Release\SalesProject.FrmLedgerAlteration.resources
+C:\Users\Hp\Desktop\MSPOS1\SalesProject\obj\x86\Release\SalesProject.frmLedgerCreation.resources
+C:\Users\Hp\Desktop\MSPOS1\SalesProject\obj\x86\Release\SalesProject.FrmNewSales.resources
+C:\Users\Hp\Desktop\MSPOS1\SalesProject\obj\x86\Release\SalesProject.frmPeripheralSettings.resources
+C:\Users\Hp\Desktop\MSPOS1\SalesProject\obj\x86\Release\SalesProject._ExtraForm.frmQtyaNRate.resources
+C:\Users\Hp\Desktop\MSPOS1\SalesProject\obj\x86\Release\SalesProject.FrmTicketDisplay.resources
+C:\Users\Hp\Desktop\MSPOS1\SalesProject\obj\x86\Release\SalesProject.FrmTIcketIssue.resources
+C:\Users\Hp\Desktop\MSPOS1\SalesProject\obj\x86\Release\SalesProject.InfoForm.resources
+C:\Users\Hp\Desktop\MSPOS1\SalesProject\obj\x86\Release\SalesProject.ItemFilter.resources
+C:\Users\Hp\Desktop\MSPOS1\SalesProject\obj\x86\Release\SalesProject.ItemLedger.resources
+C:\Users\Hp\Desktop\MSPOS1\SalesProject\obj\x86\Release\SalesProject.ItemList.resources
+C:\Users\Hp\Desktop\MSPOS1\SalesProject\obj\x86\Release\SalesProject._Ledger.LedgerAlteration.resources
+C:\Users\Hp\Desktop\MSPOS1\SalesProject\obj\x86\Release\SalesProject.MonthlystockBreakeUp.resources
+C:\Users\Hp\Desktop\MSPOS1\SalesProject\obj\x86\Release\SalesProject.MyMessageBox.resources
+C:\Users\Hp\Desktop\MSPOS1\SalesProject\obj\x86\Release\SalesProject.MyMessageBox1.resources
+C:\Users\Hp\Desktop\MSPOS1\SalesProject\obj\x86\Release\SalesProject.MyMessageBox2.resources
+C:\Users\Hp\Desktop\MSPOS1\SalesProject\obj\x86\Release\SalesProject.Properties.Resources.resources
+C:\Users\Hp\Desktop\MSPOS1\SalesProject\obj\x86\Release\SalesProject.PurchaseEntry1.resources
+C:\Users\Hp\Desktop\MSPOS1\SalesProject\obj\x86\Release\SalesProject.Receipt.resources
+C:\Users\Hp\Desktop\MSPOS1\SalesProject\obj\x86\Release\SalesProject.StocReport.resources
+C:\Users\Hp\Desktop\MSPOS1\SalesProject\obj\x86\Release\SalesProject.unhideform.resources
+C:\Users\Hp\Desktop\MSPOS1\SalesProject\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Hp\Desktop\MSPOS1\SalesProject\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Hp\Desktop\MSPOS1\SalesProject\obj\x86\Release\RdlCompile.cache
+C:\Users\Hp\Desktop\MSPOS1\SalesProject\obj\x86\Release\RdlCompile.compiled
+E:\Updated POS\MSPOS1\SalesProject\bin\Release\SalesProject.exe.config
+E:\Updated POS\MSPOS1\SalesProject\obj\x86\Release\SalesProject.exe
+E:\Updated POS\MSPOS1\SalesProject\obj\x86\Release\SalesProject.pdb
+E:\Updated POS\MSPOS1\SalesProject\bin\Release\SalesProject.exe
+E:\Updated POS\MSPOS1\SalesProject\bin\Release\SalesProject.pdb
+E:\Updated POS\MSPOS1\SalesProject\bin\Release\MSPOSBACKOFFICE.exe
+E:\Updated POS\MSPOS1\SalesProject\bin\Release\TabStripControlLibrary.dll
+E:\Updated POS\MSPOS1\SalesProject\bin\Release\MSPOSBACKOFFICE.pdb
+E:\Updated POS\MSPOS1\SalesProject\obj\x86\Release\SalesProject.csprojResolveAssemblyReference.cache
+E:\Updated POS\MSPOS1\SalesProject\obj\x86\Release\CreditCard.baml
+E:\Updated POS\MSPOS1\SalesProject\obj\x86\Release\FrmActivation.baml
+E:\Updated POS\MSPOS1\SalesProject\obj\x86\Release\frmCashDrawPassword.baml
+E:\Updated POS\MSPOS1\SalesProject\obj\x86\Release\FrmHold.baml
+E:\Updated POS\MSPOS1\SalesProject\obj\x86\Release\frmHouseAccount.baml
+E:\Updated POS\MSPOS1\SalesProject\obj\x86\Release\frmKeyBoard.baml
+E:\Updated POS\MSPOS1\SalesProject\obj\x86\Release\UCItemDisplayMaster.baml
+E:\Updated POS\MSPOS1\SalesProject\obj\x86\Release\UCItemUpdateQtyNRate.baml
+E:\Updated POS\MSPOS1\SalesProject\obj\x86\Release\UCKeyBoradAct.baml
+E:\Updated POS\MSPOS1\SalesProject\obj\x86\Release\UCPriceChange.baml
+E:\Updated POS\MSPOS1\SalesProject\obj\x86\Release\CreditCard.g.cs
+E:\Updated POS\MSPOS1\SalesProject\obj\x86\Release\FrmActivation.g.cs
+E:\Updated POS\MSPOS1\SalesProject\obj\x86\Release\frmCashDrawPassword.g.cs
+E:\Updated POS\MSPOS1\SalesProject\obj\x86\Release\FrmHold.g.cs
+E:\Updated POS\MSPOS1\SalesProject\obj\x86\Release\frmHouseAccount.g.cs
+E:\Updated POS\MSPOS1\SalesProject\obj\x86\Release\frmKeyBoard.g.cs
+E:\Updated POS\MSPOS1\SalesProject\obj\x86\Release\UCCreditCard.g.cs
+E:\Updated POS\MSPOS1\SalesProject\obj\x86\Release\UCCustomerList.g.cs
+E:\Updated POS\MSPOS1\SalesProject\obj\x86\Release\UCFormSettle.g.cs
+E:\Updated POS\MSPOS1\SalesProject\obj\x86\Release\UCfrmCommission.g.cs
+E:\Updated POS\MSPOS1\SalesProject\obj\x86\Release\UCFrmDiscount.g.cs
+E:\Updated POS\MSPOS1\SalesProject\obj\x86\Release\UCfrmHouseAccount.g.cs
+E:\Updated POS\MSPOS1\SalesProject\obj\x86\Release\UCFrmLogin.g.cs
+E:\Updated POS\MSPOS1\SalesProject\obj\x86\Release\UCFrmManagerMain.g.cs
+E:\Updated POS\MSPOS1\SalesProject\obj\x86\Release\UCfrmPayment.g.cs
+E:\Updated POS\MSPOS1\SalesProject\obj\x86\Release\UCFrmSplit.g.cs
+E:\Updated POS\MSPOS1\SalesProject\obj\x86\Release\UCfrmVoid.g.cs
+E:\Updated POS\MSPOS1\SalesProject\obj\x86\Release\UCItemDisplayMaster.g.cs
+E:\Updated POS\MSPOS1\SalesProject\obj\x86\Release\UCItemUpdateQtyNRate.g.cs
+E:\Updated POS\MSPOS1\SalesProject\obj\x86\Release\UCKeyBoradAct.g.cs
+E:\Updated POS\MSPOS1\SalesProject\obj\x86\Release\UCMain.g.cs
+E:\Updated POS\MSPOS1\SalesProject\obj\x86\Release\UCPriceChange.g.cs
+E:\Updated POS\MSPOS1\SalesProject\obj\x86\Release\UCSalesCreation.g.cs
+E:\Updated POS\MSPOS1\SalesProject\obj\x86\Release\UCSalesmen.g.cs
+E:\Updated POS\MSPOS1\SalesProject\obj\x86\Release\App.g.cs
+E:\Updated POS\MSPOS1\SalesProject\obj\x86\Release\SalesProject_Content.g.cs
+E:\Updated POS\MSPOS1\SalesProject\obj\x86\Release\GeneratedInternalTypeHelper.g.cs
+E:\Updated POS\MSPOS1\SalesProject\obj\x86\Release\SalesProject_MarkupCompile.cache
+E:\Updated POS\MSPOS1\SalesProject\obj\x86\Release\SalesProject_MarkupCompile.lref
+E:\Updated POS\MSPOS1\SalesProject\obj\x86\Release\UCCreditCard.baml
+E:\Updated POS\MSPOS1\SalesProject\obj\x86\Release\UCCustomerList.baml
+E:\Updated POS\MSPOS1\SalesProject\obj\x86\Release\UCFormSettle.baml
+E:\Updated POS\MSPOS1\SalesProject\obj\x86\Release\UCfrmCommission.baml
+E:\Updated POS\MSPOS1\SalesProject\obj\x86\Release\UCFrmDiscount.baml
+E:\Updated POS\MSPOS1\SalesProject\obj\x86\Release\UCfrmHouseAccount.baml
+E:\Updated POS\MSPOS1\SalesProject\obj\x86\Release\UCFrmLogin.baml
+E:\Updated POS\MSPOS1\SalesProject\obj\x86\Release\UCFrmManagerMain.baml
+E:\Updated POS\MSPOS1\SalesProject\obj\x86\Release\UCfrmPayment.baml
+E:\Updated POS\MSPOS1\SalesProject\obj\x86\Release\UCFrmSplit.baml
+E:\Updated POS\MSPOS1\SalesProject\obj\x86\Release\UCfrmVoid.baml
+E:\Updated POS\MSPOS1\SalesProject\obj\x86\Release\UCMain.baml
+E:\Updated POS\MSPOS1\SalesProject\obj\x86\Release\UCSalesCreation.baml
+E:\Updated POS\MSPOS1\SalesProject\obj\x86\Release\UCSalesmen.baml
+E:\Updated POS\MSPOS1\SalesProject\obj\x86\Release\SalesProject.g.resources
+E:\Updated POS\MSPOS1\SalesProject\obj\x86\Release\SalesProject.addDiscount.resources
+E:\Updated POS\MSPOS1\SalesProject\obj\x86\Release\SalesProject.ChkingDataGrid.resources
+E:\Updated POS\MSPOS1\SalesProject\obj\x86\Release\SalesProject.CollapsiblePanel.resources
+E:\Updated POS\MSPOS1\SalesProject\obj\x86\Release\SalesProject.frmBackOffice1.resources
+E:\Updated POS\MSPOS1\SalesProject\obj\x86\Release\SalesProject.frmException.resources
+E:\Updated POS\MSPOS1\SalesProject\obj\x86\Release\SalesProject.frmFormColor.resources
+E:\Updated POS\MSPOS1\SalesProject\obj\x86\Release\SalesProject.FrmLedgerAlteration.resources
+E:\Updated POS\MSPOS1\SalesProject\obj\x86\Release\SalesProject.frmLedgerCreation.resources
+E:\Updated POS\MSPOS1\SalesProject\obj\x86\Release\SalesProject.FrmNewSales.resources
+E:\Updated POS\MSPOS1\SalesProject\obj\x86\Release\SalesProject.frmPeripheralSettings.resources
+E:\Updated POS\MSPOS1\SalesProject\obj\x86\Release\SalesProject._ExtraForm.frmQtyaNRate.resources
+E:\Updated POS\MSPOS1\SalesProject\obj\x86\Release\SalesProject.FrmTicketDisplay.resources
+E:\Updated POS\MSPOS1\SalesProject\obj\x86\Release\SalesProject.FrmTIcketIssue.resources
+E:\Updated POS\MSPOS1\SalesProject\obj\x86\Release\SalesProject.InfoForm.resources
+E:\Updated POS\MSPOS1\SalesProject\obj\x86\Release\SalesProject.ItemFilter.resources
+E:\Updated POS\MSPOS1\SalesProject\obj\x86\Release\SalesProject.ItemLedger.resources
+E:\Updated POS\MSPOS1\SalesProject\obj\x86\Release\SalesProject.ItemList.resources
+E:\Updated POS\MSPOS1\SalesProject\obj\x86\Release\SalesProject._Ledger.LedgerAlteration.resources
+E:\Updated POS\MSPOS1\SalesProject\obj\x86\Release\SalesProject.MonthlystockBreakeUp.resources
+E:\Updated POS\MSPOS1\SalesProject\obj\x86\Release\SalesProject.MyMessageBox.resources
+E:\Updated POS\MSPOS1\SalesProject\obj\x86\Release\SalesProject.MyMessageBox1.resources
+E:\Updated POS\MSPOS1\SalesProject\obj\x86\Release\SalesProject.MyMessageBox2.resources
+E:\Updated POS\MSPOS1\SalesProject\obj\x86\Release\SalesProject.Properties.Resources.resources
+E:\Updated POS\MSPOS1\SalesProject\obj\x86\Release\SalesProject.PurchaseEntry1.resources
+E:\Updated POS\MSPOS1\SalesProject\obj\x86\Release\SalesProject.Receipt.resources
+E:\Updated POS\MSPOS1\SalesProject\obj\x86\Release\SalesProject.StocReport.resources
+E:\Updated POS\MSPOS1\SalesProject\obj\x86\Release\SalesProject.unhideform.resources
+E:\Updated POS\MSPOS1\SalesProject\obj\x86\Release\SalesProject.csproj.GenerateResource.Cache
+E:\Updated POS\MSPOS1\SalesProject\obj\x86\Release\RdlCompile.cache
+E:\Updated POS\MSPOS1\SalesProject\obj\x86\Release\RdlCompile.compiled
+E:\POS Final\MSPOS1\SalesProject\bin\Release\SalesProject.exe.config
+E:\POS Final\MSPOS1\SalesProject\obj\x86\Release\SalesProject.exe
+E:\POS Final\MSPOS1\SalesProject\obj\x86\Release\SalesProject.pdb
+E:\POS Final Version 5\MSPOS1\SalesProject\bin\Release\SalesProject.exe.config
+E:\POS Final Version 5\MSPOS1\SalesProject\obj\x86\Release\SalesProject.exe
+E:\POS Final Version 5\MSPOS1\SalesProject\obj\x86\Release\SalesProject.pdb
+E:\POS Final Version 5\MSPOS1\SalesProject\bin\Release\SalesProject.exe
+E:\POS Final Version 5\MSPOS1\SalesProject\bin\Release\SalesProject.pdb
+E:\POS Final Version 5\MSPOS1\SalesProject\bin\Release\MSPOSBACKOFFICE.exe
+E:\POS Final Version 5\MSPOS1\SalesProject\bin\Release\TabStripControlLibrary.dll
+E:\POS Final Version 5\MSPOS1\SalesProject\bin\Release\MSPOSBACKOFFICE.pdb
+E:\POS Final Version 5\MSPOS1\SalesProject\obj\x86\Release\SalesProject.csprojResolveAssemblyReference.cache
+E:\POS Final Version 5\MSPOS1\SalesProject\obj\x86\Release\CreditCard.baml
+E:\POS Final Version 5\MSPOS1\SalesProject\obj\x86\Release\FrmActivation.baml
+E:\POS Final Version 5\MSPOS1\SalesProject\obj\x86\Release\frmCashDrawPassword.baml
+E:\POS Final Version 5\MSPOS1\SalesProject\obj\x86\Release\FrmHold.baml
+E:\POS Final Version 5\MSPOS1\SalesProject\obj\x86\Release\frmHouseAccount.baml
+E:\POS Final Version 5\MSPOS1\SalesProject\obj\x86\Release\frmKeyBoard.baml
+E:\POS Final Version 5\MSPOS1\SalesProject\obj\x86\Release\UCItemDisplayMaster.baml
+E:\POS Final Version 5\MSPOS1\SalesProject\obj\x86\Release\UCItemUpdateQtyNRate.baml
+E:\POS Final Version 5\MSPOS1\SalesProject\obj\x86\Release\UCKeyBoradAct.baml
+E:\POS Final Version 5\MSPOS1\SalesProject\obj\x86\Release\UCPriceChange.baml
+E:\POS Final Version 5\MSPOS1\SalesProject\obj\x86\Release\CreditCard.g.cs
+E:\POS Final Version 5\MSPOS1\SalesProject\obj\x86\Release\FrmActivation.g.cs
+E:\POS Final Version 5\MSPOS1\SalesProject\obj\x86\Release\frmCashDrawPassword.g.cs
+E:\POS Final Version 5\MSPOS1\SalesProject\obj\x86\Release\FrmHold.g.cs
+E:\POS Final Version 5\MSPOS1\SalesProject\obj\x86\Release\frmHouseAccount.g.cs
+E:\POS Final Version 5\MSPOS1\SalesProject\obj\x86\Release\frmKeyBoard.g.cs
+E:\POS Final Version 5\MSPOS1\SalesProject\obj\x86\Release\UCCreditCard.g.cs
+E:\POS Final Version 5\MSPOS1\SalesProject\obj\x86\Release\UCCustomerList.g.cs
+E:\POS Final Version 5\MSPOS1\SalesProject\obj\x86\Release\UCFormSettle.g.cs
+E:\POS Final Version 5\MSPOS1\SalesProject\obj\x86\Release\UCfrmCommission.g.cs
+E:\POS Final Version 5\MSPOS1\SalesProject\obj\x86\Release\UCFrmDiscount.g.cs
+E:\POS Final Version 5\MSPOS1\SalesProject\obj\x86\Release\UCfrmHouseAccount.g.cs
+E:\POS Final Version 5\MSPOS1\SalesProject\obj\x86\Release\UCFrmLogin.g.cs
+E:\POS Final Version 5\MSPOS1\SalesProject\obj\x86\Release\UCFrmManagerMain.g.cs
+E:\POS Final Version 5\MSPOS1\SalesProject\obj\x86\Release\UCfrmPayment.g.cs
+E:\POS Final Version 5\MSPOS1\SalesProject\obj\x86\Release\UCFrmSplit.g.cs
+E:\POS Final Version 5\MSPOS1\SalesProject\obj\x86\Release\UCfrmVoid.g.cs
+E:\POS Final Version 5\MSPOS1\SalesProject\obj\x86\Release\UCItemDisplayMaster.g.cs
+E:\POS Final Version 5\MSPOS1\SalesProject\obj\x86\Release\UCItemUpdateQtyNRate.g.cs
+E:\POS Final Version 5\MSPOS1\SalesProject\obj\x86\Release\UCKeyBoradAct.g.cs
+E:\POS Final Version 5\MSPOS1\SalesProject\obj\x86\Release\UCMain.g.cs
+E:\POS Final Version 5\MSPOS1\SalesProject\obj\x86\Release\UCPriceChange.g.cs
+E:\POS Final Version 5\MSPOS1\SalesProject\obj\x86\Release\UCSalesCreation.g.cs
+E:\POS Final Version 5\MSPOS1\SalesProject\obj\x86\Release\UCSalesmen.g.cs
+E:\POS Final Version 5\MSPOS1\SalesProject\obj\x86\Release\App.g.cs
+E:\POS Final Version 5\MSPOS1\SalesProject\obj\x86\Release\SalesProject_Content.g.cs
+E:\POS Final Version 5\MSPOS1\SalesProject\obj\x86\Release\GeneratedInternalTypeHelper.g.cs
+E:\POS Final Version 5\MSPOS1\SalesProject\obj\x86\Release\SalesProject_MarkupCompile.cache
+E:\POS Final Version 5\MSPOS1\SalesProject\obj\x86\Release\SalesProject_MarkupCompile.lref
+E:\POS Final Version 5\MSPOS1\SalesProject\obj\x86\Release\UCCreditCard.baml
+E:\POS Final Version 5\MSPOS1\SalesProject\obj\x86\Release\UCCustomerList.baml
+E:\POS Final Version 5\MSPOS1\SalesProject\obj\x86\Release\UCFormSettle.baml
+E:\POS Final Version 5\MSPOS1\SalesProject\obj\x86\Release\UCfrmCommission.baml
+E:\POS Final Version 5\MSPOS1\SalesProject\obj\x86\Release\UCFrmDiscount.baml
+E:\POS Final Version 5\MSPOS1\SalesProject\obj\x86\Release\UCfrmHouseAccount.baml
+E:\POS Final Version 5\MSPOS1\SalesProject\obj\x86\Release\UCFrmLogin.baml
+E:\POS Final Version 5\MSPOS1\SalesProject\obj\x86\Release\UCFrmManagerMain.baml
+E:\POS Final Version 5\MSPOS1\SalesProject\obj\x86\Release\UCfrmPayment.baml
+E:\POS Final Version 5\MSPOS1\SalesProject\obj\x86\Release\UCFrmSplit.baml
+E:\POS Final Version 5\MSPOS1\SalesProject\obj\x86\Release\UCfrmVoid.baml
+E:\POS Final Version 5\MSPOS1\SalesProject\obj\x86\Release\UCMain.baml
+E:\POS Final Version 5\MSPOS1\SalesProject\obj\x86\Release\UCSalesCreation.baml
+E:\POS Final Version 5\MSPOS1\SalesProject\obj\x86\Release\UCSalesmen.baml
+E:\POS Final Version 5\MSPOS1\SalesProject\obj\x86\Release\SalesProject.g.resources
+E:\POS Final Version 5\MSPOS1\SalesProject\obj\x86\Release\SalesProject.addDiscount.resources
+E:\POS Final Version 5\MSPOS1\SalesProject\obj\x86\Release\SalesProject.ChkingDataGrid.resources
+E:\POS Final Version 5\MSPOS1\SalesProject\obj\x86\Release\SalesProject.CollapsiblePanel.resources
+E:\POS Final Version 5\MSPOS1\SalesProject\obj\x86\Release\SalesProject.frmBackOffice1.resources
+E:\POS Final Version 5\MSPOS1\SalesProject\obj\x86\Release\SalesProject.frmException.resources
+E:\POS Final Version 5\MSPOS1\SalesProject\obj\x86\Release\SalesProject.frmFormColor.resources
+E:\POS Final Version 5\MSPOS1\SalesProject\obj\x86\Release\SalesProject.FrmLedgerAlteration.resources
+E:\POS Final Version 5\MSPOS1\SalesProject\obj\x86\Release\SalesProject.frmLedgerCreation.resources
+E:\POS Final Version 5\MSPOS1\SalesProject\obj\x86\Release\SalesProject.FrmNewSales.resources
+E:\POS Final Version 5\MSPOS1\SalesProject\obj\x86\Release\SalesProject.frmPeripheralSettings.resources
+E:\POS Final Version 5\MSPOS1\SalesProject\obj\x86\Release\SalesProject._ExtraForm.frmQtyaNRate.resources
+E:\POS Final Version 5\MSPOS1\SalesProject\obj\x86\Release\SalesProject.FrmTicketDisplay.resources
+E:\POS Final Version 5\MSPOS1\SalesProject\obj\x86\Release\SalesProject.FrmTIcketIssue.resources
+E:\POS Final Version 5\MSPOS1\SalesProject\obj\x86\Release\SalesProject.InfoForm.resources
+E:\POS Final Version 5\MSPOS1\SalesProject\obj\x86\Release\SalesProject.ItemFilter.resources
+E:\POS Final Version 5\MSPOS1\SalesProject\obj\x86\Release\SalesProject.ItemLedger.resources
+E:\POS Final Version 5\MSPOS1\SalesProject\obj\x86\Release\SalesProject.ItemList.resources
+E:\POS Final Version 5\MSPOS1\SalesProject\obj\x86\Release\SalesProject._Ledger.LedgerAlteration.resources
+E:\POS Final Version 5\MSPOS1\SalesProject\obj\x86\Release\SalesProject.MonthlystockBreakeUp.resources
+E:\POS Final Version 5\MSPOS1\SalesProject\obj\x86\Release\SalesProject.MyMessageBox.resources
+E:\POS Final Version 5\MSPOS1\SalesProject\obj\x86\Release\SalesProject.MyMessageBox1.resources
+E:\POS Final Version 5\MSPOS1\SalesProject\obj\x86\Release\SalesProject.MyMessageBox2.resources
+E:\POS Final Version 5\MSPOS1\SalesProject\obj\x86\Release\SalesProject.Properties.Resources.resources
+E:\POS Final Version 5\MSPOS1\SalesProject\obj\x86\Release\SalesProject.PurchaseEntry1.resources
+E:\POS Final Version 5\MSPOS1\SalesProject\obj\x86\Release\SalesProject.Receipt.resources
+E:\POS Final Version 5\MSPOS1\SalesProject\obj\x86\Release\SalesProject.StocReport.resources
+E:\POS Final Version 5\MSPOS1\SalesProject\obj\x86\Release\SalesProject.unhideform.resources
+E:\POS Final Version 5\MSPOS1\SalesProject\obj\x86\Release\SalesProject.csproj.GenerateResource.Cache
+E:\POS Final Version 5\MSPOS1\SalesProject\obj\x86\Release\RdlCompile.cache
+E:\POS Final Version 5\MSPOS1\SalesProject\obj\x86\Release\RdlCompile.compiled
+E:\SETUP TESTING\MSPOS1\SalesProject\bin\Release\SalesProject.exe.config
+E:\SETUP TESTING\MSPOS1\SalesProject\obj\x86\Release\SalesProject.exe
+E:\SETUP TESTING\MSPOS1\SalesProject\obj\x86\Release\SalesProject.pdb
+E:\SETUP TESTING\MSPOS1\SalesProject\bin\Release\SalesProject.exe
+E:\SETUP TESTING\MSPOS1\SalesProject\bin\Release\SalesProject.pdb
+E:\SETUP TESTING\MSPOS1\SalesProject\bin\Release\MSPOSBACKOFFICE.exe
+E:\SETUP TESTING\MSPOS1\SalesProject\bin\Release\TabStripControlLibrary.dll
+E:\SETUP TESTING\MSPOS1\SalesProject\bin\Release\MSPOSBACKOFFICE.pdb
+E:\SETUP TESTING\MSPOS1\SalesProject\obj\x86\Release\SalesProject.csprojResolveAssemblyReference.cache
+E:\SETUP TESTING\MSPOS1\SalesProject\obj\x86\Release\CreditCard.baml
+E:\SETUP TESTING\MSPOS1\SalesProject\obj\x86\Release\FrmActivation.baml
+E:\SETUP TESTING\MSPOS1\SalesProject\obj\x86\Release\frmCashDrawPassword.baml
+E:\SETUP TESTING\MSPOS1\SalesProject\obj\x86\Release\FrmHold.baml
+E:\SETUP TESTING\MSPOS1\SalesProject\obj\x86\Release\frmHouseAccount.baml
+E:\SETUP TESTING\MSPOS1\SalesProject\obj\x86\Release\frmKeyBoard.baml
+E:\SETUP TESTING\MSPOS1\SalesProject\obj\x86\Release\UCItemDisplayMaster.baml
+E:\SETUP TESTING\MSPOS1\SalesProject\obj\x86\Release\UCItemUpdateQtyNRate.baml
+E:\SETUP TESTING\MSPOS1\SalesProject\obj\x86\Release\UCKeyBoradAct.baml
+E:\SETUP TESTING\MSPOS1\SalesProject\obj\x86\Release\UCPriceChange.baml
+E:\SETUP TESTING\MSPOS1\SalesProject\obj\x86\Release\CreditCard.g.cs
+E:\SETUP TESTING\MSPOS1\SalesProject\obj\x86\Release\FrmActivation.g.cs
+E:\SETUP TESTING\MSPOS1\SalesProject\obj\x86\Release\frmCashDrawPassword.g.cs
+E:\SETUP TESTING\MSPOS1\SalesProject\obj\x86\Release\FrmHold.g.cs
+E:\SETUP TESTING\MSPOS1\SalesProject\obj\x86\Release\frmHouseAccount.g.cs
+E:\SETUP TESTING\MSPOS1\SalesProject\obj\x86\Release\frmKeyBoard.g.cs
+E:\SETUP TESTING\MSPOS1\SalesProject\obj\x86\Release\UCCreditCard.g.cs
+E:\SETUP TESTING\MSPOS1\SalesProject\obj\x86\Release\UCCustomerList.g.cs
+E:\SETUP TESTING\MSPOS1\SalesProject\obj\x86\Release\UCFormSettle.g.cs
+E:\SETUP TESTING\MSPOS1\SalesProject\obj\x86\Release\UCfrmCommission.g.cs
+E:\SETUP TESTING\MSPOS1\SalesProject\obj\x86\Release\UCFrmDiscount.g.cs
+E:\SETUP TESTING\MSPOS1\SalesProject\obj\x86\Release\UCfrmHouseAccount.g.cs
+E:\SETUP TESTING\MSPOS1\SalesProject\obj\x86\Release\UCFrmLogin.g.cs
+E:\SETUP TESTING\MSPOS1\SalesProject\obj\x86\Release\UCFrmManagerMain.g.cs
+E:\SETUP TESTING\MSPOS1\SalesProject\obj\x86\Release\UCfrmPayment.g.cs
+E:\SETUP TESTING\MSPOS1\SalesProject\obj\x86\Release\UCFrmSplit.g.cs
+E:\SETUP TESTING\MSPOS1\SalesProject\obj\x86\Release\UCfrmVoid.g.cs
+E:\SETUP TESTING\MSPOS1\SalesProject\obj\x86\Release\UCItemDisplayMaster.g.cs
+E:\SETUP TESTING\MSPOS1\SalesProject\obj\x86\Release\UCItemUpdateQtyNRate.g.cs
+E:\SETUP TESTING\MSPOS1\SalesProject\obj\x86\Release\UCKeyBoradAct.g.cs
+E:\SETUP TESTING\MSPOS1\SalesProject\obj\x86\Release\UCMain.g.cs
+E:\SETUP TESTING\MSPOS1\SalesProject\obj\x86\Release\UCPriceChange.g.cs
+E:\SETUP TESTING\MSPOS1\SalesProject\obj\x86\Release\UCSalesCreation.g.cs
+E:\SETUP TESTING\MSPOS1\SalesProject\obj\x86\Release\UCSalesmen.g.cs
+E:\SETUP TESTING\MSPOS1\SalesProject\obj\x86\Release\App.g.cs
+E:\SETUP TESTING\MSPOS1\SalesProject\obj\x86\Release\SalesProject_Content.g.cs
+E:\SETUP TESTING\MSPOS1\SalesProject\obj\x86\Release\GeneratedInternalTypeHelper.g.cs
+E:\SETUP TESTING\MSPOS1\SalesProject\obj\x86\Release\SalesProject_MarkupCompile.cache
+E:\SETUP TESTING\MSPOS1\SalesProject\obj\x86\Release\SalesProject_MarkupCompile.lref
+E:\SETUP TESTING\MSPOS1\SalesProject\obj\x86\Release\UCCreditCard.baml
+E:\SETUP TESTING\MSPOS1\SalesProject\obj\x86\Release\UCCustomerList.baml
+E:\SETUP TESTING\MSPOS1\SalesProject\obj\x86\Release\UCFormSettle.baml
+E:\SETUP TESTING\MSPOS1\SalesProject\obj\x86\Release\UCfrmCommission.baml
+E:\SETUP TESTING\MSPOS1\SalesProject\obj\x86\Release\UCFrmDiscount.baml
+E:\SETUP TESTING\MSPOS1\SalesProject\obj\x86\Release\UCfrmHouseAccount.baml
+E:\SETUP TESTING\MSPOS1\SalesProject\obj\x86\Release\UCFrmLogin.baml
+E:\SETUP TESTING\MSPOS1\SalesProject\obj\x86\Release\UCFrmManagerMain.baml
+E:\SETUP TESTING\MSPOS1\SalesProject\obj\x86\Release\UCfrmPayment.baml
+E:\SETUP TESTING\MSPOS1\SalesProject\obj\x86\Release\UCFrmSplit.baml
+E:\SETUP TESTING\MSPOS1\SalesProject\obj\x86\Release\UCfrmVoid.baml
+E:\SETUP TESTING\MSPOS1\SalesProject\obj\x86\Release\UCMain.baml
+E:\SETUP TESTING\MSPOS1\SalesProject\obj\x86\Release\UCSalesCreation.baml
+E:\SETUP TESTING\MSPOS1\SalesProject\obj\x86\Release\UCSalesmen.baml
+E:\SETUP TESTING\MSPOS1\SalesProject\obj\x86\Release\SalesProject.g.resources
+E:\SETUP TESTING\MSPOS1\SalesProject\obj\x86\Release\SalesProject.addDiscount.resources
+E:\SETUP TESTING\MSPOS1\SalesProject\obj\x86\Release\SalesProject.ChkingDataGrid.resources
+E:\SETUP TESTING\MSPOS1\SalesProject\obj\x86\Release\SalesProject.CollapsiblePanel.resources
+E:\SETUP TESTING\MSPOS1\SalesProject\obj\x86\Release\SalesProject.frmBackOffice1.resources
+E:\SETUP TESTING\MSPOS1\SalesProject\obj\x86\Release\SalesProject.frmException.resources
+E:\SETUP TESTING\MSPOS1\SalesProject\obj\x86\Release\SalesProject.frmFormColor.resources
+E:\SETUP TESTING\MSPOS1\SalesProject\obj\x86\Release\SalesProject.FrmLedgerAlteration.resources
+E:\SETUP TESTING\MSPOS1\SalesProject\obj\x86\Release\SalesProject.frmLedgerCreation.resources
+E:\SETUP TESTING\MSPOS1\SalesProject\obj\x86\Release\SalesProject.FrmNewSales.resources
+E:\SETUP TESTING\MSPOS1\SalesProject\obj\x86\Release\SalesProject.frmPeripheralSettings.resources
+E:\SETUP TESTING\MSPOS1\SalesProject\obj\x86\Release\SalesProject._ExtraForm.frmQtyaNRate.resources
+E:\SETUP TESTING\MSPOS1\SalesProject\obj\x86\Release\SalesProject.FrmTicketDisplay.resources
+E:\SETUP TESTING\MSPOS1\SalesProject\obj\x86\Release\SalesProject.FrmTIcketIssue.resources
+E:\SETUP TESTING\MSPOS1\SalesProject\obj\x86\Release\SalesProject.InfoForm.resources
+E:\SETUP TESTING\MSPOS1\SalesProject\obj\x86\Release\SalesProject.ItemFilter.resources
+E:\SETUP TESTING\MSPOS1\SalesProject\obj\x86\Release\SalesProject.ItemLedger.resources
+E:\SETUP TESTING\MSPOS1\SalesProject\obj\x86\Release\SalesProject.ItemList.resources
+E:\SETUP TESTING\MSPOS1\SalesProject\obj\x86\Release\SalesProject._Ledger.LedgerAlteration.resources
+E:\SETUP TESTING\MSPOS1\SalesProject\obj\x86\Release\SalesProject.MonthlystockBreakeUp.resources
+E:\SETUP TESTING\MSPOS1\SalesProject\obj\x86\Release\SalesProject.MyMessageBox.resources
+E:\SETUP TESTING\MSPOS1\SalesProject\obj\x86\Release\SalesProject.MyMessageBox1.resources
+E:\SETUP TESTING\MSPOS1\SalesProject\obj\x86\Release\SalesProject.MyMessageBox2.resources
+E:\SETUP TESTING\MSPOS1\SalesProject\obj\x86\Release\SalesProject.Properties.Resources.resources
+E:\SETUP TESTING\MSPOS1\SalesProject\obj\x86\Release\SalesProject.PurchaseEntry1.resources
+E:\SETUP TESTING\MSPOS1\SalesProject\obj\x86\Release\SalesProject.Receipt.resources
+E:\SETUP TESTING\MSPOS1\SalesProject\obj\x86\Release\SalesProject.StocReport.resources
+E:\SETUP TESTING\MSPOS1\SalesProject\obj\x86\Release\SalesProject.unhideform.resources
+E:\SETUP TESTING\MSPOS1\SalesProject\obj\x86\Release\SalesProject.csproj.GenerateResource.Cache
+E:\SETUP TESTING\MSPOS1\SalesProject\obj\x86\Release\RdlCompile.cache
+E:\SETUP TESTING\MSPOS1\SalesProject\obj\x86\Release\RdlCompile.compiled
+E:\SETUP TESTING version 9\MSPOS1\SalesProject\bin\Release\SalesProject.exe.config
+E:\SETUP TESTING version 9\MSPOS1\SalesProject\obj\x86\Release\SalesProject.exe
+E:\SETUP TESTING version 9\MSPOS1\SalesProject\obj\x86\Release\SalesProject.pdb
+E:\SETUP TESTING version 9\MSPOS1\SalesProject\bin\Release\SalesProject.exe
+E:\SETUP TESTING version 9\MSPOS1\SalesProject\bin\Release\SalesProject.pdb
+E:\SETUP TESTING version 9\MSPOS1\SalesProject\bin\Release\MSPOSBACKOFFICE.exe
+E:\SETUP TESTING version 9\MSPOS1\SalesProject\bin\Release\TabStripControlLibrary.dll
+E:\SETUP TESTING version 9\MSPOS1\SalesProject\bin\Release\MSPOSBACKOFFICE.pdb
+E:\SETUP TESTING version 9\MSPOS1\SalesProject\obj\x86\Release\SalesProject.csprojResolveAssemblyReference.cache
+E:\SETUP TESTING version 9\MSPOS1\SalesProject\obj\x86\Release\CreditCard.baml
+E:\SETUP TESTING version 9\MSPOS1\SalesProject\obj\x86\Release\FrmActivation.baml
+E:\SETUP TESTING version 9\MSPOS1\SalesProject\obj\x86\Release\frmCashDrawPassword.baml
+E:\SETUP TESTING version 9\MSPOS1\SalesProject\obj\x86\Release\FrmHold.baml
+E:\SETUP TESTING version 9\MSPOS1\SalesProject\obj\x86\Release\frmHouseAccount.baml
+E:\SETUP TESTING version 9\MSPOS1\SalesProject\obj\x86\Release\frmKeyBoard.baml
+E:\SETUP TESTING version 9\MSPOS1\SalesProject\obj\x86\Release\UCItemDisplayMaster.baml
+E:\SETUP TESTING version 9\MSPOS1\SalesProject\obj\x86\Release\UCItemUpdateQtyNRate.baml
+E:\SETUP TESTING version 9\MSPOS1\SalesProject\obj\x86\Release\UCKeyBoradAct.baml
+E:\SETUP TESTING version 9\MSPOS1\SalesProject\obj\x86\Release\UCPriceChange.baml
+E:\SETUP TESTING version 9\MSPOS1\SalesProject\obj\x86\Release\CreditCard.g.cs
+E:\SETUP TESTING version 9\MSPOS1\SalesProject\obj\x86\Release\FrmActivation.g.cs
+E:\SETUP TESTING version 9\MSPOS1\SalesProject\obj\x86\Release\frmCashDrawPassword.g.cs
+E:\SETUP TESTING version 9\MSPOS1\SalesProject\obj\x86\Release\FrmHold.g.cs
+E:\SETUP TESTING version 9\MSPOS1\SalesProject\obj\x86\Release\frmHouseAccount.g.cs
+E:\SETUP TESTING version 9\MSPOS1\SalesProject\obj\x86\Release\frmKeyBoard.g.cs
+E:\SETUP TESTING version 9\MSPOS1\SalesProject\obj\x86\Release\UCCreditCard.g.cs
+E:\SETUP TESTING version 9\MSPOS1\SalesProject\obj\x86\Release\UCCustomerList.g.cs
+E:\SETUP TESTING version 9\MSPOS1\SalesProject\obj\x86\Release\UCFormSettle.g.cs
+E:\SETUP TESTING version 9\MSPOS1\SalesProject\obj\x86\Release\UCfrmCommission.g.cs
+E:\SETUP TESTING version 9\MSPOS1\SalesProject\obj\x86\Release\UCFrmDiscount.g.cs
+E:\SETUP TESTING version 9\MSPOS1\SalesProject\obj\x86\Release\UCfrmHouseAccount.g.cs
+E:\SETUP TESTING version 9\MSPOS1\SalesProject\obj\x86\Release\UCFrmLogin.g.cs
+E:\SETUP TESTING version 9\MSPOS1\SalesProject\obj\x86\Release\UCFrmManagerMain.g.cs
+E:\SETUP TESTING version 9\MSPOS1\SalesProject\obj\x86\Release\UCfrmPayment.g.cs
+E:\SETUP TESTING version 9\MSPOS1\SalesProject\obj\x86\Release\UCFrmSplit.g.cs
+E:\SETUP TESTING version 9\MSPOS1\SalesProject\obj\x86\Release\UCfrmVoid.g.cs
+E:\SETUP TESTING version 9\MSPOS1\SalesProject\obj\x86\Release\UCItemDisplayMaster.g.cs
+E:\SETUP TESTING version 9\MSPOS1\SalesProject\obj\x86\Release\UCItemUpdateQtyNRate.g.cs
+E:\SETUP TESTING version 9\MSPOS1\SalesProject\obj\x86\Release\UCKeyBoradAct.g.cs
+E:\SETUP TESTING version 9\MSPOS1\SalesProject\obj\x86\Release\UCMain.g.cs
+E:\SETUP TESTING version 9\MSPOS1\SalesProject\obj\x86\Release\UCPriceChange.g.cs
+E:\SETUP TESTING version 9\MSPOS1\SalesProject\obj\x86\Release\UCSalesCreation.g.cs
+E:\SETUP TESTING version 9\MSPOS1\SalesProject\obj\x86\Release\UCSalesmen.g.cs
+E:\SETUP TESTING version 9\MSPOS1\SalesProject\obj\x86\Release\App.g.cs
+E:\SETUP TESTING version 9\MSPOS1\SalesProject\obj\x86\Release\SalesProject_Content.g.cs
+E:\SETUP TESTING version 9\MSPOS1\SalesProject\obj\x86\Release\GeneratedInternalTypeHelper.g.cs
+E:\SETUP TESTING version 9\MSPOS1\SalesProject\obj\x86\Release\SalesProject_MarkupCompile.cache
+E:\SETUP TESTING version 9\MSPOS1\SalesProject\obj\x86\Release\SalesProject_MarkupCompile.lref
+E:\SETUP TESTING version 9\MSPOS1\SalesProject\obj\x86\Release\UCCreditCard.baml
+E:\SETUP TESTING version 9\MSPOS1\SalesProject\obj\x86\Release\UCCustomerList.baml
+E:\SETUP TESTING version 9\MSPOS1\SalesProject\obj\x86\Release\UCFormSettle.baml
+E:\SETUP TESTING version 9\MSPOS1\SalesProject\obj\x86\Release\UCfrmCommission.baml
+E:\SETUP TESTING version 9\MSPOS1\SalesProject\obj\x86\Release\UCFrmDiscount.baml
+E:\SETUP TESTING version 9\MSPOS1\SalesProject\obj\x86\Release\UCfrmHouseAccount.baml
+E:\SETUP TESTING version 9\MSPOS1\SalesProject\obj\x86\Release\UCFrmLogin.baml
+E:\SETUP TESTING version 9\MSPOS1\SalesProject\obj\x86\Release\UCFrmManagerMain.baml
+E:\SETUP TESTING version 9\MSPOS1\SalesProject\obj\x86\Release\UCfrmPayment.baml
+E:\SETUP TESTING version 9\MSPOS1\SalesProject\obj\x86\Release\UCFrmSplit.baml
+E:\SETUP TESTING version 9\MSPOS1\SalesProject\obj\x86\Release\UCfrmVoid.baml
+E:\SETUP TESTING version 9\MSPOS1\SalesProject\obj\x86\Release\UCMain.baml
+E:\SETUP TESTING version 9\MSPOS1\SalesProject\obj\x86\Release\UCSalesCreation.baml
+E:\SETUP TESTING version 9\MSPOS1\SalesProject\obj\x86\Release\UCSalesmen.baml
+E:\SETUP TESTING version 9\MSPOS1\SalesProject\obj\x86\Release\SalesProject.g.resources
+E:\SETUP TESTING version 9\MSPOS1\SalesProject\obj\x86\Release\SalesProject.addDiscount.resources
+E:\SETUP TESTING version 9\MSPOS1\SalesProject\obj\x86\Release\SalesProject.ChkingDataGrid.resources
+E:\SETUP TESTING version 9\MSPOS1\SalesProject\obj\x86\Release\SalesProject.CollapsiblePanel.resources
+E:\SETUP TESTING version 9\MSPOS1\SalesProject\obj\x86\Release\SalesProject.frmBackOffice1.resources
+E:\SETUP TESTING version 9\MSPOS1\SalesProject\obj\x86\Release\SalesProject.frmException.resources
+E:\SETUP TESTING version 9\MSPOS1\SalesProject\obj\x86\Release\SalesProject.frmFormColor.resources
+E:\SETUP TESTING version 9\MSPOS1\SalesProject\obj\x86\Release\SalesProject.FrmLedgerAlteration.resources
+E:\SETUP TESTING version 9\MSPOS1\SalesProject\obj\x86\Release\SalesProject.frmLedgerCreation.resources
+E:\SETUP TESTING version 9\MSPOS1\SalesProject\obj\x86\Release\SalesProject.FrmNewSales.resources
+E:\SETUP TESTING version 9\MSPOS1\SalesProject\obj\x86\Release\SalesProject.frmPeripheralSettings.resources
+E:\SETUP TESTING version 9\MSPOS1\SalesProject\obj\x86\Release\SalesProject._ExtraForm.frmQtyaNRate.resources
+E:\SETUP TESTING version 9\MSPOS1\SalesProject\obj\x86\Release\SalesProject.FrmTicketDisplay.resources
+E:\SETUP TESTING version 9\MSPOS1\SalesProject\obj\x86\Release\SalesProject.FrmTIcketIssue.resources
+E:\SETUP TESTING version 9\MSPOS1\SalesProject\obj\x86\Release\SalesProject.InfoForm.resources
+E:\SETUP TESTING version 9\MSPOS1\SalesProject\obj\x86\Release\SalesProject.ItemFilter.resources
+E:\SETUP TESTING version 9\MSPOS1\SalesProject\obj\x86\Release\SalesProject.ItemLedger.resources
+E:\SETUP TESTING version 9\MSPOS1\SalesProject\obj\x86\Release\SalesProject.ItemList.resources
+E:\SETUP TESTING version 9\MSPOS1\SalesProject\obj\x86\Release\SalesProject._Ledger.LedgerAlteration.resources
+E:\SETUP TESTING version 9\MSPOS1\SalesProject\obj\x86\Release\SalesProject.MonthlystockBreakeUp.resources
+E:\SETUP TESTING version 9\MSPOS1\SalesProject\obj\x86\Release\SalesProject.MyMessageBox.resources
+E:\SETUP TESTING version 9\MSPOS1\SalesProject\obj\x86\Release\SalesProject.MyMessageBox1.resources
+E:\SETUP TESTING version 9\MSPOS1\SalesProject\obj\x86\Release\SalesProject.MyMessageBox2.resources
+E:\SETUP TESTING version 9\MSPOS1\SalesProject\obj\x86\Release\SalesProject.Properties.Resources.resources
+E:\SETUP TESTING version 9\MSPOS1\SalesProject\obj\x86\Release\SalesProject.PurchaseEntry1.resources
+E:\SETUP TESTING version 9\MSPOS1\SalesProject\obj\x86\Release\SalesProject.Receipt.resources
+E:\SETUP TESTING version 9\MSPOS1\SalesProject\obj\x86\Release\SalesProject.StocReport.resources
+E:\SETUP TESTING version 9\MSPOS1\SalesProject\obj\x86\Release\SalesProject.unhideform.resources
+E:\SETUP TESTING version 9\MSPOS1\SalesProject\obj\x86\Release\SalesProject.csproj.GenerateResource.Cache
+E:\SETUP TESTING version 9\MSPOS1\SalesProject\obj\x86\Release\RdlCompile.cache
+E:\SETUP TESTING version 9\MSPOS1\SalesProject\obj\x86\Release\RdlCompile.compiled
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\SalesProject\bin\Release\SalesProject.exe.config
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\SalesProject\obj\x86\Release\SalesProject.exe
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\SalesProject\obj\x86\Release\SalesProject.pdb
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\SalesProject\bin\Release\SalesProject.exe
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\SalesProject\bin\Release\SalesProject.pdb
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\SalesProject\bin\Release\MSPOSBACKOFFICE.exe
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\SalesProject\bin\Release\TabStripControlLibrary.dll
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\SalesProject\bin\Release\MSPOSBACKOFFICE.pdb
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\SalesProject\obj\x86\Release\SalesProject.csprojResolveAssemblyReference.cache
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\SalesProject\obj\x86\Release\CreditCard.baml
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\SalesProject\obj\x86\Release\FrmActivation.baml
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\SalesProject\obj\x86\Release\frmCashDrawPassword.baml
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\SalesProject\obj\x86\Release\FrmHold.baml
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\SalesProject\obj\x86\Release\frmHouseAccount.baml
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\SalesProject\obj\x86\Release\frmKeyBoard.baml
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\SalesProject\obj\x86\Release\UCItemDisplayMaster.baml
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\SalesProject\obj\x86\Release\UCItemUpdateQtyNRate.baml
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\SalesProject\obj\x86\Release\UCKeyBoradAct.baml
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\SalesProject\obj\x86\Release\UCPriceChange.baml
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\SalesProject\obj\x86\Release\CreditCard.g.cs
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\SalesProject\obj\x86\Release\FrmActivation.g.cs
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\SalesProject\obj\x86\Release\frmCashDrawPassword.g.cs
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\SalesProject\obj\x86\Release\FrmHold.g.cs
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\SalesProject\obj\x86\Release\frmHouseAccount.g.cs
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\SalesProject\obj\x86\Release\frmKeyBoard.g.cs
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\SalesProject\obj\x86\Release\UCCreditCard.g.cs
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\SalesProject\obj\x86\Release\UCCustomerList.g.cs
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\SalesProject\obj\x86\Release\UCFormSettle.g.cs
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\SalesProject\obj\x86\Release\UCfrmCommission.g.cs
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\SalesProject\obj\x86\Release\UCFrmDiscount.g.cs
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\SalesProject\obj\x86\Release\UCfrmHouseAccount.g.cs
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\SalesProject\obj\x86\Release\UCFrmLogin.g.cs
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\SalesProject\obj\x86\Release\UCFrmManagerMain.g.cs
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\SalesProject\obj\x86\Release\UCfrmPayment.g.cs
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\SalesProject\obj\x86\Release\UCFrmSplit.g.cs
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\SalesProject\obj\x86\Release\UCfrmVoid.g.cs
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\SalesProject\obj\x86\Release\UCItemDisplayMaster.g.cs
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\SalesProject\obj\x86\Release\UCItemUpdateQtyNRate.g.cs
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\SalesProject\obj\x86\Release\UCKeyBoradAct.g.cs
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\SalesProject\obj\x86\Release\UCMain.g.cs
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\SalesProject\obj\x86\Release\UCPriceChange.g.cs
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\SalesProject\obj\x86\Release\UCSalesCreation.g.cs
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\SalesProject\obj\x86\Release\UCSalesmen.g.cs
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\SalesProject\obj\x86\Release\App.g.cs
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\SalesProject\obj\x86\Release\SalesProject_Content.g.cs
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\SalesProject\obj\x86\Release\GeneratedInternalTypeHelper.g.cs
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\SalesProject\obj\x86\Release\SalesProject_MarkupCompile.cache
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\SalesProject\obj\x86\Release\SalesProject_MarkupCompile.lref
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\SalesProject\obj\x86\Release\UCCreditCard.baml
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\SalesProject\obj\x86\Release\UCCustomerList.baml
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\SalesProject\obj\x86\Release\UCFormSettle.baml
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\SalesProject\obj\x86\Release\UCfrmCommission.baml
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\SalesProject\obj\x86\Release\UCFrmDiscount.baml
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\SalesProject\obj\x86\Release\UCfrmHouseAccount.baml
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\SalesProject\obj\x86\Release\UCFrmLogin.baml
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\SalesProject\obj\x86\Release\UCFrmManagerMain.baml
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\SalesProject\obj\x86\Release\UCfrmPayment.baml
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\SalesProject\obj\x86\Release\UCFrmSplit.baml
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\SalesProject\obj\x86\Release\UCfrmVoid.baml
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\SalesProject\obj\x86\Release\UCMain.baml
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\SalesProject\obj\x86\Release\UCSalesCreation.baml
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\SalesProject\obj\x86\Release\UCSalesmen.baml
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\SalesProject\obj\x86\Release\SalesProject.g.resources
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\SalesProject\obj\x86\Release\SalesProject.addDiscount.resources
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\SalesProject\obj\x86\Release\SalesProject.ChkingDataGrid.resources
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\SalesProject\obj\x86\Release\SalesProject.CollapsiblePanel.resources
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\SalesProject\obj\x86\Release\SalesProject.frmBackOffice1.resources
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\SalesProject\obj\x86\Release\SalesProject.frmException.resources
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\SalesProject\obj\x86\Release\SalesProject.frmFormColor.resources
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\SalesProject\obj\x86\Release\SalesProject.FrmLedgerAlteration.resources
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\SalesProject\obj\x86\Release\SalesProject.frmLedgerCreation.resources
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\SalesProject\obj\x86\Release\SalesProject.FrmNewSales.resources
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\SalesProject\obj\x86\Release\SalesProject.frmPeripheralSettings.resources
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\SalesProject\obj\x86\Release\SalesProject._ExtraForm.frmQtyaNRate.resources
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\SalesProject\obj\x86\Release\SalesProject.FrmTicketDisplay.resources
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\SalesProject\obj\x86\Release\SalesProject.FrmTIcketIssue.resources
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\SalesProject\obj\x86\Release\SalesProject.InfoForm.resources
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\SalesProject\obj\x86\Release\SalesProject.ItemFilter.resources
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\SalesProject\obj\x86\Release\SalesProject.ItemLedger.resources
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\SalesProject\obj\x86\Release\SalesProject.ItemList.resources
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\SalesProject\obj\x86\Release\SalesProject._Ledger.LedgerAlteration.resources
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\SalesProject\obj\x86\Release\SalesProject.MonthlystockBreakeUp.resources
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\SalesProject\obj\x86\Release\SalesProject.MyMessageBox.resources
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\SalesProject\obj\x86\Release\SalesProject.MyMessageBox1.resources
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\SalesProject\obj\x86\Release\SalesProject.MyMessageBox2.resources
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\SalesProject\obj\x86\Release\SalesProject.Properties.Resources.resources
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\SalesProject\obj\x86\Release\SalesProject.PurchaseEntry1.resources
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\SalesProject\obj\x86\Release\SalesProject.Receipt.resources
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\SalesProject\obj\x86\Release\SalesProject.StocReport.resources
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\SalesProject\obj\x86\Release\SalesProject.unhideform.resources
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\SalesProject\obj\x86\Release\SalesProject.csproj.GenerateResource.Cache
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\SalesProject\obj\x86\Release\RdlCompile.cache
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\SalesProject\obj\x86\Release\RdlCompile.compiled

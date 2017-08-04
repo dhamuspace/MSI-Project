@@ -1,0 +1,189 @@
+C:\Users\partha\Documents\Visual Studio 2010\Projects\DatabaseConfiguration\DatabaseConfiguration\bin\Release\DatabaseConfiguration.exe.config
+C:\Users\partha\Documents\Visual Studio 2010\Projects\DatabaseConfiguration\DatabaseConfiguration\bin\Release\DatabaseConfiguration.exe
+C:\Users\partha\Documents\Visual Studio 2010\Projects\DatabaseConfiguration\DatabaseConfiguration\bin\Release\DatabaseConfiguration.pdb
+C:\Users\partha\Documents\Visual Studio 2010\Projects\DatabaseConfiguration\DatabaseConfiguration\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\partha\Documents\Visual Studio 2010\Projects\DatabaseConfiguration\DatabaseConfiguration\obj\x86\Release\DatabaseConfiguration.DatabaseConfiguration.resources
+C:\Users\partha\Documents\Visual Studio 2010\Projects\DatabaseConfiguration\DatabaseConfiguration\obj\x86\Release\DatabaseConfiguration.DatabaseConfiguration1.resources
+C:\Users\partha\Documents\Visual Studio 2010\Projects\DatabaseConfiguration\DatabaseConfiguration\obj\x86\Release\DatabaseConfiguration.Properties.Resources.resources
+C:\Users\partha\Documents\Visual Studio 2010\Projects\DatabaseConfiguration\DatabaseConfiguration\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\partha\Documents\Visual Studio 2010\Projects\DatabaseConfiguration\DatabaseConfiguration\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\partha\Documents\Visual Studio 2010\Projects\DatabaseConfiguration\DatabaseConfiguration\obj\x86\Release\DatabaseConfiguration.exe
+C:\Users\partha\Documents\Visual Studio 2010\Projects\DatabaseConfiguration\DatabaseConfiguration\obj\x86\Release\DatabaseConfiguration.pdb
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\DatabaseConfiguration\bin\Release\DatabaseConfiguration.exe
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\DatabaseConfiguration\bin\Release\DatabaseConfiguration.pdb
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\DatabaseConfiguration\obj\x86\Release\DatabaseConfiguration.DatabaseConfiguration1.resources
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\DatabaseConfiguration\obj\x86\Release\DatabaseConfiguration.Properties.Resources.resources
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\DatabaseConfiguration\obj\x86\Release\DatabaseConfiguration.exe
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\DatabaseConfiguration\obj\x86\Release\DatabaseConfiguration.pdb
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\DatabaseConfiguration\obj\x86\Release\ResolveAssemblyReference.cache
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\DatabaseConfiguration\obj\x86\Release\GenerateResource.read.1.tlog
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\DatabaseConfiguration\obj\x86\Release\GenerateResource.write.1.tlog
+D:\SalesProject\DatabaseConfiguration\bin\Release\DatabaseConfiguration.exe
+D:\SalesProject\DatabaseConfiguration\bin\Release\DatabaseConfiguration.pdb
+D:\SalesProject\DatabaseConfiguration\obj\x86\Release\ResolveAssemblyReference.cache
+D:\SalesProject\DatabaseConfiguration\obj\x86\Release\DatabaseConfiguration.DatabaseConfiguration1.resources
+D:\SalesProject\DatabaseConfiguration\obj\x86\Release\DatabaseConfiguration.Properties.Resources.resources
+D:\SalesProject\DatabaseConfiguration\obj\x86\Release\GenerateResource.read.1.tlog
+D:\SalesProject\DatabaseConfiguration\obj\x86\Release\GenerateResource.write.1.tlog
+D:\SalesProject\DatabaseConfiguration\obj\x86\Release\DatabaseConfiguration.exe
+D:\SalesProject\DatabaseConfiguration\obj\x86\Release\DatabaseConfiguration.pdb
+D:\SalesProject\DatabaseConfiguration\bin\Release\DatabaseConfiguration.exe.config
+D:\SalesProject\DatabaseConfiguration\obj\x86\Release\DatabaseConfiguration.MyMessageBox.resources
+D:\SalesProject\DatabaseConfiguration\obj\x86\Release\DatabaseConfiguration.MyMessageBox1.resources
+D:\parthi\MSPOS\DatabaseConfiguration\bin\Release\DatabaseConfiguration.exe
+D:\parthi\MSPOS\DatabaseConfiguration\bin\Release\DatabaseConfiguration.pdb
+D:\parthi\MSPOS\DatabaseConfiguration\obj\x86\Release\DatabaseConfiguration.DatabaseConfiguration1.resources
+D:\parthi\MSPOS\DatabaseConfiguration\obj\x86\Release\DatabaseConfiguration.MyMessageBox.resources
+D:\parthi\MSPOS\DatabaseConfiguration\obj\x86\Release\DatabaseConfiguration.MyMessageBox1.resources
+D:\parthi\MSPOS\DatabaseConfiguration\obj\x86\Release\DatabaseConfiguration.Properties.Resources.resources
+D:\parthi\MSPOS\DatabaseConfiguration\obj\x86\Release\DatabaseConfiguration.csproj.GenerateResource.Cache
+D:\parthi\MSPOS\DatabaseConfiguration\obj\x86\Release\DatabaseConfiguration.exe
+D:\parthi\MSPOS\DatabaseConfiguration\obj\x86\Release\DatabaseConfiguration.pdb
+D:\parthi\MSPOS\DatabaseConfiguration\bin\Release\DatabaseConfiguration.exe.config
+D:\parthi\MSPOS\DatabaseConfiguration\obj\x86\Release\DatabaseConfiguration.csprojResolveAssemblyReference.cache
+D:\Munish\MSPOS45days\DatabaseConfiguration\bin\Release\DatabaseConfiguration.exe.config
+D:\Munish\MSPOS45days\DatabaseConfiguration\bin\Release\DatabaseConfiguration.exe
+D:\Munish\MSPOS45days\DatabaseConfiguration\bin\Release\DatabaseConfiguration.pdb
+D:\Munish\MSPOS45days\DatabaseConfiguration\obj\x86\Release\DatabaseConfiguration.csprojResolveAssemblyReference.cache
+D:\Munish\MSPOS45days\DatabaseConfiguration\obj\x86\Release\DatabaseConfiguration.DatabaseConfiguration1.resources
+D:\Munish\MSPOS45days\DatabaseConfiguration\obj\x86\Release\DatabaseConfiguration.MyMessageBox.resources
+D:\Munish\MSPOS45days\DatabaseConfiguration\obj\x86\Release\DatabaseConfiguration.MyMessageBox1.resources
+D:\Munish\MSPOS45days\DatabaseConfiguration\obj\x86\Release\DatabaseConfiguration.Properties.Resources.resources
+D:\Munish\MSPOS45days\DatabaseConfiguration\obj\x86\Release\DatabaseConfiguration.csproj.GenerateResource.Cache
+D:\Munish\MSPOS45days\DatabaseConfiguration\obj\x86\Release\DatabaseConfiguration.exe
+D:\Munish\MSPOS45days\DatabaseConfiguration\obj\x86\Release\DatabaseConfiguration.pdb
+D:\Munish\MSPOS45days\MSPOS45days\DatabaseConfiguration\bin\Release\DatabaseConfiguration.exe.config
+D:\Munish\MSPOS45days\MSPOS45days\DatabaseConfiguration\bin\Release\DatabaseConfiguration.exe
+D:\Munish\MSPOS45days\MSPOS45days\DatabaseConfiguration\bin\Release\DatabaseConfiguration.pdb
+D:\Munish\MSPOS45days\MSPOS45days\DatabaseConfiguration\obj\x86\Release\DatabaseConfiguration.csprojResolveAssemblyReference.cache
+D:\Munish\MSPOS45days\MSPOS45days\DatabaseConfiguration\obj\x86\Release\DatabaseConfiguration.DatabaseConfiguration1.resources
+D:\Munish\MSPOS45days\MSPOS45days\DatabaseConfiguration\obj\x86\Release\DatabaseConfiguration.MyMessageBox.resources
+D:\Munish\MSPOS45days\MSPOS45days\DatabaseConfiguration\obj\x86\Release\DatabaseConfiguration.MyMessageBox1.resources
+D:\Munish\MSPOS45days\MSPOS45days\DatabaseConfiguration\obj\x86\Release\DatabaseConfiguration.Properties.Resources.resources
+D:\Munish\MSPOS45days\MSPOS45days\DatabaseConfiguration\obj\x86\Release\DatabaseConfiguration.csproj.GenerateResource.Cache
+D:\Munish\MSPOS45days\MSPOS45days\DatabaseConfiguration\obj\x86\Release\DatabaseConfiguration.exe
+D:\Munish\MSPOS45days\MSPOS45days\DatabaseConfiguration\obj\x86\Release\DatabaseConfiguration.pdb
+E:\MSPOS05032016\MSPOS45days\DatabaseConfiguration\bin\Release\DatabaseConfiguration.exe.config
+E:\MSPOS05032016\MSPOS45days\DatabaseConfiguration\bin\Release\DatabaseConfiguration.exe
+E:\MSPOS05032016\MSPOS45days\DatabaseConfiguration\bin\Release\DatabaseConfiguration.pdb
+E:\MSPOS05032016\MSPOS45days\DatabaseConfiguration\obj\x86\Release\DatabaseConfiguration.csprojResolveAssemblyReference.cache
+E:\MSPOS05032016\MSPOS45days\DatabaseConfiguration\obj\x86\Release\DatabaseConfiguration.DatabaseConfiguration1.resources
+E:\MSPOS05032016\MSPOS45days\DatabaseConfiguration\obj\x86\Release\DatabaseConfiguration.MyMessageBox.resources
+E:\MSPOS05032016\MSPOS45days\DatabaseConfiguration\obj\x86\Release\DatabaseConfiguration.MyMessageBox1.resources
+E:\MSPOS05032016\MSPOS45days\DatabaseConfiguration\obj\x86\Release\DatabaseConfiguration.Properties.Resources.resources
+E:\MSPOS05032016\MSPOS45days\DatabaseConfiguration\obj\x86\Release\DatabaseConfiguration.csproj.GenerateResource.Cache
+E:\MSPOS05032016\MSPOS45days\DatabaseConfiguration\obj\x86\Release\DatabaseConfiguration.exe
+E:\MSPOS05032016\MSPOS45days\DatabaseConfiguration\obj\x86\Release\DatabaseConfiguration.pdb
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\DatabaseConfiguration\bin\Release\DatabaseConfiguration.exe.config
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\DatabaseConfiguration\bin\Release\DatabaseConfiguration.exe
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\DatabaseConfiguration\bin\Release\DatabaseConfiguration.pdb
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\DatabaseConfiguration\obj\x86\Release\DatabaseConfiguration.csprojResolveAssemblyReference.cache
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\DatabaseConfiguration\obj\x86\Release\DatabaseConfiguration.DatabaseConfiguration1.resources
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\DatabaseConfiguration\obj\x86\Release\DatabaseConfiguration.MyMessageBox.resources
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\DatabaseConfiguration\obj\x86\Release\DatabaseConfiguration.MyMessageBox1.resources
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\DatabaseConfiguration\obj\x86\Release\DatabaseConfiguration.Properties.Resources.resources
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\DatabaseConfiguration\obj\x86\Release\DatabaseConfiguration.csproj.GenerateResource.Cache
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\DatabaseConfiguration\obj\x86\Release\DatabaseConfiguration.exe
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\DatabaseConfiguration\obj\x86\Release\DatabaseConfiguration.pdb
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\DatabaseConfiguration\bin\Release\DatabaseConfiguration.exe.config
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\DatabaseConfiguration\bin\Release\DatabaseConfiguration.exe
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\DatabaseConfiguration\bin\Release\DatabaseConfiguration.pdb
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\DatabaseConfiguration\obj\x86\Release\ResolveAssemblyReference.cache
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\DatabaseConfiguration\obj\x86\Release\DatabaseConfiguration.DatabaseConfiguration1.resources
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\DatabaseConfiguration\obj\x86\Release\DatabaseConfiguration.MyMessageBox.resources
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\DatabaseConfiguration\obj\x86\Release\DatabaseConfiguration.MyMessageBox1.resources
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\DatabaseConfiguration\obj\x86\Release\DatabaseConfiguration.Properties.Resources.resources
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\DatabaseConfiguration\obj\x86\Release\GenerateResource.read.1.tlog
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\DatabaseConfiguration\obj\x86\Release\GenerateResource.write.1.tlog
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\DatabaseConfiguration\obj\x86\Release\DatabaseConfiguration.exe
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\DatabaseConfiguration\obj\x86\Release\DatabaseConfiguration.pdb
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\DatabaseConfiguration\bin\Release\DatabaseConfiguration.exe.config
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\DatabaseConfiguration\bin\Release\DatabaseConfiguration.exe
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\DatabaseConfiguration\bin\Release\DatabaseConfiguration.pdb
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\DatabaseConfiguration\obj\x86\Release\DatabaseConfiguration.csprojResolveAssemblyReference.cache
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\DatabaseConfiguration\obj\x86\Release\DatabaseConfiguration.DatabaseConfiguration1.resources
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\DatabaseConfiguration\obj\x86\Release\DatabaseConfiguration.MyMessageBox.resources
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\DatabaseConfiguration\obj\x86\Release\DatabaseConfiguration.MyMessageBox1.resources
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\DatabaseConfiguration\obj\x86\Release\DatabaseConfiguration.Properties.Resources.resources
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\DatabaseConfiguration\obj\x86\Release\DatabaseConfiguration.csproj.GenerateResource.Cache
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\DatabaseConfiguration\obj\x86\Release\DatabaseConfiguration.exe
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\DatabaseConfiguration\obj\x86\Release\DatabaseConfiguration.pdb
+C:\Thulasi\Test\MSPOS1\DatabaseConfiguration\bin\Release\DatabaseConfiguration.exe.config
+C:\Thulasi\Test\MSPOS1\DatabaseConfiguration\bin\Release\DatabaseConfiguration.exe
+C:\Thulasi\Test\MSPOS1\DatabaseConfiguration\bin\Release\DatabaseConfiguration.pdb
+C:\Thulasi\Test\MSPOS1\DatabaseConfiguration\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Thulasi\Test\MSPOS1\DatabaseConfiguration\obj\x86\Release\DatabaseConfiguration.DatabaseConfiguration1.resources
+C:\Thulasi\Test\MSPOS1\DatabaseConfiguration\obj\x86\Release\DatabaseConfiguration.MyMessageBox.resources
+C:\Thulasi\Test\MSPOS1\DatabaseConfiguration\obj\x86\Release\DatabaseConfiguration.MyMessageBox1.resources
+C:\Thulasi\Test\MSPOS1\DatabaseConfiguration\obj\x86\Release\DatabaseConfiguration.Properties.Resources.resources
+C:\Thulasi\Test\MSPOS1\DatabaseConfiguration\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Thulasi\Test\MSPOS1\DatabaseConfiguration\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Thulasi\Test\MSPOS1\DatabaseConfiguration\obj\x86\Release\DatabaseConfiguration.exe
+C:\Thulasi\Test\MSPOS1\DatabaseConfiguration\obj\x86\Release\DatabaseConfiguration.pdb
+E:\Thulasi\MSPOS1\DatabaseConfiguration\bin\Release\DatabaseConfiguration.exe.config
+E:\Thulasi\MSPOS1\DatabaseConfiguration\bin\Release\DatabaseConfiguration.exe
+E:\Thulasi\MSPOS1\DatabaseConfiguration\bin\Release\DatabaseConfiguration.pdb
+E:\Thulasi\MSPOS1\DatabaseConfiguration\obj\x86\Release\DatabaseConfiguration.csprojResolveAssemblyReference.cache
+E:\Thulasi\MSPOS1\DatabaseConfiguration\obj\x86\Release\DatabaseConfiguration.DatabaseConfiguration1.resources
+E:\Thulasi\MSPOS1\DatabaseConfiguration\obj\x86\Release\DatabaseConfiguration.MyMessageBox.resources
+E:\Thulasi\MSPOS1\DatabaseConfiguration\obj\x86\Release\DatabaseConfiguration.MyMessageBox1.resources
+E:\Thulasi\MSPOS1\DatabaseConfiguration\obj\x86\Release\DatabaseConfiguration.Properties.Resources.resources
+E:\Thulasi\MSPOS1\DatabaseConfiguration\obj\x86\Release\DatabaseConfiguration.csproj.GenerateResource.Cache
+E:\Thulasi\MSPOS1\DatabaseConfiguration\obj\x86\Release\DatabaseConfiguration.exe
+E:\Thulasi\MSPOS1\DatabaseConfiguration\obj\x86\Release\DatabaseConfiguration.pdb
+C:\Users\Hp\Desktop\MSPOS1\DatabaseConfiguration\bin\Release\DatabaseConfiguration.exe.config
+C:\Users\Hp\Desktop\MSPOS1\DatabaseConfiguration\bin\Release\DatabaseConfiguration.exe
+C:\Users\Hp\Desktop\MSPOS1\DatabaseConfiguration\bin\Release\DatabaseConfiguration.pdb
+C:\Users\Hp\Desktop\MSPOS1\DatabaseConfiguration\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Hp\Desktop\MSPOS1\DatabaseConfiguration\obj\x86\Release\DatabaseConfiguration.DatabaseConfiguration1.resources
+C:\Users\Hp\Desktop\MSPOS1\DatabaseConfiguration\obj\x86\Release\DatabaseConfiguration.MyMessageBox.resources
+C:\Users\Hp\Desktop\MSPOS1\DatabaseConfiguration\obj\x86\Release\DatabaseConfiguration.MyMessageBox1.resources
+C:\Users\Hp\Desktop\MSPOS1\DatabaseConfiguration\obj\x86\Release\DatabaseConfiguration.Properties.Resources.resources
+C:\Users\Hp\Desktop\MSPOS1\DatabaseConfiguration\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Hp\Desktop\MSPOS1\DatabaseConfiguration\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Hp\Desktop\MSPOS1\DatabaseConfiguration\obj\x86\Release\DatabaseConfiguration.exe
+C:\Users\Hp\Desktop\MSPOS1\DatabaseConfiguration\obj\x86\Release\DatabaseConfiguration.pdb
+E:\MSPOS Original\MSPOS1\DatabaseConfiguration\bin\Release\DatabaseConfiguration.exe.config
+E:\MSPOS Original\MSPOS1\DatabaseConfiguration\bin\Release\DatabaseConfiguration.exe
+E:\MSPOS Original\MSPOS1\DatabaseConfiguration\bin\Release\DatabaseConfiguration.pdb
+E:\MSPOS Original\MSPOS1\DatabaseConfiguration\obj\x86\Release\DatabaseConfiguration.csprojResolveAssemblyReference.cache
+E:\MSPOS Original\MSPOS1\DatabaseConfiguration\obj\x86\Release\DatabaseConfiguration.DatabaseConfiguration1.resources
+E:\MSPOS Original\MSPOS1\DatabaseConfiguration\obj\x86\Release\DatabaseConfiguration.MyMessageBox.resources
+E:\MSPOS Original\MSPOS1\DatabaseConfiguration\obj\x86\Release\DatabaseConfiguration.MyMessageBox1.resources
+E:\MSPOS Original\MSPOS1\DatabaseConfiguration\obj\x86\Release\DatabaseConfiguration.Properties.Resources.resources
+E:\MSPOS Original\MSPOS1\DatabaseConfiguration\obj\x86\Release\DatabaseConfiguration.csproj.GenerateResource.Cache
+E:\MSPOS Original\MSPOS1\DatabaseConfiguration\obj\x86\Release\DatabaseConfiguration.exe
+E:\MSPOS Original\MSPOS1\DatabaseConfiguration\obj\x86\Release\DatabaseConfiguration.pdb
+E:\SETUP TESTING\MSPOS1\DatabaseConfiguration\bin\Release\DatabaseConfiguration.exe.config
+E:\SETUP TESTING\MSPOS1\DatabaseConfiguration\bin\Release\DatabaseConfiguration.exe
+E:\SETUP TESTING\MSPOS1\DatabaseConfiguration\bin\Release\DatabaseConfiguration.pdb
+E:\SETUP TESTING\MSPOS1\DatabaseConfiguration\obj\x86\Release\DatabaseConfiguration.csprojResolveAssemblyReference.cache
+E:\SETUP TESTING\MSPOS1\DatabaseConfiguration\obj\x86\Release\DatabaseConfiguration.DatabaseConfiguration1.resources
+E:\SETUP TESTING\MSPOS1\DatabaseConfiguration\obj\x86\Release\DatabaseConfiguration.MyMessageBox.resources
+E:\SETUP TESTING\MSPOS1\DatabaseConfiguration\obj\x86\Release\DatabaseConfiguration.MyMessageBox1.resources
+E:\SETUP TESTING\MSPOS1\DatabaseConfiguration\obj\x86\Release\DatabaseConfiguration.Properties.Resources.resources
+E:\SETUP TESTING\MSPOS1\DatabaseConfiguration\obj\x86\Release\DatabaseConfiguration.csproj.GenerateResource.Cache
+E:\SETUP TESTING\MSPOS1\DatabaseConfiguration\obj\x86\Release\DatabaseConfiguration.exe
+E:\SETUP TESTING\MSPOS1\DatabaseConfiguration\obj\x86\Release\DatabaseConfiguration.pdb
+E:\SETUP TESTING version 9\MSPOS1\DatabaseConfiguration\bin\Release\DatabaseConfiguration.exe.config
+E:\SETUP TESTING version 9\MSPOS1\DatabaseConfiguration\bin\Release\DatabaseConfiguration.exe
+E:\SETUP TESTING version 9\MSPOS1\DatabaseConfiguration\bin\Release\DatabaseConfiguration.pdb
+E:\SETUP TESTING version 9\MSPOS1\DatabaseConfiguration\obj\x86\Release\DatabaseConfiguration.csprojResolveAssemblyReference.cache
+E:\SETUP TESTING version 9\MSPOS1\DatabaseConfiguration\obj\x86\Release\DatabaseConfiguration.DatabaseConfiguration1.resources
+E:\SETUP TESTING version 9\MSPOS1\DatabaseConfiguration\obj\x86\Release\DatabaseConfiguration.MyMessageBox.resources
+E:\SETUP TESTING version 9\MSPOS1\DatabaseConfiguration\obj\x86\Release\DatabaseConfiguration.MyMessageBox1.resources
+E:\SETUP TESTING version 9\MSPOS1\DatabaseConfiguration\obj\x86\Release\DatabaseConfiguration.Properties.Resources.resources
+E:\SETUP TESTING version 9\MSPOS1\DatabaseConfiguration\obj\x86\Release\DatabaseConfiguration.csproj.GenerateResource.Cache
+E:\SETUP TESTING version 9\MSPOS1\DatabaseConfiguration\obj\x86\Release\DatabaseConfiguration.exe
+E:\SETUP TESTING version 9\MSPOS1\DatabaseConfiguration\obj\x86\Release\DatabaseConfiguration.pdb
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\DatabaseConfiguration\bin\Release\DatabaseConfiguration.exe.config
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\DatabaseConfiguration\bin\Release\DatabaseConfiguration.exe
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\DatabaseConfiguration\bin\Release\DatabaseConfiguration.pdb
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\DatabaseConfiguration\obj\x86\Release\DatabaseConfiguration.csprojResolveAssemblyReference.cache
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\DatabaseConfiguration\obj\x86\Release\DatabaseConfiguration.DatabaseConfiguration1.resources
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\DatabaseConfiguration\obj\x86\Release\DatabaseConfiguration.MyMessageBox.resources
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\DatabaseConfiguration\obj\x86\Release\DatabaseConfiguration.MyMessageBox1.resources
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\DatabaseConfiguration\obj\x86\Release\DatabaseConfiguration.Properties.Resources.resources
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\DatabaseConfiguration\obj\x86\Release\DatabaseConfiguration.csproj.GenerateResource.Cache
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\DatabaseConfiguration\obj\x86\Release\DatabaseConfiguration.exe
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\DatabaseConfiguration\obj\x86\Release\DatabaseConfiguration.pdb

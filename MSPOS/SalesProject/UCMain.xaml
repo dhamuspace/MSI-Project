@@ -1,0 +1,243 @@
+﻿<UserControl xmlns:my="clr-namespace:SalesProject"   x:Class="SalesProject.UCMain"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"  
+             xmlns:local="clr-namespace:DataGridNameSpace"
+         Height="768" Width="1024"  Name="sales"  FontSize="14" Background="#FF05053B" Loaded="sales_Loaded">
+    <UserControl.Resources>
+        <Style x:Key="ButtonStyle2" TargetType="{x:Type Button}">
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="{x:Type Button}">
+
+                        <Border x:Name="Chrome" BorderBrush="White" BorderThickness="2" CornerRadius="2" Background="{TemplateBinding Property=Background}">
+                            <TextBlock  FontSize="15" TextWrapping="Wrap" HorizontalAlignment="{TemplateBinding HorizontalContentAlignment}" Margin="{TemplateBinding Padding}"  SnapsToDevicePixels="{TemplateBinding SnapsToDevicePixels}" VerticalAlignment="{TemplateBinding VerticalContentAlignment}"/>
+                            <!--<ContentPresenter  HorizontalAlignment="{TemplateBinding HorizontalContentAlignment}" Margin="{TemplateBinding Padding}" RecognizesAccessKey="True" SnapsToDevicePixels="{TemplateBinding SnapsToDevicePixels}" VerticalAlignment="{TemplateBinding VerticalContentAlignment}"/>-->
+                        </Border>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+        <Style TargetType="Button" x:Key="ImageButton" BasedOn="{StaticResource {x:Static ToolBar.ButtonStyleKey}}">
+            <Setter Property="FocusVisualStyle" Value="{x:Null}" />
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Border Name="border" 
+                        BorderThickness="{TemplateBinding BorderThickness}"
+                        Padding="{TemplateBinding Padding}" 
+                        BorderBrush="{TemplateBinding BorderBrush}" 
+                        CornerRadius="5"
+                        Background="{TemplateBinding Background}">
+                            <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center" />
+                        </Border>
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter Property="BorderBrush" Value="Gainsboro" />
+                            </Trigger>
+                            <Trigger Property="IsEnabled" Value="false">
+                                <Setter Property="Opacity" Value="0.25" />
+                                <Setter Property="BorderBrush" Value="Transparent" />
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </UserControl.Resources>
+    <!--<StackPanel Orientation="Vertical" HorizontalAlignment="Center" >-->
+    <DockPanel>
+        <StackPanel DockPanel.Dock="Top" VerticalAlignment="Center"  Width="1024" Height="70" >
+            <Label HorizontalContentAlignment="Center" Margin="0,10,0,0" Height="70" VerticalAlignment="Center" Foreground="White" FontSize="40" Content="Retail POS" FontWeight="ExtraBold"></Label>
+            <StackPanel.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FFA6C7C7" Offset="0" />
+                    <GradientStop Color="#FF004040" Offset="0.523" />
+                </LinearGradientBrush>
+            </StackPanel.Background>
+        </StackPanel>
+
+        <StackPanel DockPanel.Dock="Top" Height="610" Width="1024" Name="pnlTableMain"  VerticalAlignment="Center" HorizontalAlignment="Center" Background="#FF004040" Visibility="Hidden" >
+            <StackPanel Margin="0,39,0,0" Orientation="Horizontal" Name="pnlTableList" Height="550" Width="800" VerticalAlignment="Center"  HorizontalAlignment="Center" Visibility="Visible" >
+                <StackPanel Orientation="Vertical">
+                    <Border Padding="2" CornerRadius="10" BorderThickness="1" BorderBrush="#FFF2F2F8"   SnapsToDevicePixels="True" Background="#FF004040"  >
+                        <Button  Foreground="White"  BorderThickness="0"  Height="177" Name="btnManager" Width="200"  TabIndex="7" FontSize="40" FontWeight="Bold" Click="btnManager_Click">
+                            <Button.Background>
+                                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                                    <GradientStop Color="#FFDAE2D6" Offset="0" />
+                                    <GradientStop Color="#FF009600" Offset="0.541" />
+                                </LinearGradientBrush>
+                            </Button.Background>
+                            <Button.Content>
+                                <StackPanel Background="Transparent">
+                                    <Image Source="/SalesProject;component/Images/manager1.png" Width="100" />
+                                    <Label Content="Manager" FontSize="20" Foreground="White" Width="100" HorizontalContentAlignment="Center"></Label>
+                                </StackPanel>
+                            </Button.Content>
+
+                        </Button>
+
+                    </Border>
+                    <Border Padding="2" CornerRadius="10" BorderThickness="1" BorderBrush="#FFF2F2F8"   SnapsToDevicePixels="True" Background="#FF004040"  >
+                        <Button Name="btnBackOffice" Foreground="White"  BorderThickness="0"  Height="177" Width="200"  TabIndex="7" FontSize="40" FontWeight="Bold" Click="btnBackOffice_Click">
+                            <Button.Background>
+                                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                                    <GradientStop Color="#FFDAE2D6" Offset="0" />
+                                    <GradientStop Color="#FF009600" Offset="0.541" />
+                                </LinearGradientBrush>
+                            </Button.Background>
+                            <Button.Content>
+                                <StackPanel Background="Transparent">
+                                    <Image Source="/SalesProject;component/Images/backOffice1.png" Width="100" />
+                                    <Label Content="Backoffice" FontSize="20" Foreground="White" Width="120" HorizontalContentAlignment="Center"></Label>
+                                </StackPanel>
+                            </Button.Content>
+                        </Button>
+
+                    </Border>
+                    <Border Padding="2" CornerRadius="10" BorderThickness="1" BorderBrush="#FFF2F2F8"   SnapsToDevicePixels="True" Background="#FF004040"  >
+                        <Button  Foreground="White"  BorderThickness="0"  Height="177" Width="200"  TabIndex="7" FontSize="40" FontWeight="Bold" >
+                            <Button.Background>
+                                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                                    <GradientStop Color="#FFDAE2D6" Offset="0" />
+                                    <GradientStop Color="#FF009600" Offset="0.541" />
+                                </LinearGradientBrush>
+                            </Button.Background>
+                            <Button.Content>
+                                <StackPanel Background="Transparent">
+                                    <Image  Width="100" Source="/SalesProject;component/Images/POS1.png" />
+                                    <Label Content="System" FontSize="20" Foreground="White" Width="150" HorizontalContentAlignment="Center"></Label>
+                                </StackPanel>
+                            </Button.Content>
+                        </Button>
+
+                    </Border>
+                </StackPanel>
+                <StackPanel Orientation="Vertical">
+                    <StackPanel VerticalAlignment="Center"   Orientation="Vertical" Name="pnlGroupItem" Height="445"  Width="380" Background="#373599B9" HorizontalAlignment="Center">
+                        <WindowsFormsHost Height="435" Margin="5" Name="windowsFormsHost1" VerticalAlignment="Top" HorizontalAlignment="Left" Width="370" Background="White" TabIndex="17">
+                            <local:MyDataGrid x:Name="gridDisplayMain" AutoGenerateColumns="True" SelectionMode="FullRowSelect"  RowHeadersBorderStyle="Single" BackgroundColor="White" ForeColor="Black"  BorderStyle="None"  TabIndex="5"  AllowUserToAddRows="False" RowHeadersVisible="False" ScrollBars="Vertical" MultiSelect="False" AutoSizeColumnsMode="Fill">
+
+                            </local:MyDataGrid>
+                        </WindowsFormsHost>
+
+
+
+                    </StackPanel>
+                    <Border Padding="5" CornerRadius="10" BorderThickness="1" BorderBrush="#FFF2F2F8"   SnapsToDevicePixels="True" Background="#373599B9"  >
+                        <StackPanel Width="370" Height="92" Orientation="Horizontal" >
+                            <StackPanel Width="270" Orientation="Vertical" >
+
+                                <StackPanel.Background>
+                                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                                        <GradientStop Color="#FFC4C4EB" Offset="0" />
+                                        <GradientStop Color="#FF1212B1" Offset="0.663" />
+                                    </LinearGradientBrush>
+                                </StackPanel.Background>
+                                <StackPanel Orientation="Horizontal">
+                                    <!--<Label Content="Counter :"  HorizontalAlignment="Left" VerticalContentAlignment="Center" FontWeight="Bold" Height="40" FontSize="20" Foreground="White" Name="label1" Width="100" />-->
+                                    <Label Content="Counter     :"  HorizontalAlignment="Left" VerticalContentAlignment="Center" FontWeight="Bold" Height="30" FontSize="15" Foreground="White" Name="label1" Width="100" />
+                                    <!--<Label Content="Counter Name" VerticalContentAlignment="Center"  HorizontalAlignment="Center" FontWeight="Bold" Height="40" FontSize="16"  Foreground="White" Name="lblcounterName"  />-->
+                                    <Label Content="Counter Name"  HorizontalAlignment="Center"  VerticalContentAlignment="Center"  FontWeight="Bold" Height="30" FontSize="15"  Foreground="White" Name="lblcounterName"  />
+                                </StackPanel>
+                                <StackPanel Orientation="Horizontal" HorizontalAlignment="Left">
+                                    <!--<Label Content="User       :"  HorizontalAlignment="Left"  VerticalContentAlignment="Center" FontWeight="Bold" Height="40" FontSize="20" Foreground="White"  Name="lblUser" />-->
+                                    <Label Content="User           :"  HorizontalAlignment="Left"  VerticalContentAlignment="Center" FontWeight="Bold" Height="30" FontSize="15" Foreground="White"  Name="lblUser" Width="100" />
+                                    <!--<Label Content="User" HorizontalAlignment="Left"  HorizontalContentAlignment="Left"  VerticalContentAlignment="Center"   FontWeight="Bold" Height="40" FontSize="16" Foreground="White" Name="lblUserName"  />-->
+                                    <Label Content="User"   HorizontalContentAlignment="Center"  VerticalContentAlignment="Center"   FontWeight="Bold" Height="30" FontSize="15" Foreground="White" Name="lblUserName"  />
+                                </StackPanel>
+                                <StackPanel Orientation="Horizontal" HorizontalAlignment="Left">
+                                    <!--<Label Content="User       :"  HorizontalAlignment="Left"  VerticalContentAlignment="Center" FontWeight="Bold" Height="40" FontSize="20" Foreground="White"  Name="lblUser" />-->
+                                    <Label Content="Location    :"  HorizontalAlignment="Left"  VerticalContentAlignment="Center" FontWeight="Bold" Height="30" FontSize="15" Foreground="White"  Name="lblLocation" Width="100" />
+                                    <!--<Label Content="User" HorizontalAlignment="Left"  HorizontalContentAlignment="Left"  VerticalContentAlignment="Center"   FontWeight="Bold" Height="40" FontSize="16" Foreground="White" Name="lblUserName"  />-->
+                                    <Label Content="Location"  HorizontalContentAlignment="Center"  VerticalContentAlignment="Center"   FontWeight="Bold" Height="30" FontSize="15" Foreground="White" Name="lblLocationName"  />
+                                </StackPanel>
+
+                            </StackPanel>
+                            <Button  Foreground="White"  BorderThickness="0"  Height="95" Name="btnLogout" Width="100"   FontSize="40" FontWeight="Bold" Click="btnLogout_Click">
+                                <Button.Background>
+                                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                                        <GradientStop Color="#FFF5E9E9" Offset="0" />
+                                        <GradientStop Color="#FFDB0E0E" Offset="0.738" />
+                                    </LinearGradientBrush>
+                                </Button.Background>
+                                <Button.Content>
+                                    <StackPanel Background="Transparent">
+                                        <Image Source="/SalesProject;component/Images/LogOut1231.png" Width="50" />
+                                        <Label Content="Logout" FontSize="20" Foreground="White" Width="95" HorizontalContentAlignment="Center"></Label>
+                                    </StackPanel>
+                                </Button.Content>
+                            </Button>
+                        </StackPanel>
+                    </Border>
+                </StackPanel>
+                <StackPanel Orientation="Vertical">
+                    <Border Padding="2" CornerRadius="10" BorderThickness="1" BorderBrush="#FFF2F2F8"   SnapsToDevicePixels="True" Background="#FF004040"  >
+                        <Button Name="btnDineIn"  Foreground="White"  BorderThickness="0"  Height="177" Width="200"  TabIndex="7" FontSize="40" FontWeight="Bold" Click="btnDineIn_Click">
+                            <Button.Background>
+                                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                                    <GradientStop Color="#FFDAE2D6" Offset="0" />
+                                    <GradientStop Color="#FF009600" Offset="0.541" />
+                                </LinearGradientBrush>
+                            </Button.Background>
+                            <Button.Content>
+                                <StackPanel Background="Transparent">
+                                    <Image Source="/SalesProject;component/Images/DineInNew.png" Width="100" />
+                                    <Label Content="POS" FontSize="20" Foreground="White" Width="120" HorizontalContentAlignment="Center"></Label>
+                                </StackPanel>
+                            </Button.Content>
+                        </Button>
+
+                    </Border>
+                    <Border Padding="2" CornerRadius="10" BorderThickness="1" BorderBrush="#FFF2F2F8"   SnapsToDevicePixels="True" Background="#FF004040"  >
+                        <Button Name="btnTakeOut" Foreground="White"  BorderThickness="0"  Height="177" Width="200"  TabIndex="7" FontSize="40" FontWeight="Bold" Click="btnTakeOut_Click">
+                            <Button.Background>
+                                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                                    <GradientStop Color="#FFDAE2D6" Offset="0" />
+                                    <GradientStop Color="#FF009600" Offset="0.541" />
+                                </LinearGradientBrush>
+                            </Button.Background>
+                            <Button.Content>
+                                <StackPanel Background="Transparent">
+                                    <Image  Width="100" Source="/SalesProject;component/Images/Branchtransfer.png" />
+                                    <Label Content="Ticket Issue" FontSize="20" Foreground="White" Width="150" HorizontalContentAlignment="Center"></Label>
+                                </StackPanel>
+                            </Button.Content>
+                        </Button>
+                    </Border>
+                    <Border Padding="2" CornerRadius="10" BorderThickness="1" BorderBrush="#FFF2F2F8"   SnapsToDevicePixels="True" Background="#FF004040"  >
+                        <Button  Foreground="White"  BorderThickness="0"  Height="177" Width="200"  TabIndex="7" FontSize="40" FontWeight="Bold" >
+                            <Button.Background>
+                                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                                    <GradientStop Color="#FFDAE2D6" Offset="0" />
+                                    <GradientStop Color="#FF009600" Offset="0.541" />
+                                </LinearGradientBrush>
+                            </Button.Background>
+                            <Button.Content>
+                                <StackPanel Background="Transparent">
+                                    <Image  Width="100" Source="/SalesProject;component/Images/Synchronization.png" />
+                                    <Label Content="Synchronize" FontSize="20" Foreground="White" Width="150" HorizontalContentAlignment="Center"></Label>
+                                </StackPanel>
+                            </Button.Content>
+                        </Button>
+
+                    </Border>
+                </StackPanel>
+
+
+            </StackPanel>
+        </StackPanel>
+        <my:UCFrmLogin DockPanel.Dock="Top" x:Name="UCFrmLogin1" HorizontalAlignment="Center" Visibility="Visible" Margin="0,-610,0,0"  />
+        <my:UCFrmManagerMain DockPanel.Dock="Top" x:Name="UCFrmManagerMain" HorizontalAlignment="Center" Visibility="Hidden" Margin="0,-610,0,0" />
+
+        <StackPanel DockPanel.Dock="Bottom" VerticalAlignment="Center"  Width="1024" Height="70" >
+            <Label HorizontalContentAlignment="Center" Margin="0,20,0,0" Height="40"  VerticalAlignment="Center" Foreground="White" FontSize="20" Content="MICROSPACE Tech Support Hotline : 66612345"></Label>
+            <StackPanel.Background>
+                <LinearGradientBrush StartPoint="0.5,1" EndPoint="0.5,0">
+                    <GradientStop Color="#FF004040" Offset="0.523" />
+                    <GradientStop Color="#FFA6C7C7" Offset="0" />
+                </LinearGradientBrush>
+            </StackPanel.Background>
+        </StackPanel>
+
+    </DockPanel>
+</UserControl>

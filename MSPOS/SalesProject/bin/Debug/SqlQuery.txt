@@ -1,0 +1,36 @@
+USE [MSPOS]
+GO
+
+/****** Object:  Table [dbo].[DiscountSetting_Table]    Script Date: 11/11/2013 16:38:52 ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+SET ANSI_PADDING ON
+GO
+
+CREATE TABLE [dbo].[DiscountSetting_Table](
+	[Enabled] [varchar](50) NULL,
+	[DiscountName] [varchar](500) NULL,
+	[PrintText] [varchar](500) NULL,
+	[Calculation] [varchar](200) NULL,
+	[Amount] [numeric](18, 0) NULL,
+	[ItemsPerOder] [numeric](18, 0) NULL,
+	[AllowOtherDiscount] [varchar](50) NULL,
+	[StartDate] [datetime] NULL,
+	[EndDate] [datetime] NULL,
+	[Sunday] [varchar](50) NULL,
+	[Monday] [varchar](50) NULL,
+	[Tuesday] [varchar](50) NULL,
+	[Wednessday] [varchar](50) NULL,
+	[Thursday] [varchar](50) NULL,
+	[Friday] [varchar](50) NULL,
+	[Saturday] [varchar](50) NULL
+) ON [PRIMARY]
+
+GO
+
+SET ANSI_PADDING OFF
+GO

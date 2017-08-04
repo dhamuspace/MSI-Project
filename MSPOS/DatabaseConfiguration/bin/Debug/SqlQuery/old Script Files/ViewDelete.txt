@@ -1,0 +1,10 @@
+﻿//Delete View
+Drop View FreeItemMasterDetailView;
+Drop View FreeItemMasterDifferentView;
+Drop View FreeItemMasterSingleDifferentView;
+Drop View FreeItemMasterView;
+Drop View tempView;
+Drop View viewDifferentFree;
+Drop View viewDiffFree;
+Drop View viewSameFree;
+Drop View viewSingleFree;

@@ -1,0 +1,1513 @@
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\MSPOSBACKOFFICE\bin\Release\MSPOSBACKOFFICE.exe.config
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\MSPOSBACKOFFICE\bin\Release\MSPOSBACKOFFICE.exe
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\MSPOSBACKOFFICE\bin\Release\MSPOSBACKOFFICE.pdb
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\MSPOSBACKOFFICE\bin\Release\TabStripControlLibrary.dll
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\MSPOSBACKOFFICE\obj\x86\Release\ResolveAssemblyReference.cache
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\MSPOSBACKOFFICE\obj\x86\Release\App.baml
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\MSPOSBACKOFFICE\obj\x86\Release\FrmLogin.baml
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\MSPOSBACKOFFICE\obj\x86\Release\App.g.cs
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\MSPOSBACKOFFICE\obj\x86\Release\FrmLogin.g.cs
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE_Content.g.cs
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE_MarkupCompile.cache
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.g.resources
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.addDiscount.resources
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Brand.resources
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.ChkClass.resources
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.ChkingDataGrid.resources
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.CollapsiblePanel.resources
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.ControlSettings.resources
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.CounterCreation.resources
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmBackOffice1.resources
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.FrmBarcodePrinter.resources
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmBarcodeSettings.resources
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmChecking.resources
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.FrmCreditCardCreation.resources
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmDailySalesSummary.resources
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmDiscount_set.resources
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmGroupCreation.resources
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmItemView.resources
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmItemWiseSalesSummary.resources
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.FrmLedgerAlteration.resources
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmLedgerCreation.resources
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE._Ledger.frmLedgerGroupCreate.resources
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Model.resources
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmPeripheralSettings.resources
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.FrmPurchaseSalesprofit.resources
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE._ExtraForm.frmQtyaNRate.resources
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmRemoveitemdetailsSummary.resources
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmSalesAlteration.resources
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmSalesReturnAlteration.resources
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmSalesSummary.resources
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmSalesSummaryDetails.resources
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmTaxCreation.resources
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmWeightScale.resources
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.InfoForm.resources
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Itemalteration.resources
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.ItemCreations.resources
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.ItemFilter.resources
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.ItemImport.resources
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.ItemLedger.resources
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.ItemList.resources
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE._Ledger.LedgerAlteration.resources
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE._Ledger.LedgerCreation.resources
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.ListOfPurchase.resources
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.MonthlystockBreakeUp.resources
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.MyMessageBox.resources
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.MyMessageBox1.resources
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Promotion.resources
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Promotionalteration.resources
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Properties.Resources.resources
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.PurchaseEntry1.resources
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.PurchaseTypeCreation.resources
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Rack.resources
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Receipt.resources
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Reorganize.resources
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.SalesBOM.resources
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.SalesBOMAlterion.resources
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.SalesBOMIssueCreation.resources
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.SalesBomIssueDisplay.resources
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.SalesBOMMasterAltertion.resources
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.StckAdjDisplay.resources
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.StockAdjustCreate.resources
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.StockAdjustmentAlteration.resources
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.StocReport.resources
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.unhideform.resources
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Unit.resources
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.UserAlteration.resources
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.UserCreation.resources
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\MSPOSBACKOFFICE\obj\x86\Release\GenerateResource-ResGen.read.1.tlog
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\MSPOSBACKOFFICE\obj\x86\Release\GenerateResource-ResGen.write.1.tlog
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\MSPOSBACKOFFICE\obj\x86\Release\RdlCompile.cache
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\MSPOSBACKOFFICE\obj\x86\Release\RdlCompile.compiled
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.exe
+E:\Parthi\SalesProjec26-09-2013t\SalesProject\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.pdb
+D:\parthi\MSPOS\MSPOSBACKOFFICE\bin\Release\MSPOSBACKOFFICE.exe.config
+D:\parthi\MSPOS\MSPOSBACKOFFICE\bin\Release\MSPOSBACKOFFICE.exe
+D:\parthi\MSPOS\MSPOSBACKOFFICE\bin\Release\MSPOSBACKOFFICE.pdb
+D:\parthi\MSPOS\MSPOSBACKOFFICE\bin\Release\TabStripControlLibrary.dll
+D:\parthi\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\App.baml
+D:\parthi\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\FrmLogin.baml
+D:\parthi\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\App.g.cs
+D:\parthi\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\FrmLogin.g.cs
+D:\parthi\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE_Content.g.cs
+D:\parthi\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE_MarkupCompile.cache
+D:\parthi\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.g.resources
+D:\parthi\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.addDiscount.resources
+D:\parthi\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Brand.resources
+D:\parthi\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.ChkClass.resources
+D:\parthi\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.ChkingDataGrid.resources
+D:\parthi\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.CollapsiblePanel.resources
+D:\parthi\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.ControlSettings.resources
+D:\parthi\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.CounterCreation.resources
+D:\parthi\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmBackOffice1.resources
+D:\parthi\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.FrmBarcodePrinter.resources
+D:\parthi\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmBarcodeSettings.resources
+D:\parthi\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmChecking.resources
+D:\parthi\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.FrmCreditCardCreation.resources
+D:\parthi\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmDailySalesSummary.resources
+D:\parthi\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmDiscount_set.resources
+D:\parthi\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmGroupCreation.resources
+D:\parthi\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmItemView.resources
+D:\parthi\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmItemWiseSalesSummary.resources
+D:\parthi\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.FrmLedgerAlteration.resources
+D:\parthi\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmLedgerCreation.resources
+D:\parthi\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE._Ledger.frmLedgerGroupCreate.resources
+D:\parthi\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Model.resources
+D:\parthi\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmPeripheralSettings.resources
+D:\parthi\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.FrmPurchaseSalesprofit.resources
+D:\parthi\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE._ExtraForm.frmQtyaNRate.resources
+D:\parthi\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmRemoveitemdetailsSummary.resources
+D:\parthi\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmSalesAlteration.resources
+D:\parthi\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmSalesReturnAlteration.resources
+D:\parthi\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmSalesSummary.resources
+D:\parthi\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmSalesSummaryDetails.resources
+D:\parthi\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmTaxCreation.resources
+D:\parthi\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmWeightScale.resources
+D:\parthi\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.InfoForm.resources
+D:\parthi\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Itemalteration.resources
+D:\parthi\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.ItemCreations.resources
+D:\parthi\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.ItemFilter.resources
+D:\parthi\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.ItemImport.resources
+D:\parthi\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.ItemLedger.resources
+D:\parthi\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.ItemList.resources
+D:\parthi\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE._Ledger.LedgerAlteration.resources
+D:\parthi\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE._Ledger.LedgerCreation.resources
+D:\parthi\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.ListOfPurchase.resources
+D:\parthi\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.MonthlystockBreakeUp.resources
+D:\parthi\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.MyMessageBox.resources
+D:\parthi\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.MyMessageBox1.resources
+D:\parthi\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Promotion.resources
+D:\parthi\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Promotionalteration.resources
+D:\parthi\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Properties.Resources.resources
+D:\parthi\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.PurchaseEntry1.resources
+D:\parthi\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.PurchaseTypeCreation.resources
+D:\parthi\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Rack.resources
+D:\parthi\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Receipt.resources
+D:\parthi\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Reorganize.resources
+D:\parthi\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.SalesBOM.resources
+D:\parthi\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.SalesBOMAlterion.resources
+D:\parthi\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.SalesBOMIssueCreation.resources
+D:\parthi\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.SalesBomIssueDisplay.resources
+D:\parthi\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.SalesBOMMasterAltertion.resources
+D:\parthi\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.StckAdjDisplay.resources
+D:\parthi\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.StockAdjustCreate.resources
+D:\parthi\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.StockAdjustmentAlteration.resources
+D:\parthi\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.StocReport.resources
+D:\parthi\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.unhideform.resources
+D:\parthi\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Unit.resources
+D:\parthi\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.UserAlteration.resources
+D:\parthi\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.UserCreation.resources
+D:\parthi\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.csproj.GenerateResource.Cache
+D:\parthi\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\RdlCompile.cache
+D:\parthi\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\RdlCompile.compiled
+D:\parthi\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.exe
+D:\parthi\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.pdb
+D:\parthi\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.csprojResolveAssemblyReference.cache
+D:\parthi\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmException.resources
+D:\Munish\MSPOS45days\MSPOSBACKOFFICE\bin\Release\MSPOSBACKOFFICE.exe.config
+D:\Munish\MSPOS45days\MSPOSBACKOFFICE\bin\Release\MSPOSBACKOFFICE.exe
+D:\Munish\MSPOS45days\MSPOSBACKOFFICE\bin\Release\MSPOSBACKOFFICE.pdb
+D:\Munish\MSPOS45days\MSPOSBACKOFFICE\bin\Release\TabStripControlLibrary.dll
+D:\Munish\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.csprojResolveAssemblyReference.cache
+D:\Munish\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\App.baml
+D:\Munish\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\FrmLogin.baml
+D:\Munish\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\App.g.cs
+D:\Munish\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\FrmLogin.g.cs
+D:\Munish\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE_Content.g.cs
+D:\Munish\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE_MarkupCompile.cache
+D:\Munish\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.g.resources
+D:\Munish\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.addDiscount.resources
+D:\Munish\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Brand.resources
+D:\Munish\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.ChkClass.resources
+D:\Munish\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.ChkingDataGrid.resources
+D:\Munish\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.CollapsiblePanel.resources
+D:\Munish\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.ControlSettings.resources
+D:\Munish\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.CounterCreation.resources
+D:\Munish\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmBackOffice1.resources
+D:\Munish\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.FrmBarcodePrinter.resources
+D:\Munish\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmBarcodeSettings.resources
+D:\Munish\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmChecking.resources
+D:\Munish\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.FrmCreditCardCreation.resources
+D:\Munish\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmDailySalesSummary.resources
+D:\Munish\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmDiscount_set.resources
+D:\Munish\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmException.resources
+D:\Munish\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmGroupCreation.resources
+D:\Munish\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmItemView.resources
+D:\Munish\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmItemWiseSalesSummary.resources
+D:\Munish\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.FrmLedgerAlteration.resources
+D:\Munish\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmLedgerCreation.resources
+D:\Munish\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE._Ledger.frmLedgerGroupCreate.resources
+D:\Munish\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Model.resources
+D:\Munish\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmPeripheralSettings.resources
+D:\Munish\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.FrmPurchaseSalesprofit.resources
+D:\Munish\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE._ExtraForm.frmQtyaNRate.resources
+D:\Munish\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmRemoveitemdetailsSummary.resources
+D:\Munish\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmSalesAlteration.resources
+D:\Munish\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmSalesReturnAlteration.resources
+D:\Munish\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmSalesSummary.resources
+D:\Munish\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmSalesSummaryDetails.resources
+D:\Munish\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmTaxCreation.resources
+D:\Munish\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmWeightScale.resources
+D:\Munish\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.InfoForm.resources
+D:\Munish\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Itemalteration.resources
+D:\Munish\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.ItemCreations.resources
+D:\Munish\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.ItemFilter.resources
+D:\Munish\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.ItemImport.resources
+D:\Munish\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.ItemLedger.resources
+D:\Munish\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.ItemList.resources
+D:\Munish\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE._Ledger.LedgerAlteration.resources
+D:\Munish\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE._Ledger.LedgerCreation.resources
+D:\Munish\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.ListOfPurchase.resources
+D:\Munish\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.MonthlystockBreakeUp.resources
+D:\Munish\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.MyMessageBox.resources
+D:\Munish\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.MyMessageBox1.resources
+D:\Munish\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Promotion.resources
+D:\Munish\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Promotionalteration.resources
+D:\Munish\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Properties.Resources.resources
+D:\Munish\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.PurchaseEntry1.resources
+D:\Munish\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.PurchaseTypeCreation.resources
+D:\Munish\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Rack.resources
+D:\Munish\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Receipt.resources
+D:\Munish\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Reorganize.resources
+D:\Munish\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.SalesBOM.resources
+D:\Munish\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.SalesBOMAlterion.resources
+D:\Munish\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.SalesBOMIssueCreation.resources
+D:\Munish\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.SalesBomIssueDisplay.resources
+D:\Munish\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.SalesBOMMasterAltertion.resources
+D:\Munish\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.StckAdjDisplay.resources
+D:\Munish\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.StockAdjustCreate.resources
+D:\Munish\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.StockAdjustmentAlteration.resources
+D:\Munish\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.StocReport.resources
+D:\Munish\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.unhideform.resources
+D:\Munish\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Unit.resources
+D:\Munish\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.UserAlteration.resources
+D:\Munish\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.UserCreation.resources
+D:\Munish\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.csproj.GenerateResource.Cache
+D:\Munish\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\RdlCompile.cache
+D:\Munish\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\RdlCompile.compiled
+D:\Munish\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.exe
+D:\Munish\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.pdb
+D:\Munish\MSPOS45days\MSPOS45days\MSPOSBACKOFFICE\bin\Release\MSPOSBACKOFFICE.exe.config
+D:\Munish\MSPOS45days\MSPOS45days\MSPOSBACKOFFICE\bin\Release\MSPOSBACKOFFICE.exe
+D:\Munish\MSPOS45days\MSPOS45days\MSPOSBACKOFFICE\bin\Release\MSPOSBACKOFFICE.pdb
+D:\Munish\MSPOS45days\MSPOS45days\MSPOSBACKOFFICE\bin\Release\TabStripControlLibrary.dll
+D:\Munish\MSPOS45days\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.csprojResolveAssemblyReference.cache
+D:\Munish\MSPOS45days\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\App.baml
+D:\Munish\MSPOS45days\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\FrmLogin.baml
+D:\Munish\MSPOS45days\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\App.g.cs
+D:\Munish\MSPOS45days\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\FrmLogin.g.cs
+D:\Munish\MSPOS45days\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE_Content.g.cs
+D:\Munish\MSPOS45days\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE_MarkupCompile.cache
+D:\Munish\MSPOS45days\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.g.resources
+D:\Munish\MSPOS45days\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.addDiscount.resources
+D:\Munish\MSPOS45days\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Brand.resources
+D:\Munish\MSPOS45days\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.ChkClass.resources
+D:\Munish\MSPOS45days\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.ChkingDataGrid.resources
+D:\Munish\MSPOS45days\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.CollapsiblePanel.resources
+D:\Munish\MSPOS45days\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.ControlSettings.resources
+D:\Munish\MSPOS45days\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.CounterCreation.resources
+D:\Munish\MSPOS45days\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmBackOffice1.resources
+D:\Munish\MSPOS45days\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.FrmBarcodePrinter.resources
+D:\Munish\MSPOS45days\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmBarcodeSettings.resources
+D:\Munish\MSPOS45days\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmChecking.resources
+D:\Munish\MSPOS45days\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.FrmCreditCardCreation.resources
+D:\Munish\MSPOS45days\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmDailySalesSummary.resources
+D:\Munish\MSPOS45days\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmDiscount_set.resources
+D:\Munish\MSPOS45days\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmException.resources
+D:\Munish\MSPOS45days\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmGroupCreation.resources
+D:\Munish\MSPOS45days\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmItemView.resources
+D:\Munish\MSPOS45days\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmItemWiseSalesSummary.resources
+D:\Munish\MSPOS45days\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.FrmLedgerAlteration.resources
+D:\Munish\MSPOS45days\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmLedgerCreation.resources
+D:\Munish\MSPOS45days\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE._Ledger.frmLedgerGroupCreate.resources
+D:\Munish\MSPOS45days\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Model.resources
+D:\Munish\MSPOS45days\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmPeripheralSettings.resources
+D:\Munish\MSPOS45days\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.FrmPurchaseSalesprofit.resources
+D:\Munish\MSPOS45days\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE._ExtraForm.frmQtyaNRate.resources
+D:\Munish\MSPOS45days\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmRemoveitemdetailsSummary.resources
+D:\Munish\MSPOS45days\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmSalesAlteration.resources
+D:\Munish\MSPOS45days\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmSalesReturnAlteration.resources
+D:\Munish\MSPOS45days\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmSalesSummary.resources
+D:\Munish\MSPOS45days\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmSalesSummaryDetails.resources
+D:\Munish\MSPOS45days\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmTaxCreation.resources
+D:\Munish\MSPOS45days\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmWeightScale.resources
+D:\Munish\MSPOS45days\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.InfoForm.resources
+D:\Munish\MSPOS45days\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Itemalteration.resources
+D:\Munish\MSPOS45days\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.ItemCreations.resources
+D:\Munish\MSPOS45days\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.ItemFilter.resources
+D:\Munish\MSPOS45days\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.ItemImport.resources
+D:\Munish\MSPOS45days\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.ItemLedger.resources
+D:\Munish\MSPOS45days\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.ItemList.resources
+D:\Munish\MSPOS45days\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE._Ledger.LedgerAlteration.resources
+D:\Munish\MSPOS45days\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE._Ledger.LedgerCreation.resources
+D:\Munish\MSPOS45days\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.ListOfPurchase.resources
+D:\Munish\MSPOS45days\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.MonthlystockBreakeUp.resources
+D:\Munish\MSPOS45days\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.MyMessageBox.resources
+D:\Munish\MSPOS45days\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.MyMessageBox1.resources
+D:\Munish\MSPOS45days\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Promotion.resources
+D:\Munish\MSPOS45days\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Promotionalteration.resources
+D:\Munish\MSPOS45days\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Properties.Resources.resources
+D:\Munish\MSPOS45days\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.PurchaseEntry1.resources
+D:\Munish\MSPOS45days\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.PurchaseTypeCreation.resources
+D:\Munish\MSPOS45days\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Rack.resources
+D:\Munish\MSPOS45days\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Receipt.resources
+D:\Munish\MSPOS45days\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Reorganize.resources
+D:\Munish\MSPOS45days\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.SalesBOM.resources
+D:\Munish\MSPOS45days\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.SalesBOMAlterion.resources
+D:\Munish\MSPOS45days\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.SalesBOMIssueCreation.resources
+D:\Munish\MSPOS45days\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.SalesBomIssueDisplay.resources
+D:\Munish\MSPOS45days\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.SalesBOMMasterAltertion.resources
+D:\Munish\MSPOS45days\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.StckAdjDisplay.resources
+D:\Munish\MSPOS45days\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.StockAdjustCreate.resources
+D:\Munish\MSPOS45days\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.StockAdjustmentAlteration.resources
+D:\Munish\MSPOS45days\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.StocReport.resources
+D:\Munish\MSPOS45days\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.unhideform.resources
+D:\Munish\MSPOS45days\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Unit.resources
+D:\Munish\MSPOS45days\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.UserAlteration.resources
+D:\Munish\MSPOS45days\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.UserCreation.resources
+D:\Munish\MSPOS45days\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.csproj.GenerateResource.Cache
+D:\Munish\MSPOS45days\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\RdlCompile.cache
+D:\Munish\MSPOS45days\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\RdlCompile.compiled
+D:\Munish\MSPOS45days\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.exe
+D:\Munish\MSPOS45days\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.pdb
+E:\MSPOS05032016\MSPOS45days\MSPOSBACKOFFICE\bin\Release\MSPOSBACKOFFICE.exe.config
+E:\MSPOS05032016\MSPOS45days\MSPOSBACKOFFICE\bin\Release\MSPOSBACKOFFICE.exe
+E:\MSPOS05032016\MSPOS45days\MSPOSBACKOFFICE\bin\Release\MSPOSBACKOFFICE.pdb
+E:\MSPOS05032016\MSPOS45days\MSPOSBACKOFFICE\bin\Release\TabStripControlLibrary.dll
+E:\MSPOS05032016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.csprojResolveAssemblyReference.cache
+E:\MSPOS05032016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\App.baml
+E:\MSPOS05032016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\FrmLogin.baml
+E:\MSPOS05032016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\App.g.cs
+E:\MSPOS05032016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\FrmLogin.g.cs
+E:\MSPOS05032016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE_Content.g.cs
+E:\MSPOS05032016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE_MarkupCompile.cache
+E:\MSPOS05032016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.g.resources
+E:\MSPOS05032016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.addDiscount.resources
+E:\MSPOS05032016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Brand.resources
+E:\MSPOS05032016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.ChkClass.resources
+E:\MSPOS05032016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.ChkingDataGrid.resources
+E:\MSPOS05032016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.CollapsiblePanel.resources
+E:\MSPOS05032016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.ControlSettings.resources
+E:\MSPOS05032016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.CounterCreation.resources
+E:\MSPOS05032016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmBackOffice1.resources
+E:\MSPOS05032016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.FrmBarcodePrinter.resources
+E:\MSPOS05032016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmBarcodeSettings.resources
+E:\MSPOS05032016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmChecking.resources
+E:\MSPOS05032016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.FrmCreditCardCreation.resources
+E:\MSPOS05032016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmDailySalesSummary.resources
+E:\MSPOS05032016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmDiscount_set.resources
+E:\MSPOS05032016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmException.resources
+E:\MSPOS05032016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmGroupCreation.resources
+E:\MSPOS05032016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmItemView.resources
+E:\MSPOS05032016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmItemWiseSalesSummary.resources
+E:\MSPOS05032016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.FrmLedgerAlteration.resources
+E:\MSPOS05032016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmLedgerCreation.resources
+E:\MSPOS05032016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE._Ledger.frmLedgerGroupCreate.resources
+E:\MSPOS05032016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Model.resources
+E:\MSPOS05032016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmPeripheralSettings.resources
+E:\MSPOS05032016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.FrmPurchaseSalesprofit.resources
+E:\MSPOS05032016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE._ExtraForm.frmQtyaNRate.resources
+E:\MSPOS05032016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmRemoveitemdetailsSummary.resources
+E:\MSPOS05032016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmSalesAlteration.resources
+E:\MSPOS05032016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmSalesReturnAlteration.resources
+E:\MSPOS05032016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmSalesSummary.resources
+E:\MSPOS05032016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmSalesSummaryDetails.resources
+E:\MSPOS05032016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmTaxCreation.resources
+E:\MSPOS05032016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmWeightScale.resources
+E:\MSPOS05032016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.InfoForm.resources
+E:\MSPOS05032016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Itemalteration.resources
+E:\MSPOS05032016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.ItemCreations.resources
+E:\MSPOS05032016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.ItemFilter.resources
+E:\MSPOS05032016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.ItemImport.resources
+E:\MSPOS05032016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.ItemLedger.resources
+E:\MSPOS05032016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.ItemList.resources
+E:\MSPOS05032016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE._Ledger.LedgerAlteration.resources
+E:\MSPOS05032016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE._Ledger.LedgerCreation.resources
+E:\MSPOS05032016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.ListOfPurchase.resources
+E:\MSPOS05032016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.MonthlystockBreakeUp.resources
+E:\MSPOS05032016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.MyMessageBox.resources
+E:\MSPOS05032016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.MyMessageBox1.resources
+E:\MSPOS05032016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Promotion.resources
+E:\MSPOS05032016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Promotionalteration.resources
+E:\MSPOS05032016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Properties.Resources.resources
+E:\MSPOS05032016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.PurchaseEntry1.resources
+E:\MSPOS05032016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.PurchaseTypeCreation.resources
+E:\MSPOS05032016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Rack.resources
+E:\MSPOS05032016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Receipt.resources
+E:\MSPOS05032016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Reorganize.resources
+E:\MSPOS05032016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.SalesBOM.resources
+E:\MSPOS05032016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.SalesBOMAlterion.resources
+E:\MSPOS05032016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.SalesBOMIssueCreation.resources
+E:\MSPOS05032016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.SalesBomIssueDisplay.resources
+E:\MSPOS05032016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.SalesBOMMasterAltertion.resources
+E:\MSPOS05032016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.StckAdjDisplay.resources
+E:\MSPOS05032016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.StockAdjustCreate.resources
+E:\MSPOS05032016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.StockAdjustmentAlteration.resources
+E:\MSPOS05032016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.StocReport.resources
+E:\MSPOS05032016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.unhideform.resources
+E:\MSPOS05032016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Unit.resources
+E:\MSPOS05032016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.UserAlteration.resources
+E:\MSPOS05032016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.UserCreation.resources
+E:\MSPOS05032016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.csproj.GenerateResource.Cache
+E:\MSPOS05032016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\RdlCompile.cache
+E:\MSPOS05032016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\RdlCompile.compiled
+E:\MSPOS05032016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.exe
+E:\MSPOS05032016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.pdb
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\MSPOSBACKOFFICE\bin\Release\MSPOSBACKOFFICE.exe.config
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\MSPOSBACKOFFICE\bin\Release\MSPOSBACKOFFICE.exe
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\MSPOSBACKOFFICE\bin\Release\MSPOSBACKOFFICE.pdb
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\MSPOSBACKOFFICE\bin\Release\TabStripControlLibrary.dll
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\App.baml
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\FrmLogin.baml
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\App.g.cs
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\FrmLogin.g.cs
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE_Content.g.cs
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE_MarkupCompile.cache
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.g.resources
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.addDiscount.resources
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Brand.resources
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.ChkClass.resources
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.ChkingDataGrid.resources
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.CollapsiblePanel.resources
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.ControlSettings.resources
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.CounterCreation.resources
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmBackOffice1.resources
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.FrmBarcodePrinter.resources
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmBarcodeSettings.resources
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmChecking.resources
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.FrmCreditCardCreation.resources
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmDailySalesSummary.resources
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmDiscount_set.resources
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmException.resources
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmGroupCreation.resources
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmItemView.resources
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmItemWiseSalesSummary.resources
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.FrmLedgerAlteration.resources
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmLedgerCreation.resources
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE._Ledger.frmLedgerGroupCreate.resources
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Model.resources
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmPeripheralSettings.resources
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.FrmPurchaseSalesprofit.resources
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE._ExtraForm.frmQtyaNRate.resources
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmRemoveitemdetailsSummary.resources
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmSalesAlteration.resources
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmSalesReturnAlteration.resources
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmSalesSummary.resources
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmSalesSummaryDetails.resources
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmTaxCreation.resources
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmWeightScale.resources
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.InfoForm.resources
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Itemalteration.resources
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.ItemCreations.resources
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.ItemFilter.resources
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.ItemImport.resources
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.ItemLedger.resources
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.ItemList.resources
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE._Ledger.LedgerAlteration.resources
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE._Ledger.LedgerCreation.resources
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.ListOfPurchase.resources
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.MonthlystockBreakeUp.resources
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.MyMessageBox.resources
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.MyMessageBox1.resources
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Promotion.resources
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Promotionalteration.resources
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Properties.Resources.resources
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.PurchaseEntry1.resources
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.PurchaseTypeCreation.resources
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Rack.resources
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Receipt.resources
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Reorganize.resources
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.SalesBOM.resources
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.SalesBOMAlterion.resources
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.SalesBOMIssueCreation.resources
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.SalesBomIssueDisplay.resources
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.SalesBOMMasterAltertion.resources
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.StckAdjDisplay.resources
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.StockAdjustCreate.resources
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.StockAdjustmentAlteration.resources
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.StocReport.resources
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.unhideform.resources
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Unit.resources
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.UserAlteration.resources
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.UserCreation.resources
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.csproj.GenerateResource.Cache
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\RdlCompile.cache
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\RdlCompile.compiled
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.exe
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.pdb
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.csproj.ResolveComReference.cache
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.FrmDailySalesForSalesMan.resources
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.FrmDailySalesForSalesManItems.resources
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.FrmDeliveryRecord.resources
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.csprojResolveAssemblyReference.cache
+D:\Anbu\12032016  MSPOS 45 Days File942\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.FrmVoucherDisplay.resources
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\bin\Release\MSPOSBACKOFFICE.exe.config
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\bin\Release\MSPOSBACKOFFICE.exe
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\bin\Release\MSPOSBACKOFFICE.pdb
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\bin\Release\TabStripControlLibrary.dll
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\ResolveAssemblyReference.cache
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.csproj.ResolveComReference.cache
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\App.baml
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\FrmLogin.baml
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\App.g.cs
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\FrmLogin.g.cs
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE_Content.g.cs
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE_MarkupCompile.cache
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.g.resources
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.addDiscount.resources
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Brand.resources
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.ChkClass.resources
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.ChkingDataGrid.resources
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.CollapsiblePanel.resources
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.ControlSettings.resources
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.CounterCreation.resources
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmBackOffice1.resources
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.FrmBarcodePrinter.resources
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmBarcodeSettings.resources
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmChecking.resources
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.FrmCreditCardCreation.resources
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.FrmDailySalesForSalesMan.resources
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.FrmDailySalesForSalesManItems.resources
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmDailySalesSummary.resources
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmDayBook.resources
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.FrmDeliveryRecord.resources
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmDiscount_set.resources
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmException.resources
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmGroupCreation.resources
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmItemView.resources
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmItemWiseSalesSummary.resources
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.FrmLedgerAlteration.resources
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmLedgerCreation.resources
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE._Ledger.frmLedgerGroupCreate.resources
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Model.resources
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmPeripheralSettings.resources
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.FrmPurchaseSalesprofit.resources
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE._ExtraForm.frmQtyaNRate.resources
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmRemoveitemdetailsSummary.resources
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmSalesAlteration.resources
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmSalesReturnAlteration.resources
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmSalesSummary.resources
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmSalesSummaryDetails.resources
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmTaxCreation.resources
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.FrmVoucherDisplay.resources
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmWeightScale.resources
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.InfoForm.resources
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Itemalteration.resources
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.ItemCreations.resources
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.ItemFilter.resources
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.ItemImport.resources
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.ItemLedger.resources
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.ItemList.resources
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE._Ledger.LedgerAlteration.resources
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE._Ledger.LedgerCreation.resources
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.ListOfPurchase.resources
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.MonthlystockBreakeUp.resources
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.MyMessageBox.resources
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.MyMessageBox1.resources
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Promotion.resources
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Promotionalteration.resources
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Properties.Resources.resources
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.PurchaseEntry1.resources
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.PurchaseTypeCreation.resources
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Rack.resources
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Receipt.resources
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Reorganize.resources
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.SalesBOM.resources
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.SalesBOMAlterion.resources
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.SalesBOMIssueCreation.resources
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.SalesBomIssueDisplay.resources
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.SalesBOMMasterAltertion.resources
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.StckAdjDisplay.resources
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.StockAdjustCreate.resources
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.StockAdjustmentAlteration.resources
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.StocReport.resources
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.unhideform.resources
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Unit.resources
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.UserAlteration.resources
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.UserCreation.resources
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\GenerateResource-ResGen.read.1.tlog
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\GenerateResource-ResGen.write.1.tlog
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\RdlCompile.cache
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\RdlCompile.compiled
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.exe
+H:\EXEFile25042016\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.pdb
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\bin\Release\MSPOSBACKOFFICE.exe.config
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\bin\Release\MSPOSBACKOFFICE.exe
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\bin\Release\MSPOSBACKOFFICE.pdb
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\bin\Release\TabStripControlLibrary.dll
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.csprojResolveAssemblyReference.cache
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.csproj.ResolveComReference.cache
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\App.baml
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\FrmLogin.baml
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\App.g.cs
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\FrmLogin.g.cs
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE_Content.g.cs
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE_MarkupCompile.cache
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.g.resources
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.addDiscount.resources
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Brand.resources
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.ChkClass.resources
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.ChkingDataGrid.resources
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.CollapsiblePanel.resources
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.ControlSettings.resources
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.CounterCreation.resources
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmBackOffice1.resources
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.FrmBarcodePrinter.resources
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmBarcodeSettings.resources
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmChecking.resources
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.FrmCreditCardCreation.resources
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.FrmDailySalesForSalesMan.resources
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.FrmDailySalesForSalesManItems.resources
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmDailySalesSummary.resources
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmDayBook.resources
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.FrmDeliveryRecord.resources
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmDiscount_set.resources
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmException.resources
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmGroupCreation.resources
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmItemView.resources
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmItemWiseSalesSummary.resources
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.FrmLedgerAlteration.resources
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmLedgerCreation.resources
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE._Ledger.frmLedgerGroupCreate.resources
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Model.resources
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmPeripheralSettings.resources
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.FrmPurchaseSalesprofit.resources
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE._ExtraForm.frmQtyaNRate.resources
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmRemoveitemdetailsSummary.resources
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmSalesAlteration.resources
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmSalesReturnAlteration.resources
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmSalesSummary.resources
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmSalesSummaryDetails.resources
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmTaxCreation.resources
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.FrmVoucherDisplay.resources
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmWeightScale.resources
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.InfoForm.resources
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Itemalteration.resources
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.ItemCreations.resources
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.ItemFilter.resources
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.ItemImport.resources
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.ItemLedger.resources
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.ItemList.resources
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE._Ledger.LedgerAlteration.resources
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE._Ledger.LedgerCreation.resources
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.ListOfPurchase.resources
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.MonthlystockBreakeUp.resources
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.MyMessageBox.resources
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.MyMessageBox1.resources
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Promotion.resources
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Promotionalteration.resources
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Properties.Resources.resources
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.PurchaseEntry1.resources
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.PurchaseTypeCreation.resources
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Rack.resources
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Receipt.resources
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Reorganize.resources
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.SalesBOM.resources
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.SalesBOMAlterion.resources
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.SalesBOMIssueCreation.resources
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.SalesBomIssueDisplay.resources
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.SalesBOMMasterAltertion.resources
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.StckAdjDisplay.resources
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.StockAdjustCreate.resources
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.StockAdjustmentAlteration.resources
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.StocReport.resources
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.unhideform.resources
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Unit.resources
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.UserAlteration.resources
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.UserCreation.resources
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.csproj.GenerateResource.Cache
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\RdlCompile.cache
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\RdlCompile.compiled
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.exe
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.pdb
+C:\shakila\new20052016\MSPOS45days\MSPOSBACKOFFICE\bin\Release\MSPOSBACKOFFICE.exe.config
+C:\shakila\new20052016\MSPOS45days\MSPOSBACKOFFICE\bin\Release\MSPOSBACKOFFICE.exe
+C:\shakila\new20052016\MSPOS45days\MSPOSBACKOFFICE\bin\Release\MSPOSBACKOFFICE.pdb
+C:\shakila\new20052016\MSPOS45days\MSPOSBACKOFFICE\bin\Release\TabStripControlLibrary.dll
+C:\shakila\new20052016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\ResolveAssemblyReference.cache
+C:\shakila\new20052016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.csproj.ResolveComReference.cache
+C:\shakila\new20052016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\App.baml
+C:\shakila\new20052016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\FrmLogin.baml
+C:\shakila\new20052016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\App.g.cs
+C:\shakila\new20052016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\FrmLogin.g.cs
+C:\shakila\new20052016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE_Content.g.cs
+C:\shakila\new20052016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE_MarkupCompile.cache
+C:\shakila\new20052016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.g.resources
+C:\shakila\new20052016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.addDiscount.resources
+C:\shakila\new20052016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Brand.resources
+C:\shakila\new20052016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.ChkClass.resources
+C:\shakila\new20052016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.ChkingDataGrid.resources
+C:\shakila\new20052016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.CollapsiblePanel.resources
+C:\shakila\new20052016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.ControlSettings.resources
+C:\shakila\new20052016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.CounterCreation.resources
+C:\shakila\new20052016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmBackOffice1.resources
+C:\shakila\new20052016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.FrmBarcodePrinter.resources
+C:\shakila\new20052016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmBarcodeSettings.resources
+C:\shakila\new20052016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmChecking.resources
+C:\shakila\new20052016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.FrmCreditCardCreation.resources
+C:\shakila\new20052016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.FrmDailySalesForSalesMan.resources
+C:\shakila\new20052016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.FrmDailySalesForSalesManItems.resources
+C:\shakila\new20052016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmDailySalesSummary.resources
+C:\shakila\new20052016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmDayBook.resources
+C:\shakila\new20052016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.FrmDeliveryRecord.resources
+C:\shakila\new20052016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmDiscount_set.resources
+C:\shakila\new20052016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmException.resources
+C:\shakila\new20052016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmGroupCreation.resources
+C:\shakila\new20052016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmItemView.resources
+C:\shakila\new20052016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmItemWiseSalesSummary.resources
+C:\shakila\new20052016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.FrmLedgerAlteration.resources
+C:\shakila\new20052016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmLedgerCreation.resources
+C:\shakila\new20052016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE._Ledger.frmLedgerGroupCreate.resources
+C:\shakila\new20052016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Model.resources
+C:\shakila\new20052016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmPeripheralSettings.resources
+C:\shakila\new20052016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.FrmPurchaseSalesprofit.resources
+C:\shakila\new20052016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE._ExtraForm.frmQtyaNRate.resources
+C:\shakila\new20052016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmRemoveitemdetailsSummary.resources
+C:\shakila\new20052016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmSalesAlteration.resources
+C:\shakila\new20052016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmSalesReturnAlteration.resources
+C:\shakila\new20052016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmSalesSummary.resources
+C:\shakila\new20052016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmSalesSummaryDetails.resources
+C:\shakila\new20052016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmTaxCreation.resources
+C:\shakila\new20052016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.FrmVoucherDisplay.resources
+C:\shakila\new20052016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmWeightScale.resources
+C:\shakila\new20052016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.InfoForm.resources
+C:\shakila\new20052016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Itemalteration.resources
+C:\shakila\new20052016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.ItemCreations.resources
+C:\shakila\new20052016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.ItemFilter.resources
+C:\shakila\new20052016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.ItemImport.resources
+C:\shakila\new20052016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.ItemLedger.resources
+C:\shakila\new20052016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.ItemList.resources
+C:\shakila\new20052016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE._Ledger.LedgerAlteration.resources
+C:\shakila\new20052016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE._Ledger.LedgerCreation.resources
+C:\shakila\new20052016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.ListOfPurchase.resources
+C:\shakila\new20052016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.MonthlystockBreakeUp.resources
+C:\shakila\new20052016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.MyMessageBox.resources
+C:\shakila\new20052016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.MyMessageBox1.resources
+C:\shakila\new20052016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Promotion.resources
+C:\shakila\new20052016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Promotionalteration.resources
+C:\shakila\new20052016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Properties.Resources.resources
+C:\shakila\new20052016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.PurchaseEntry1.resources
+C:\shakila\new20052016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.PurchaseTypeCreation.resources
+C:\shakila\new20052016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Rack.resources
+C:\shakila\new20052016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Receipt.resources
+C:\shakila\new20052016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Reorganize.resources
+C:\shakila\new20052016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.SalesBOM.resources
+C:\shakila\new20052016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.SalesBOMAlterion.resources
+C:\shakila\new20052016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.SalesBOMIssueCreation.resources
+C:\shakila\new20052016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.SalesBomIssueDisplay.resources
+C:\shakila\new20052016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.SalesBOMMasterAltertion.resources
+C:\shakila\new20052016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.StckAdjDisplay.resources
+C:\shakila\new20052016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.StockAdjustCreate.resources
+C:\shakila\new20052016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.StockAdjustmentAlteration.resources
+C:\shakila\new20052016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.StocReport.resources
+C:\shakila\new20052016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.unhideform.resources
+C:\shakila\new20052016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Unit.resources
+C:\shakila\new20052016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.UserAlteration.resources
+C:\shakila\new20052016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.UserCreation.resources
+C:\shakila\new20052016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\GenerateResource-ResGen.read.1.tlog
+C:\shakila\new20052016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\GenerateResource-ResGen.write.1.tlog
+C:\shakila\new20052016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\RdlCompile.cache
+C:\shakila\new20052016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\RdlCompile.compiled
+C:\shakila\new20052016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.exe
+C:\shakila\new20052016\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.pdb
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmLedgerReport.resources
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmItemStock.resources
+D:\Munish\Recent\MSPOSA4TKT\MSPOSA4TKT\MSPOS45days\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmBackup.resources
+C:\Thulasi\Test\MSPOS1\MSPOSBACKOFFICE\bin\Release\MSPOSBACKOFFICE.exe.config
+C:\Thulasi\Test\MSPOS1\MSPOSBACKOFFICE\bin\Release\MSPOSBACKOFFICE.exe
+C:\Thulasi\Test\MSPOS1\MSPOSBACKOFFICE\bin\Release\MSPOSBACKOFFICE.pdb
+C:\Thulasi\Test\MSPOS1\MSPOSBACKOFFICE\bin\Release\TabStripControlLibrary.dll
+C:\Thulasi\Test\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Thulasi\Test\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.csproj.ResolveComReference.cache
+C:\Thulasi\Test\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\App.baml
+C:\Thulasi\Test\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\FrmLogin.baml
+C:\Thulasi\Test\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\App.g.cs
+C:\Thulasi\Test\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\FrmLogin.g.cs
+C:\Thulasi\Test\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE_Content.g.cs
+C:\Thulasi\Test\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE_MarkupCompile.cache
+C:\Thulasi\Test\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.g.resources
+C:\Thulasi\Test\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.addDiscount.resources
+C:\Thulasi\Test\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Brand.resources
+C:\Thulasi\Test\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.ChkClass.resources
+C:\Thulasi\Test\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.ChkingDataGrid.resources
+C:\Thulasi\Test\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.CollapsiblePanel.resources
+C:\Thulasi\Test\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.ControlSettings.resources
+C:\Thulasi\Test\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.CounterCreation.resources
+C:\Thulasi\Test\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmBackOffice1.resources
+C:\Thulasi\Test\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmBackup.resources
+C:\Thulasi\Test\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.FrmBarcodePrinter.resources
+C:\Thulasi\Test\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmBarcodeSettings.resources
+C:\Thulasi\Test\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmChecking.resources
+C:\Thulasi\Test\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.FrmCreditCardCreation.resources
+C:\Thulasi\Test\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.FrmDailySalesForSalesMan.resources
+C:\Thulasi\Test\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.FrmDailySalesForSalesManItems.resources
+C:\Thulasi\Test\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmDailySalesSummary.resources
+C:\Thulasi\Test\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmDayBook.resources
+C:\Thulasi\Test\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.FrmDeliveryRecord.resources
+C:\Thulasi\Test\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmDiscount_set.resources
+C:\Thulasi\Test\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmException.resources
+C:\Thulasi\Test\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmGroupCreation.resources
+C:\Thulasi\Test\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmItemStock.resources
+C:\Thulasi\Test\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmItemView.resources
+C:\Thulasi\Test\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmItemWiseSalesSummary.resources
+C:\Thulasi\Test\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.FrmLedgerAlteration.resources
+C:\Thulasi\Test\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmLedgerCreation.resources
+C:\Thulasi\Test\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE._Ledger.frmLedgerGroupCreate.resources
+C:\Thulasi\Test\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmLedgerReport.resources
+C:\Thulasi\Test\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Model.resources
+C:\Thulasi\Test\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmPeripheralSettings.resources
+C:\Thulasi\Test\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.FrmPurchaseSalesprofit.resources
+C:\Thulasi\Test\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE._ExtraForm.frmQtyaNRate.resources
+C:\Thulasi\Test\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmRemoveitemdetailsSummary.resources
+C:\Thulasi\Test\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmSalesAlteration.resources
+C:\Thulasi\Test\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmSalesReturnAlteration.resources
+C:\Thulasi\Test\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmSalesSummary.resources
+C:\Thulasi\Test\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmSalesSummaryDetails.resources
+C:\Thulasi\Test\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmTaxCreation.resources
+C:\Thulasi\Test\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.FrmVoucherDisplay.resources
+C:\Thulasi\Test\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmWeightScale.resources
+C:\Thulasi\Test\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.InfoForm.resources
+C:\Thulasi\Test\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Itemalteration.resources
+C:\Thulasi\Test\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.ItemCreations.resources
+C:\Thulasi\Test\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.ItemFilter.resources
+C:\Thulasi\Test\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.ItemImport.resources
+C:\Thulasi\Test\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.ItemLedger.resources
+C:\Thulasi\Test\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.ItemList.resources
+C:\Thulasi\Test\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE._Ledger.LedgerAlteration.resources
+C:\Thulasi\Test\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE._Ledger.LedgerCreation.resources
+C:\Thulasi\Test\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.ListOfPurchase.resources
+C:\Thulasi\Test\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.MonthlystockBreakeUp.resources
+C:\Thulasi\Test\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.MyMessageBox.resources
+C:\Thulasi\Test\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.MyMessageBox1.resources
+C:\Thulasi\Test\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Promotion.resources
+C:\Thulasi\Test\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Promotionalteration.resources
+C:\Thulasi\Test\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Properties.Resources.resources
+C:\Thulasi\Test\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.PurchaseEntry1.resources
+C:\Thulasi\Test\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.PurchaseTypeCreation.resources
+C:\Thulasi\Test\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Rack.resources
+C:\Thulasi\Test\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Receipt.resources
+C:\Thulasi\Test\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Reorganize.resources
+C:\Thulasi\Test\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.SalesBOM.resources
+C:\Thulasi\Test\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.SalesBOMAlterion.resources
+C:\Thulasi\Test\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.SalesBOMIssueCreation.resources
+C:\Thulasi\Test\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.SalesBomIssueDisplay.resources
+C:\Thulasi\Test\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.SalesBOMMasterAltertion.resources
+C:\Thulasi\Test\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.StckAdjDisplay.resources
+C:\Thulasi\Test\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.StockAdjustCreate.resources
+C:\Thulasi\Test\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.StockAdjustmentAlteration.resources
+C:\Thulasi\Test\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.StocReport.resources
+C:\Thulasi\Test\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.unhideform.resources
+C:\Thulasi\Test\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Unit.resources
+C:\Thulasi\Test\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.UserAlteration.resources
+C:\Thulasi\Test\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.UserCreation.resources
+C:\Thulasi\Test\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\GenerateResource-ResGen.read.1.tlog
+C:\Thulasi\Test\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\GenerateResource-ResGen.write.1.tlog
+C:\Thulasi\Test\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\RdlCompile.cache
+C:\Thulasi\Test\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\RdlCompile.compiled
+C:\Thulasi\Test\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.exe
+C:\Thulasi\Test\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.pdb
+E:\Thulasi\MSPOS1\MSPOSBACKOFFICE\bin\Release\MSPOSBACKOFFICE.exe.config
+E:\Thulasi\MSPOS1\MSPOSBACKOFFICE\bin\Release\MSPOSBACKOFFICE.exe
+E:\Thulasi\MSPOS1\MSPOSBACKOFFICE\bin\Release\MSPOSBACKOFFICE.pdb
+E:\Thulasi\MSPOS1\MSPOSBACKOFFICE\bin\Release\TabStripControlLibrary.dll
+E:\Thulasi\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.csprojResolveAssemblyReference.cache
+E:\Thulasi\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.csproj.ResolveComReference.cache
+E:\Thulasi\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\App.baml
+E:\Thulasi\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\FrmLogin.baml
+E:\Thulasi\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\App.g.cs
+E:\Thulasi\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\FrmLogin.g.cs
+E:\Thulasi\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE_Content.g.cs
+E:\Thulasi\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE_MarkupCompile.cache
+E:\Thulasi\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.g.resources
+E:\Thulasi\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.addDiscount.resources
+E:\Thulasi\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Brand.resources
+E:\Thulasi\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.ChkClass.resources
+E:\Thulasi\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.ChkingDataGrid.resources
+E:\Thulasi\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.CollapsiblePanel.resources
+E:\Thulasi\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.ControlSettings.resources
+E:\Thulasi\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.CounterCreation.resources
+E:\Thulasi\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmBackOffice1.resources
+E:\Thulasi\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmBackup.resources
+E:\Thulasi\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.FrmBarcodePrinter.resources
+E:\Thulasi\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmBarcodeSettings.resources
+E:\Thulasi\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmChecking.resources
+E:\Thulasi\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.FrmCreditCardCreation.resources
+E:\Thulasi\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.FrmDailySalesForSalesMan.resources
+E:\Thulasi\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.FrmDailySalesForSalesManItems.resources
+E:\Thulasi\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmDailySalesSummary.resources
+E:\Thulasi\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmDayBook.resources
+E:\Thulasi\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.FrmDeliveryRecord.resources
+E:\Thulasi\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmDiscount_set.resources
+E:\Thulasi\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmException.resources
+E:\Thulasi\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmGroupCreation.resources
+E:\Thulasi\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmItemStock.resources
+E:\Thulasi\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmItemView.resources
+E:\Thulasi\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmItemWiseSalesSummary.resources
+E:\Thulasi\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.FrmLedgerAlteration.resources
+E:\Thulasi\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmLedgerCreation.resources
+E:\Thulasi\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE._Ledger.frmLedgerGroupCreate.resources
+E:\Thulasi\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmLedgerReport.resources
+E:\Thulasi\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Model.resources
+E:\Thulasi\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmPeripheralSettings.resources
+E:\Thulasi\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.FrmPurchaseSalesprofit.resources
+E:\Thulasi\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE._ExtraForm.frmQtyaNRate.resources
+E:\Thulasi\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmRemoveitemdetailsSummary.resources
+E:\Thulasi\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmSalesAlteration.resources
+E:\Thulasi\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmSalesReturnAlteration.resources
+E:\Thulasi\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmSalesSummary.resources
+E:\Thulasi\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmSalesSummaryDetails.resources
+E:\Thulasi\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmTaxCreation.resources
+E:\Thulasi\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.FrmVoucherDisplay.resources
+E:\Thulasi\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmWeightScale.resources
+E:\Thulasi\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.InfoForm.resources
+E:\Thulasi\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Itemalteration.resources
+E:\Thulasi\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.ItemCreations.resources
+E:\Thulasi\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.ItemFilter.resources
+E:\Thulasi\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.ItemImport.resources
+E:\Thulasi\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.ItemLedger.resources
+E:\Thulasi\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.ItemList.resources
+E:\Thulasi\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE._Ledger.LedgerAlteration.resources
+E:\Thulasi\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE._Ledger.LedgerCreation.resources
+E:\Thulasi\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.ListOfPurchase.resources
+E:\Thulasi\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.MonthlystockBreakeUp.resources
+E:\Thulasi\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.MyMessageBox.resources
+E:\Thulasi\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.MyMessageBox1.resources
+E:\Thulasi\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Promotion.resources
+E:\Thulasi\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Promotionalteration.resources
+E:\Thulasi\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Properties.Resources.resources
+E:\Thulasi\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.PurchaseEntry1.resources
+E:\Thulasi\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.PurchaseTypeCreation.resources
+E:\Thulasi\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Rack.resources
+E:\Thulasi\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Receipt.resources
+E:\Thulasi\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Reorganize.resources
+E:\Thulasi\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.SalesBOM.resources
+E:\Thulasi\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.SalesBOMAlterion.resources
+E:\Thulasi\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.SalesBOMIssueCreation.resources
+E:\Thulasi\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.SalesBomIssueDisplay.resources
+E:\Thulasi\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.SalesBOMMasterAltertion.resources
+E:\Thulasi\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.StckAdjDisplay.resources
+E:\Thulasi\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.StockAdjustCreate.resources
+E:\Thulasi\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.StockAdjustmentAlteration.resources
+E:\Thulasi\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.StocReport.resources
+E:\Thulasi\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.unhideform.resources
+E:\Thulasi\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Unit.resources
+E:\Thulasi\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.UserAlteration.resources
+E:\Thulasi\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.UserCreation.resources
+E:\Thulasi\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.csproj.GenerateResource.Cache
+E:\Thulasi\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\RdlCompile.cache
+E:\Thulasi\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\RdlCompile.compiled
+E:\Thulasi\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.exe
+E:\Thulasi\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.pdb
+C:\Users\Hp\Desktop\MSPOS1\MSPOSBACKOFFICE\bin\Release\MSPOSBACKOFFICE.exe.config
+C:\Users\Hp\Desktop\MSPOS1\MSPOSBACKOFFICE\bin\Release\MSPOSBACKOFFICE.exe
+C:\Users\Hp\Desktop\MSPOS1\MSPOSBACKOFFICE\bin\Release\MSPOSBACKOFFICE.pdb
+C:\Users\Hp\Desktop\MSPOS1\MSPOSBACKOFFICE\bin\Release\TabStripControlLibrary.dll
+C:\Users\Hp\Desktop\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Hp\Desktop\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.csproj.ResolveComReference.cache
+C:\Users\Hp\Desktop\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\App.baml
+C:\Users\Hp\Desktop\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\FrmLogin.baml
+C:\Users\Hp\Desktop\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\App.g.cs
+C:\Users\Hp\Desktop\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\FrmLogin.g.cs
+C:\Users\Hp\Desktop\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE_Content.g.cs
+C:\Users\Hp\Desktop\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE_MarkupCompile.cache
+C:\Users\Hp\Desktop\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.g.resources
+C:\Users\Hp\Desktop\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.addDiscount.resources
+C:\Users\Hp\Desktop\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Brand.resources
+C:\Users\Hp\Desktop\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.ChkClass.resources
+C:\Users\Hp\Desktop\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.ChkingDataGrid.resources
+C:\Users\Hp\Desktop\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.CollapsiblePanel.resources
+C:\Users\Hp\Desktop\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.ControlSettings.resources
+C:\Users\Hp\Desktop\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.CounterCreation.resources
+C:\Users\Hp\Desktop\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmBackOffice1.resources
+C:\Users\Hp\Desktop\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmBackup.resources
+C:\Users\Hp\Desktop\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.FrmBarcodePrinter.resources
+C:\Users\Hp\Desktop\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmBarcodeSettings.resources
+C:\Users\Hp\Desktop\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmChecking.resources
+C:\Users\Hp\Desktop\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.FrmCreditCardCreation.resources
+C:\Users\Hp\Desktop\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.FrmDailySalesForSalesMan.resources
+C:\Users\Hp\Desktop\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.FrmDailySalesForSalesManItems.resources
+C:\Users\Hp\Desktop\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmDailySalesSummary.resources
+C:\Users\Hp\Desktop\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmDayBook.resources
+C:\Users\Hp\Desktop\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.FrmDeliveryRecord.resources
+C:\Users\Hp\Desktop\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmDiscount_set.resources
+C:\Users\Hp\Desktop\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmException.resources
+C:\Users\Hp\Desktop\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmGroupCreation.resources
+C:\Users\Hp\Desktop\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmItemStock.resources
+C:\Users\Hp\Desktop\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmItemView.resources
+C:\Users\Hp\Desktop\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmItemWiseSalesSummary.resources
+C:\Users\Hp\Desktop\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.FrmLedgerAlteration.resources
+C:\Users\Hp\Desktop\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmLedgerCreation.resources
+C:\Users\Hp\Desktop\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE._Ledger.frmLedgerGroupCreate.resources
+C:\Users\Hp\Desktop\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmLedgerReport.resources
+C:\Users\Hp\Desktop\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Model.resources
+C:\Users\Hp\Desktop\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmPeripheralSettings.resources
+C:\Users\Hp\Desktop\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.FrmPurchaseSalesprofit.resources
+C:\Users\Hp\Desktop\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE._ExtraForm.frmQtyaNRate.resources
+C:\Users\Hp\Desktop\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmRemoveitemdetailsSummary.resources
+C:\Users\Hp\Desktop\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmSalesAlteration.resources
+C:\Users\Hp\Desktop\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmSalesReturnAlteration.resources
+C:\Users\Hp\Desktop\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmSalesSummary.resources
+C:\Users\Hp\Desktop\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmSalesSummaryDetails.resources
+C:\Users\Hp\Desktop\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmTaxCreation.resources
+C:\Users\Hp\Desktop\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.FrmVoucherDisplay.resources
+C:\Users\Hp\Desktop\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmWeightScale.resources
+C:\Users\Hp\Desktop\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.InfoForm.resources
+C:\Users\Hp\Desktop\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Itemalteration.resources
+C:\Users\Hp\Desktop\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.ItemCreations.resources
+C:\Users\Hp\Desktop\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.ItemFilter.resources
+C:\Users\Hp\Desktop\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.ItemImport.resources
+C:\Users\Hp\Desktop\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.ItemLedger.resources
+C:\Users\Hp\Desktop\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.ItemList.resources
+C:\Users\Hp\Desktop\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE._Ledger.LedgerAlteration.resources
+C:\Users\Hp\Desktop\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE._Ledger.LedgerCreation.resources
+C:\Users\Hp\Desktop\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.ListOfPurchase.resources
+C:\Users\Hp\Desktop\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.MonthlystockBreakeUp.resources
+C:\Users\Hp\Desktop\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.MyMessageBox.resources
+C:\Users\Hp\Desktop\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.MyMessageBox1.resources
+C:\Users\Hp\Desktop\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Promotion.resources
+C:\Users\Hp\Desktop\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Promotionalteration.resources
+C:\Users\Hp\Desktop\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Properties.Resources.resources
+C:\Users\Hp\Desktop\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.PurchaseEntry1.resources
+C:\Users\Hp\Desktop\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.PurchaseTypeCreation.resources
+C:\Users\Hp\Desktop\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Rack.resources
+C:\Users\Hp\Desktop\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Receipt.resources
+C:\Users\Hp\Desktop\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Reorganize.resources
+C:\Users\Hp\Desktop\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.SalesBOM.resources
+C:\Users\Hp\Desktop\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.SalesBOMAlterion.resources
+C:\Users\Hp\Desktop\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.SalesBOMIssueCreation.resources
+C:\Users\Hp\Desktop\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.SalesBomIssueDisplay.resources
+C:\Users\Hp\Desktop\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.SalesBOMMasterAltertion.resources
+C:\Users\Hp\Desktop\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.StckAdjDisplay.resources
+C:\Users\Hp\Desktop\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.StockAdjustCreate.resources
+C:\Users\Hp\Desktop\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.StockAdjustmentAlteration.resources
+C:\Users\Hp\Desktop\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.StocReport.resources
+C:\Users\Hp\Desktop\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.unhideform.resources
+C:\Users\Hp\Desktop\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Unit.resources
+C:\Users\Hp\Desktop\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.UserAlteration.resources
+C:\Users\Hp\Desktop\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.UserCreation.resources
+C:\Users\Hp\Desktop\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\GenerateResource-ResGen.read.1.tlog
+C:\Users\Hp\Desktop\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\GenerateResource-ResGen.write.1.tlog
+C:\Users\Hp\Desktop\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\RdlCompile.cache
+C:\Users\Hp\Desktop\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\RdlCompile.compiled
+C:\Users\Hp\Desktop\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.exe
+C:\Users\Hp\Desktop\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.pdb
+E:\Updated POS\MSPOS1\MSPOSBACKOFFICE\bin\Release\MSPOSBACKOFFICE.exe.config
+E:\Updated POS\MSPOS1\MSPOSBACKOFFICE\bin\Release\MSPOSBACKOFFICE.exe
+E:\Updated POS\MSPOS1\MSPOSBACKOFFICE\bin\Release\MSPOSBACKOFFICE.pdb
+E:\Updated POS\MSPOS1\MSPOSBACKOFFICE\bin\Release\TabStripControlLibrary.dll
+E:\Updated POS\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.csprojResolveAssemblyReference.cache
+E:\Updated POS\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.csproj.ResolveComReference.cache
+E:\Updated POS\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\App.baml
+E:\Updated POS\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\FrmLogin.baml
+E:\Updated POS\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\App.g.cs
+E:\Updated POS\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\FrmLogin.g.cs
+E:\Updated POS\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE_Content.g.cs
+E:\Updated POS\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE_MarkupCompile.cache
+E:\Updated POS\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.g.resources
+E:\Updated POS\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.addDiscount.resources
+E:\Updated POS\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Brand.resources
+E:\Updated POS\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.ChkClass.resources
+E:\Updated POS\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.ChkingDataGrid.resources
+E:\Updated POS\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.CollapsiblePanel.resources
+E:\Updated POS\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.ControlSettings.resources
+E:\Updated POS\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.CounterCreation.resources
+E:\Updated POS\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmBackOffice1.resources
+E:\Updated POS\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmBackup.resources
+E:\Updated POS\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.FrmBarcodePrinter.resources
+E:\Updated POS\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmBarcodeSettings.resources
+E:\Updated POS\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmChecking.resources
+E:\Updated POS\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.FrmCreditCardCreation.resources
+E:\Updated POS\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.FrmDailySalesForSalesMan.resources
+E:\Updated POS\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.FrmDailySalesForSalesManItems.resources
+E:\Updated POS\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmDailySalesSummary.resources
+E:\Updated POS\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmDayBook.resources
+E:\Updated POS\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.FrmDeliveryRecord.resources
+E:\Updated POS\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmDiscount_set.resources
+E:\Updated POS\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmException.resources
+E:\Updated POS\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmGroupCreation.resources
+E:\Updated POS\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmItemStock.resources
+E:\Updated POS\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmItemView.resources
+E:\Updated POS\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmItemWiseSalesSummary.resources
+E:\Updated POS\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.FrmLedgerAlteration.resources
+E:\Updated POS\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmLedgerCreation.resources
+E:\Updated POS\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE._Ledger.frmLedgerGroupCreate.resources
+E:\Updated POS\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmLedgerReport.resources
+E:\Updated POS\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Model.resources
+E:\Updated POS\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmPeripheralSettings.resources
+E:\Updated POS\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.FrmPurchaseSalesprofit.resources
+E:\Updated POS\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE._ExtraForm.frmQtyaNRate.resources
+E:\Updated POS\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmRemoveitemdetailsSummary.resources
+E:\Updated POS\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmSalesAlteration.resources
+E:\Updated POS\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmSalesReturnAlteration.resources
+E:\Updated POS\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmSalesSummary.resources
+E:\Updated POS\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmSalesSummaryDetails.resources
+E:\Updated POS\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmTaxCreation.resources
+E:\Updated POS\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.FrmVoucherDisplay.resources
+E:\Updated POS\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmWeightScale.resources
+E:\Updated POS\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.InfoForm.resources
+E:\Updated POS\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Itemalteration.resources
+E:\Updated POS\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.ItemCreations.resources
+E:\Updated POS\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.ItemFilter.resources
+E:\Updated POS\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.ItemImport.resources
+E:\Updated POS\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.ItemLedger.resources
+E:\Updated POS\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.ItemList.resources
+E:\Updated POS\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE._Ledger.LedgerAlteration.resources
+E:\Updated POS\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE._Ledger.LedgerCreation.resources
+E:\Updated POS\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.ListOfPurchase.resources
+E:\Updated POS\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.MonthlystockBreakeUp.resources
+E:\Updated POS\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.MyMessageBox.resources
+E:\Updated POS\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.MyMessageBox1.resources
+E:\Updated POS\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Promotion.resources
+E:\Updated POS\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Promotionalteration.resources
+E:\Updated POS\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Properties.Resources.resources
+E:\Updated POS\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.PurchaseEntry1.resources
+E:\Updated POS\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.PurchaseTypeCreation.resources
+E:\Updated POS\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Rack.resources
+E:\Updated POS\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Receipt.resources
+E:\Updated POS\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Reorganize.resources
+E:\Updated POS\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.SalesBOM.resources
+E:\Updated POS\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.SalesBOMAlterion.resources
+E:\Updated POS\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.SalesBOMIssueCreation.resources
+E:\Updated POS\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.SalesBomIssueDisplay.resources
+E:\Updated POS\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.SalesBOMMasterAltertion.resources
+E:\Updated POS\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.StckAdjDisplay.resources
+E:\Updated POS\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.StockAdjustCreate.resources
+E:\Updated POS\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.StockAdjustmentAlteration.resources
+E:\Updated POS\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.StocReport.resources
+E:\Updated POS\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.unhideform.resources
+E:\Updated POS\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Unit.resources
+E:\Updated POS\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.UserAlteration.resources
+E:\Updated POS\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.UserCreation.resources
+E:\Updated POS\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.csproj.GenerateResource.Cache
+E:\Updated POS\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\RdlCompile.cache
+E:\Updated POS\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\RdlCompile.compiled
+E:\Updated POS\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.exe
+E:\Updated POS\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.pdb
+E:\POS Final Version 5\MSPOS1\MSPOSBACKOFFICE\bin\Release\MSPOSBACKOFFICE.exe.config
+E:\POS Final Version 5\MSPOS1\MSPOSBACKOFFICE\bin\Release\MSPOSBACKOFFICE.exe
+E:\POS Final Version 5\MSPOS1\MSPOSBACKOFFICE\bin\Release\MSPOSBACKOFFICE.pdb
+E:\POS Final Version 5\MSPOS1\MSPOSBACKOFFICE\bin\Release\TabStripControlLibrary.dll
+E:\POS Final Version 5\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.csprojResolveAssemblyReference.cache
+E:\POS Final Version 5\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.csproj.ResolveComReference.cache
+E:\POS Final Version 5\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\App.baml
+E:\POS Final Version 5\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\FrmLogin.baml
+E:\POS Final Version 5\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\App.g.cs
+E:\POS Final Version 5\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\FrmLogin.g.cs
+E:\POS Final Version 5\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE_Content.g.cs
+E:\POS Final Version 5\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE_MarkupCompile.cache
+E:\POS Final Version 5\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.g.resources
+E:\POS Final Version 5\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.addDiscount.resources
+E:\POS Final Version 5\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Brand.resources
+E:\POS Final Version 5\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.ChkClass.resources
+E:\POS Final Version 5\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.ChkingDataGrid.resources
+E:\POS Final Version 5\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.CollapsiblePanel.resources
+E:\POS Final Version 5\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.ControlSettings.resources
+E:\POS Final Version 5\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.CounterCreation.resources
+E:\POS Final Version 5\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmBackOffice1.resources
+E:\POS Final Version 5\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmBackup.resources
+E:\POS Final Version 5\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.FrmBarcodePrinter.resources
+E:\POS Final Version 5\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmBarcodeSettings.resources
+E:\POS Final Version 5\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmChecking.resources
+E:\POS Final Version 5\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.FrmCreditCardCreation.resources
+E:\POS Final Version 5\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.FrmDailySalesForSalesMan.resources
+E:\POS Final Version 5\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.FrmDailySalesForSalesManItems.resources
+E:\POS Final Version 5\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmDailySalesSummary.resources
+E:\POS Final Version 5\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmDayBook.resources
+E:\POS Final Version 5\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmDailySalesSummary1.resources
+E:\POS Final Version 5\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmDiscount_set.resources
+E:\POS Final Version 5\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmException.resources
+E:\POS Final Version 5\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmGroupCreation.resources
+E:\POS Final Version 5\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmItemStock.resources
+E:\POS Final Version 5\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmItemView.resources
+E:\POS Final Version 5\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmItemWiseSalesSummary.resources
+E:\POS Final Version 5\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.FrmLedgerAlteration.resources
+E:\POS Final Version 5\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmLedgerCreation.resources
+E:\POS Final Version 5\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE._Ledger.frmLedgerGroupCreate.resources
+E:\POS Final Version 5\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmLedgerReport.resources
+E:\POS Final Version 5\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Model.resources
+E:\POS Final Version 5\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmPeripheralSettings.resources
+E:\POS Final Version 5\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmItemStock1.resources
+E:\POS Final Version 5\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE._ExtraForm.frmQtyaNRate.resources
+E:\POS Final Version 5\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmRemoveitemdetailsSummary.resources
+E:\POS Final Version 5\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmSalesAlteration.resources
+E:\POS Final Version 5\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmSalesReturnAlteration.resources
+E:\POS Final Version 5\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmSalesSummary.resources
+E:\POS Final Version 5\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmSalesSummaryDetails.resources
+E:\POS Final Version 5\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmTaxCreation.resources
+E:\POS Final Version 5\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.FrmVoucherDisplay.resources
+E:\POS Final Version 5\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmWeightScale.resources
+E:\POS Final Version 5\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.InfoForm.resources
+E:\POS Final Version 5\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Itemalteration.resources
+E:\POS Final Version 5\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.ItemCreations.resources
+E:\POS Final Version 5\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.ItemFilter.resources
+E:\POS Final Version 5\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.ItemImport.resources
+E:\POS Final Version 5\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.ItemLedger.resources
+E:\POS Final Version 5\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.ItemList.resources
+E:\POS Final Version 5\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE._Ledger.LedgerAlteration.resources
+E:\POS Final Version 5\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE._Ledger.LedgerCreation.resources
+E:\POS Final Version 5\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.ListOfPurchase.resources
+E:\POS Final Version 5\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.MonthlystockBreakeUp.resources
+E:\POS Final Version 5\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.MyMessageBox.resources
+E:\POS Final Version 5\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.MyMessageBox1.resources
+E:\POS Final Version 5\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Promotion.resources
+E:\POS Final Version 5\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Promotionalteration.resources
+E:\POS Final Version 5\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Properties.Resources.resources
+E:\POS Final Version 5\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.PurchaseEntry1.resources
+E:\POS Final Version 5\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.PurchaseTypeCreation.resources
+E:\POS Final Version 5\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Rack.resources
+E:\POS Final Version 5\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Receipt.resources
+E:\POS Final Version 5\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Reorganize.resources
+E:\POS Final Version 5\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.SalesBOM.resources
+E:\POS Final Version 5\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.SalesBOMAlterion.resources
+E:\POS Final Version 5\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.SalesBOMIssueCreation.resources
+E:\POS Final Version 5\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.SalesBomIssueDisplay.resources
+E:\POS Final Version 5\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.SalesBOMMasterAltertion.resources
+E:\POS Final Version 5\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.StckAdjDisplay.resources
+E:\POS Final Version 5\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.StockAdjustCreate.resources
+E:\POS Final Version 5\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.StockAdjustmentAlteration.resources
+E:\POS Final Version 5\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.StocReport.resources
+E:\POS Final Version 5\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.unhideform.resources
+E:\POS Final Version 5\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Unit.resources
+E:\POS Final Version 5\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.UserAlteration.resources
+E:\POS Final Version 5\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.UserCreation.resources
+E:\POS Final Version 5\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.csproj.GenerateResource.Cache
+E:\POS Final Version 5\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\RdlCompile.cache
+E:\POS Final Version 5\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\RdlCompile.compiled
+E:\POS Final Version 5\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.exe
+E:\POS Final Version 5\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.pdb
+E:\SETUP TESTING\MSPOS1\MSPOSBACKOFFICE\bin\Release\MSPOSBACKOFFICE.exe.config
+E:\SETUP TESTING\MSPOS1\MSPOSBACKOFFICE\bin\Release\MSPOSBACKOFFICE.exe
+E:\SETUP TESTING\MSPOS1\MSPOSBACKOFFICE\bin\Release\MSPOSBACKOFFICE.pdb
+E:\SETUP TESTING\MSPOS1\MSPOSBACKOFFICE\bin\Release\TabStripControlLibrary.dll
+E:\SETUP TESTING\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.csprojResolveAssemblyReference.cache
+E:\SETUP TESTING\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.csproj.ResolveComReference.cache
+E:\SETUP TESTING\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\App.baml
+E:\SETUP TESTING\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\FrmLogin.baml
+E:\SETUP TESTING\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\App.g.cs
+E:\SETUP TESTING\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\FrmLogin.g.cs
+E:\SETUP TESTING\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE_Content.g.cs
+E:\SETUP TESTING\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE_MarkupCompile.cache
+E:\SETUP TESTING\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.g.resources
+E:\SETUP TESTING\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.addDiscount.resources
+E:\SETUP TESTING\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Brand.resources
+E:\SETUP TESTING\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.ChkClass.resources
+E:\SETUP TESTING\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.ChkingDataGrid.resources
+E:\SETUP TESTING\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.CollapsiblePanel.resources
+E:\SETUP TESTING\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.ControlSettings.resources
+E:\SETUP TESTING\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.CounterCreation.resources
+E:\SETUP TESTING\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmBackOffice1.resources
+E:\SETUP TESTING\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmBackup.resources
+E:\SETUP TESTING\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.FrmBarcodePrinter.resources
+E:\SETUP TESTING\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmBarcodeSettings.resources
+E:\SETUP TESTING\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmChecking.resources
+E:\SETUP TESTING\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.FrmCreditCardCreation.resources
+E:\SETUP TESTING\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.FrmDailySalesForSalesMan.resources
+E:\SETUP TESTING\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.FrmDailySalesForSalesManItems.resources
+E:\SETUP TESTING\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmDailySalesSummary.resources
+E:\SETUP TESTING\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmDayBook.resources
+E:\SETUP TESTING\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmDailySalesSummary1.resources
+E:\SETUP TESTING\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmDiscount_set.resources
+E:\SETUP TESTING\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmException.resources
+E:\SETUP TESTING\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmGroupCreation.resources
+E:\SETUP TESTING\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmItemStock.resources
+E:\SETUP TESTING\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmItemView.resources
+E:\SETUP TESTING\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmItemWiseSalesSummary.resources
+E:\SETUP TESTING\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.FrmLedgerAlteration.resources
+E:\SETUP TESTING\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmLedgerCreation.resources
+E:\SETUP TESTING\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE._Ledger.frmLedgerGroupCreate.resources
+E:\SETUP TESTING\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmLedgerReport.resources
+E:\SETUP TESTING\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Model.resources
+E:\SETUP TESTING\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmPeripheralSettings.resources
+E:\SETUP TESTING\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmItemStock1.resources
+E:\SETUP TESTING\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE._ExtraForm.frmQtyaNRate.resources
+E:\SETUP TESTING\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmRemoveitemdetailsSummary.resources
+E:\SETUP TESTING\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmSalesAlteration.resources
+E:\SETUP TESTING\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmSalesReturnAlteration.resources
+E:\SETUP TESTING\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmSalesSummary.resources
+E:\SETUP TESTING\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmSalesSummaryDetails.resources
+E:\SETUP TESTING\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmTaxCreation.resources
+E:\SETUP TESTING\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.FrmVoucherDisplay.resources
+E:\SETUP TESTING\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmWeightScale.resources
+E:\SETUP TESTING\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.InfoForm.resources
+E:\SETUP TESTING\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Itemalteration.resources
+E:\SETUP TESTING\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.ItemCreations.resources
+E:\SETUP TESTING\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.ItemFilter.resources
+E:\SETUP TESTING\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.ItemImport.resources
+E:\SETUP TESTING\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.ItemLedger.resources
+E:\SETUP TESTING\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.ItemList.resources
+E:\SETUP TESTING\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE._Ledger.LedgerAlteration.resources
+E:\SETUP TESTING\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE._Ledger.LedgerCreation.resources
+E:\SETUP TESTING\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.ListOfPurchase.resources
+E:\SETUP TESTING\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.MonthlystockBreakeUp.resources
+E:\SETUP TESTING\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.MyMessageBox.resources
+E:\SETUP TESTING\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.MyMessageBox1.resources
+E:\SETUP TESTING\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Promotion.resources
+E:\SETUP TESTING\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Promotionalteration.resources
+E:\SETUP TESTING\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Properties.Resources.resources
+E:\SETUP TESTING\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.PurchaseEntry1.resources
+E:\SETUP TESTING\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.PurchaseTypeCreation.resources
+E:\SETUP TESTING\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Rack.resources
+E:\SETUP TESTING\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Receipt.resources
+E:\SETUP TESTING\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Reorganize.resources
+E:\SETUP TESTING\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.SalesBOM.resources
+E:\SETUP TESTING\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.SalesBOMAlterion.resources
+E:\SETUP TESTING\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.SalesBOMIssueCreation.resources
+E:\SETUP TESTING\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.SalesBomIssueDisplay.resources
+E:\SETUP TESTING\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.SalesBOMMasterAltertion.resources
+E:\SETUP TESTING\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.StckAdjDisplay.resources
+E:\SETUP TESTING\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.StockAdjustCreate.resources
+E:\SETUP TESTING\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.StockAdjustmentAlteration.resources
+E:\SETUP TESTING\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.StocReport.resources
+E:\SETUP TESTING\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.unhideform.resources
+E:\SETUP TESTING\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Unit.resources
+E:\SETUP TESTING\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.UserAlteration.resources
+E:\SETUP TESTING\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.UserCreation.resources
+E:\SETUP TESTING\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.csproj.GenerateResource.Cache
+E:\SETUP TESTING\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\RdlCompile.cache
+E:\SETUP TESTING\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\RdlCompile.compiled
+E:\SETUP TESTING\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.exe
+E:\SETUP TESTING\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.pdb
+E:\SETUP TESTING version 9\MSPOS1\MSPOSBACKOFFICE\bin\Release\MSPOSBACKOFFICE.exe.config
+E:\SETUP TESTING version 9\MSPOS1\MSPOSBACKOFFICE\bin\Release\MSPOSBACKOFFICE.exe
+E:\SETUP TESTING version 9\MSPOS1\MSPOSBACKOFFICE\bin\Release\MSPOSBACKOFFICE.pdb
+E:\SETUP TESTING version 9\MSPOS1\MSPOSBACKOFFICE\bin\Release\TabStripControlLibrary.dll
+E:\SETUP TESTING version 9\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.csprojResolveAssemblyReference.cache
+E:\SETUP TESTING version 9\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.csproj.ResolveComReference.cache
+E:\SETUP TESTING version 9\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\App.baml
+E:\SETUP TESTING version 9\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\FrmLogin.baml
+E:\SETUP TESTING version 9\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\App.g.cs
+E:\SETUP TESTING version 9\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\FrmLogin.g.cs
+E:\SETUP TESTING version 9\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE_Content.g.cs
+E:\SETUP TESTING version 9\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE_MarkupCompile.cache
+E:\SETUP TESTING version 9\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.g.resources
+E:\SETUP TESTING version 9\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.addDiscount.resources
+E:\SETUP TESTING version 9\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Brand.resources
+E:\SETUP TESTING version 9\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.ChkClass.resources
+E:\SETUP TESTING version 9\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.ChkingDataGrid.resources
+E:\SETUP TESTING version 9\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.CollapsiblePanel.resources
+E:\SETUP TESTING version 9\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.ControlSettings.resources
+E:\SETUP TESTING version 9\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.CounterCreation.resources
+E:\SETUP TESTING version 9\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmBackOffice1.resources
+E:\SETUP TESTING version 9\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmBackup.resources
+E:\SETUP TESTING version 9\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.FrmBarcodePrinter.resources
+E:\SETUP TESTING version 9\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmBarcodeSettings.resources
+E:\SETUP TESTING version 9\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmChecking.resources
+E:\SETUP TESTING version 9\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.FrmCreditCardCreation.resources
+E:\SETUP TESTING version 9\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.FrmDailySalesForSalesMan.resources
+E:\SETUP TESTING version 9\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.FrmDailySalesForSalesManItems.resources
+E:\SETUP TESTING version 9\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmDailySalesSummary.resources
+E:\SETUP TESTING version 9\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmDayBook.resources
+E:\SETUP TESTING version 9\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmDailySalesSummary1.resources
+E:\SETUP TESTING version 9\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmDiscount_set.resources
+E:\SETUP TESTING version 9\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmException.resources
+E:\SETUP TESTING version 9\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmGroupCreation.resources
+E:\SETUP TESTING version 9\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmItemStock.resources
+E:\SETUP TESTING version 9\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmItemView.resources
+E:\SETUP TESTING version 9\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmItemWiseSalesSummary.resources
+E:\SETUP TESTING version 9\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.FrmLedgerAlteration.resources
+E:\SETUP TESTING version 9\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmLedgerCreation.resources
+E:\SETUP TESTING version 9\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE._Ledger.frmLedgerGroupCreate.resources
+E:\SETUP TESTING version 9\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmLedgerReport.resources
+E:\SETUP TESTING version 9\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Model.resources
+E:\SETUP TESTING version 9\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmPeripheralSettings.resources
+E:\SETUP TESTING version 9\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmItemStock1.resources
+E:\SETUP TESTING version 9\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE._ExtraForm.frmQtyaNRate.resources
+E:\SETUP TESTING version 9\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmRemoveitemdetailsSummary.resources
+E:\SETUP TESTING version 9\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmSalesAlteration.resources
+E:\SETUP TESTING version 9\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmSalesReturnAlteration.resources
+E:\SETUP TESTING version 9\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmSalesSummary.resources
+E:\SETUP TESTING version 9\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmSalesSummaryDetails.resources
+E:\SETUP TESTING version 9\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmTaxCreation.resources
+E:\SETUP TESTING version 9\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.FrmVoucherDisplay.resources
+E:\SETUP TESTING version 9\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmWeightScale.resources
+E:\SETUP TESTING version 9\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.InfoForm.resources
+E:\SETUP TESTING version 9\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Itemalteration.resources
+E:\SETUP TESTING version 9\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.ItemCreations.resources
+E:\SETUP TESTING version 9\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.ItemFilter.resources
+E:\SETUP TESTING version 9\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.ItemImport.resources
+E:\SETUP TESTING version 9\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.ItemLedger.resources
+E:\SETUP TESTING version 9\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.ItemList.resources
+E:\SETUP TESTING version 9\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE._Ledger.LedgerAlteration.resources
+E:\SETUP TESTING version 9\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE._Ledger.LedgerCreation.resources
+E:\SETUP TESTING version 9\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.ListOfPurchase.resources
+E:\SETUP TESTING version 9\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.MonthlystockBreakeUp.resources
+E:\SETUP TESTING version 9\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.MyMessageBox.resources
+E:\SETUP TESTING version 9\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.MyMessageBox1.resources
+E:\SETUP TESTING version 9\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Promotion.resources
+E:\SETUP TESTING version 9\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Promotionalteration.resources
+E:\SETUP TESTING version 9\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Properties.Resources.resources
+E:\SETUP TESTING version 9\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.PurchaseEntry1.resources
+E:\SETUP TESTING version 9\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.PurchaseTypeCreation.resources
+E:\SETUP TESTING version 9\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Rack.resources
+E:\SETUP TESTING version 9\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Receipt.resources
+E:\SETUP TESTING version 9\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Reorganize.resources
+E:\SETUP TESTING version 9\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.SalesBOM.resources
+E:\SETUP TESTING version 9\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.SalesBOMAlterion.resources
+E:\SETUP TESTING version 9\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.SalesBOMIssueCreation.resources
+E:\SETUP TESTING version 9\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.SalesBomIssueDisplay.resources
+E:\SETUP TESTING version 9\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.SalesBOMMasterAltertion.resources
+E:\SETUP TESTING version 9\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.StckAdjDisplay.resources
+E:\SETUP TESTING version 9\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.StockAdjustCreate.resources
+E:\SETUP TESTING version 9\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.StockAdjustmentAlteration.resources
+E:\SETUP TESTING version 9\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.StocReport.resources
+E:\SETUP TESTING version 9\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.unhideform.resources
+E:\SETUP TESTING version 9\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Unit.resources
+E:\SETUP TESTING version 9\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.UserAlteration.resources
+E:\SETUP TESTING version 9\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.UserCreation.resources
+E:\SETUP TESTING version 9\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.csproj.GenerateResource.Cache
+E:\SETUP TESTING version 9\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\RdlCompile.cache
+E:\SETUP TESTING version 9\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\RdlCompile.compiled
+E:\SETUP TESTING version 9\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.exe
+E:\SETUP TESTING version 9\MSPOS1\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.pdb
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\MSPOSBACKOFFICE\bin\Release\MSPOSBACKOFFICE.exe.config
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\MSPOSBACKOFFICE\bin\Release\MSPOSBACKOFFICE.exe
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\MSPOSBACKOFFICE\bin\Release\MSPOSBACKOFFICE.pdb
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\MSPOSBACKOFFICE\bin\Release\TabStripControlLibrary.dll
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.csprojResolveAssemblyReference.cache
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.csproj.ResolveComReference.cache
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\App.baml
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\FrmLogin.baml
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\App.g.cs
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\FrmLogin.g.cs
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE_Content.g.cs
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE_MarkupCompile.cache
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.g.resources
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.addDiscount.resources
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Brand.resources
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.ChkClass.resources
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.ChkingDataGrid.resources
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.CollapsiblePanel.resources
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.ControlSettings.resources
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.CounterCreation.resources
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmBackOffice1.resources
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmBackup.resources
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.FrmBarcodePrinter.resources
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmBarcodeSettings.resources
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmChecking.resources
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.FrmCreditCardCreation.resources
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.FrmDailySalesForSalesMan.resources
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.FrmDailySalesForSalesManItems.resources
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmDailySalesSummary.resources
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmDayBook.resources
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmDailySalesSummary1.resources
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmDiscount_set.resources
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmException.resources
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmGroupCreation.resources
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmItemStock.resources
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmItemView.resources
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmItemWiseSalesSummary.resources
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.FrmLedgerAlteration.resources
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmLedgerCreation.resources
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE._Ledger.frmLedgerGroupCreate.resources
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmLedgerReport.resources
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Model.resources
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmPeripheralSettings.resources
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmItemStock1.resources
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE._ExtraForm.frmQtyaNRate.resources
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmRemoveitemdetailsSummary.resources
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmSalesAlteration.resources
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmSalesReturnAlteration.resources
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmSalesSummary.resources
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmSalesSummaryDetails.resources
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmTaxCreation.resources
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.FrmVoucherDisplay.resources
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.frmWeightScale.resources
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.InfoForm.resources
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Itemalteration.resources
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.ItemCreations.resources
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.ItemFilter.resources
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.ItemImport.resources
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.ItemLedger.resources
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.ItemList.resources
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE._Ledger.LedgerAlteration.resources
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE._Ledger.LedgerCreation.resources
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.ListOfPurchase.resources
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.MonthlystockBreakeUp.resources
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.MyMessageBox.resources
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.MyMessageBox1.resources
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Promotion.resources
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Promotionalteration.resources
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Properties.Resources.resources
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.PurchaseEntry1.resources
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.PurchaseTypeCreation.resources
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Rack.resources
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Receipt.resources
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Reorganize.resources
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.SalesBOM.resources
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.SalesBOMAlterion.resources
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.SalesBOMIssueCreation.resources
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.SalesBomIssueDisplay.resources
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.SalesBOMMasterAltertion.resources
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.StckAdjDisplay.resources
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.StockAdjustCreate.resources
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.StockAdjustmentAlteration.resources
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.StocReport.resources
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.unhideform.resources
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.Unit.resources
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.UserAlteration.resources
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.UserCreation.resources
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.csproj.GenerateResource.Cache
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\RdlCompile.cache
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\RdlCompile.compiled
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.exe
+E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\MSPOSBACKOFFICE\obj\x86\Release\MSPOSBACKOFFICE.pdb
