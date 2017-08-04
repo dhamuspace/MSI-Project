@@ -703,6 +703,11 @@ namespace MSPOSBACKOFFICE
                                 myDataGridopstock.Rows.RemoveAt(p - 1);
                             }
 
+                            cmd = new SqlCommand("update item_grouptable set startingnumber =(select max(startingnumber)+1 from item_grouptable where item_groupname Like '%" + txtGroup.Text + "%') where item_groupname Like '%" + txtGroup.Text + "%' ", con);
+                            cmd.ExecuteNonQuery();
+
+                            cbocategory.Text = "";
+                            txtGroup.Text = "";
                             MyMessageBox.ShowBox("Item Saved Successfully", "Message");
 
                             aloopstart = 0;
@@ -1091,6 +1096,18 @@ namespace MSPOSBACKOFFICE
         {
             try
             {
+                SqlCommand cmd_new1 = new SqlCommand("select item_groupname from Item_Grouptable with (index(IndexItem_grouptable)) where Item_Groupname Like '%" + txtGroup.Text + "%' Order by Item_groupname ASC", con);
+                con.Open();
+                //cmd_new1.Parameters.AddWithValue("@GroupName", txtGroup.Text + '%');
+                SqlDataReader reader = cmd_new1.ExecuteReader();
+                while (reader.Read())
+                {
+                    cbocategory.Items.Add(reader[0].ToString());
+
+                }
+
+                reader.Close();
+
                 System.Windows.Forms.Cursor.Position = PointToScreen(new Point(txtCode.Location.X + 5, txtCode.Location.Y + 5));
                 if (con.State != ConnectionState.Open)
                 {
@@ -1654,18 +1671,35 @@ namespace MSPOSBACKOFFICE
             try
             {
                 SqlDataAdapter adp = null;
-
-                //adp = new SqlDataAdapter("select Item_no from serialno_transtbl  with (index(Index_serialno)) where Item_no='" + t1 + "' and inout = 1 and barcodeno = '" + txtCode.Text + "'", con);
-                adp = new SqlDataAdapter("select Item_no from serialno_transtbl  with (index(Index_serialno)) where Item_no='" + t1 + "' and inout = 1", con);
+                adp = new SqlDataAdapter("select Item_no from serialno_transtbl  with (index(Index_serialno)) where Item_no='" + t1 + "' and inout = 1 ", con);
                 adp.Fill(dt2_Check);
+
                 if (dt2_Check.Rows.Count > 0)
                 {
                     if (dt2_Check.Rows[0][0].ToString().Trim() != "")
                     {
-                        MyMessageBox.ShowBox("This Serial No Already Exists", "Warning");
+                        myDataGridopstock.Rows[myDataGridopstock.CurrentCell.RowIndex].Cells["SerialNoopstock"].Value = "";
+                        MyMessageBox.ShowBox("This Serial No Already Exists in database ", "Warning");
                         dt2_Check.Rows.Clear();
                     }
                 }
+
+                //SqlDataAdapter adpbillno = null;
+                //adpbillno = new SqlDataAdapter("select Item_no from serialno_transtbl  with (index(Index_serialno)) where Item_no='" + t1 + "' and inout = 0 ", con);
+                //adp.Fill(dt2_Check);
+
+                //if (dt2_Check.Rows.Count > 0)
+                //{
+                //    if (dt2_Check.Rows[0][0].ToString().Trim() != "")
+                //    {
+                //        textBox1.Text = dt2_Check.Rows[0][0].ToString().Trim();
+                //        myDataGridopstock.Rows[myDataGridopstock.CurrentCell.RowIndex].Cells["SerialNoopstock"].Value = "";                        
+                //        MyMessageBox1.ShowBox("The Bill No is " + textBox1.Text);                        
+                //        dt2_Check.Rows.Clear();
+                //    }
+                //}
+
+
             }
             catch (Exception ex)
             {
@@ -4877,6 +4911,7 @@ namespace MSPOSBACKOFFICE
                         {
                             if (t1.ToLower() == myDataGridopstock.Rows[j].Cells["SerialNoopstock"].Value.ToString().ToLower())
                             {
+                                myDataGridopstock.Rows[myDataGridopstock.CurrentCell.RowIndex].Cells["SerialNoopstock"].Value = "";
                                 MyMessageBox1.ShowBox("Serial No /IMEI No is already Entered", "Warning");
                                 // int nextindex = Math.Min(this.DgPurchase.Columns.Count - 1, this.DgPurchase.CurrentCell.ColumnIndex);
                                 // SetColumnIndex method = new SetColumnIndex(Mymethod);
@@ -5022,6 +5057,35 @@ namespace MSPOSBACKOFFICE
                 myDataGridopstock.Visible = true;
             }
 
+        }
+
+        private void cbocategory_TextChanged(object sender, EventArgs e)
+        {
+            txtGroup.Text = cbocategory.Text.ToString();
+            // loop beginning
+            if (txtGroup.Text != "")
+            {
+                SqlCommand cmd = new SqlCommand(" select * from Item_GroupTable where Item_groupname=@tName", con);
+                cmd.Parameters.AddWithValue("@tName", txtGroup.Text);
+                con.Close();
+                con.Open();
+                dt.Rows.Clear();
+                SqlDataAdapter adp = new SqlDataAdapter(cmd);
+                adp.Fill(dt);
+                string mnumberprefix;
+                string mcodenumber;
+                mnumberprefix = dt.Rows[0]["numberprefix"].ToString();
+                mcodenumber = dt.Rows[0]["startingnumber"].ToString();
+                if (mnumberprefix != "NULL" && mnumberprefix != "")
+                {
+                    txtCode.Text = mnumberprefix + mcodenumber;
+                }
+                else
+                {
+
+                }
+            }
+            //loop ending
         }
     }
 }

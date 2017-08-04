@@ -107,6 +107,8 @@
             this.Barcode = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.txt_remarks = new System.Windows.Forms.TextBox();
             this.Pnl_Header = new System.Windows.Forms.Panel();
+            this.cbocategory = new System.Windows.Forms.ComboBox();
+            this.label36 = new System.Windows.Forms.Label();
             this.ChkCarryOn = new System.Windows.Forms.CheckBox();
             this.Lbl_itemcreation = new System.Windows.Forms.Label();
             this.lblListView_controls = new System.Windows.Forms.Label();
@@ -128,10 +130,11 @@
             this.label34 = new System.Windows.Forms.Label();
             this.pnl_SerialNo = new System.Windows.Forms.Panel();
             this.myDataGridopstock = new DataGridNameSpace.MyDataGrid();
-            this.btnOk = new System.Windows.Forms.Button();
-            this.label35 = new System.Windows.Forms.Label();
             this.SerialNoopstock = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.serialitemcodeopstock = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.btnOk = new System.Windows.Forms.Button();
+            this.label35 = new System.Windows.Forms.Label();
+            this.textBox1 = new System.Windows.Forms.TextBox();
             this.Pnl_Back.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.myDataGrid1)).BeginInit();
             this.contextMenuStrip1.SuspendLayout();
@@ -703,9 +706,9 @@
             this.Pnl_Back.Controls.Add(this.cmbitemColors);
             this.Pnl_Back.Controls.Add(this.dataGridView1);
             this.Pnl_Back.Controls.Add(this.txt_remarks);
-            this.Pnl_Back.Location = new System.Drawing.Point(7, 49);
+            this.Pnl_Back.Location = new System.Drawing.Point(7, 45);
             this.Pnl_Back.Name = "Pnl_Back";
-            this.Pnl_Back.Size = new System.Drawing.Size(999, 493);
+            this.Pnl_Back.Size = new System.Drawing.Size(999, 497);
             this.Pnl_Back.TabIndex = 46;
             // 
             // myDataGrid1
@@ -1117,12 +1120,35 @@
             // 
             this.Pnl_Header.BackColor = System.Drawing.Color.Olive;
             this.Pnl_Header.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.Pnl_Header.Controls.Add(this.cbocategory);
+            this.Pnl_Header.Controls.Add(this.label36);
             this.Pnl_Header.Controls.Add(this.ChkCarryOn);
             this.Pnl_Header.Controls.Add(this.Lbl_itemcreation);
             this.Pnl_Header.Location = new System.Drawing.Point(-1, 0);
             this.Pnl_Header.Name = "Pnl_Header";
             this.Pnl_Header.Size = new System.Drawing.Size(1020, 41);
             this.Pnl_Header.TabIndex = 47;
+            // 
+            // cbocategory
+            // 
+            this.cbocategory.FormattingEnabled = true;
+            this.cbocategory.Location = new System.Drawing.Point(412, 7);
+            this.cbocategory.Name = "cbocategory";
+            this.cbocategory.Size = new System.Drawing.Size(362, 24);
+            this.cbocategory.TabIndex = 65;
+            this.cbocategory.TextChanged += new System.EventHandler(this.cbocategory_TextChanged);
+            // 
+            // label36
+            // 
+            this.label36.AutoSize = true;
+            this.label36.Font = new System.Drawing.Font("Verdana", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label36.ForeColor = System.Drawing.Color.White;
+            this.label36.Location = new System.Drawing.Point(312, 11);
+            this.label36.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label36.Name = "label36";
+            this.label36.Size = new System.Drawing.Size(68, 16);
+            this.label36.TabIndex = 64;
+            this.label36.Text = "Category";
             // 
             // ChkCarryOn
             // 
@@ -1387,6 +1413,20 @@
             this.myDataGridopstock.CellEndEdit += new System.Windows.Forms.DataGridViewCellEventHandler(this.myDataGridopstock_CellEndEdit);
             this.myDataGridopstock.CellValueChanged += new System.Windows.Forms.DataGridViewCellEventHandler(this.myDataGridopstock_CellValueChanged);
             // 
+            // SerialNoopstock
+            // 
+            this.SerialNoopstock.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill;
+            this.SerialNoopstock.HeaderText = "Serial No  / IMEI No";
+            this.SerialNoopstock.MaxInputLength = 13;
+            this.SerialNoopstock.Name = "SerialNoopstock";
+            this.SerialNoopstock.ToolTipText = "Serial Number";
+            // 
+            // serialitemcodeopstock
+            // 
+            this.serialitemcodeopstock.HeaderText = "Code";
+            this.serialitemcodeopstock.Name = "serialitemcodeopstock";
+            this.serialitemcodeopstock.Visible = false;
+            // 
             // btnOk
             // 
             this.btnOk.BackColor = System.Drawing.Color.White;
@@ -1413,19 +1453,13 @@
             this.label35.TabIndex = 58;
             this.label35.Text = "Enter Serial No";
             // 
-            // SerialNoopstock
+            // textBox1
             // 
-            this.SerialNoopstock.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill;
-            this.SerialNoopstock.HeaderText = "Serial No  / IMEI No";
-            this.SerialNoopstock.MaxInputLength = 13;
-            this.SerialNoopstock.Name = "SerialNoopstock";
-            this.SerialNoopstock.ToolTipText = "Serial Number";
-            // 
-            // serialitemcodeopstock
-            // 
-            this.serialitemcodeopstock.HeaderText = "Code";
-            this.serialitemcodeopstock.Name = "serialitemcodeopstock";
-            this.serialitemcodeopstock.Visible = false;
+            this.textBox1.Location = new System.Drawing.Point(963, 48);
+            this.textBox1.Name = "textBox1";
+            this.textBox1.Size = new System.Drawing.Size(27, 23);
+            this.textBox1.TabIndex = 62;
+            this.textBox1.Visible = false;
             // 
             // ItemCreations
             // 
@@ -1433,6 +1467,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.InactiveCaptionText;
             this.ClientSize = new System.Drawing.Size(1018, 592);
+            this.Controls.Add(this.textBox1);
             this.Controls.Add(this.pnl_SerialNo);
             this.Controls.Add(this.Pnl_Back);
             this.Controls.Add(this.panel5);
@@ -1623,5 +1658,8 @@
         private DataGridNameSpace.MyDataGrid myDataGridopstock;
         private System.Windows.Forms.DataGridViewTextBoxColumn SerialNoopstock;
         private System.Windows.Forms.DataGridViewTextBoxColumn serialitemcodeopstock;
+        private System.Windows.Forms.ComboBox cbocategory;
+        private System.Windows.Forms.Label label36;
+        private System.Windows.Forms.TextBox textBox1;
     }
 }
