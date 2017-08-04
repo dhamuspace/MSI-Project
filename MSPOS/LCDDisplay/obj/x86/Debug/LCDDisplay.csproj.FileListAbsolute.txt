@@ -598,3 +598,20 @@ E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\LCDDisplay\obj\x86\Debug\LCDDisplay.
 E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\LCDDisplay\obj\x86\Debug\LCDDisplay.csproj.GenerateResource.Cache
 E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\LCDDisplay\obj\x86\Debug\LCDDisplay.exe
 E:\UPDATED POS SOURCE FILE\03_08_2017\MSPOS\LCDDisplay\obj\x86\Debug\LCDDisplay.pdb
+C:\Users\Hp\Documents\GitHub\MSI-Project\MSPOS\LCDDisplay\bin\Debug\LCDDisplay.exe.config
+C:\Users\Hp\Documents\GitHub\MSI-Project\MSPOS\LCDDisplay\bin\Debug\LCDDisplay.exe
+C:\Users\Hp\Documents\GitHub\MSI-Project\MSPOS\LCDDisplay\bin\Debug\LCDDisplay.pdb
+C:\Users\Hp\Documents\GitHub\MSI-Project\MSPOS\LCDDisplay\obj\x86\Debug\LCDDisplay.csprojResolveAssemblyReference.cache
+C:\Users\Hp\Documents\GitHub\MSI-Project\MSPOS\LCDDisplay\obj\x86\Debug\Page1.baml
+C:\Users\Hp\Documents\GitHub\MSI-Project\MSPOS\LCDDisplay\obj\x86\Debug\LCDDisplayScreen.g.cs
+C:\Users\Hp\Documents\GitHub\MSI-Project\MSPOS\LCDDisplay\obj\x86\Debug\Page1.g.cs
+C:\Users\Hp\Documents\GitHub\MSI-Project\MSPOS\LCDDisplay\obj\x86\Debug\App.g.cs
+C:\Users\Hp\Documents\GitHub\MSI-Project\MSPOS\LCDDisplay\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Hp\Documents\GitHub\MSI-Project\MSPOS\LCDDisplay\obj\x86\Debug\LCDDisplay_MarkupCompile.cache
+C:\Users\Hp\Documents\GitHub\MSI-Project\MSPOS\LCDDisplay\obj\x86\Debug\LCDDisplay_MarkupCompile.lref
+C:\Users\Hp\Documents\GitHub\MSI-Project\MSPOS\LCDDisplay\obj\x86\Debug\LCDDisplayScreen.baml
+C:\Users\Hp\Documents\GitHub\MSI-Project\MSPOS\LCDDisplay\obj\x86\Debug\LCDDisplay.g.resources
+C:\Users\Hp\Documents\GitHub\MSI-Project\MSPOS\LCDDisplay\obj\x86\Debug\LCDDisplay.Properties.Resources.resources
+C:\Users\Hp\Documents\GitHub\MSI-Project\MSPOS\LCDDisplay\obj\x86\Debug\LCDDisplay.csproj.GenerateResource.Cache
+C:\Users\Hp\Documents\GitHub\MSI-Project\MSPOS\LCDDisplay\obj\x86\Debug\LCDDisplay.exe
+C:\Users\Hp\Documents\GitHub\MSI-Project\MSPOS\LCDDisplay\obj\x86\Debug\LCDDisplay.pdb

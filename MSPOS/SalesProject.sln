@@ -11,8 +11,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatabaseConfiguration", "Da
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LCDDisplay", "LCDDisplay\LCDDisplay.csproj", "{539C5306-786C-47FD-941B-E1EBDFB5F97E}"
 EndProject
-Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "MSPOS Software", "MSPOS Software\MSPOS Software.vdproj", "{5759895B-488F-499F-BF27-7E49529A0288}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -73,12 +71,6 @@ Global
 		{539C5306-786C-47FD-941B-E1EBDFB5F97E}.Release|Mixed Platforms.Build.0 = Release|x86
 		{539C5306-786C-47FD-941B-E1EBDFB5F97E}.Release|x86.ActiveCfg = Release|x86
 		{539C5306-786C-47FD-941B-E1EBDFB5F97E}.Release|x86.Build.0 = Release|x86
-		{5759895B-488F-499F-BF27-7E49529A0288}.Debug|Any CPU.ActiveCfg = Debug
-		{5759895B-488F-499F-BF27-7E49529A0288}.Debug|Mixed Platforms.ActiveCfg = Debug
-		{5759895B-488F-499F-BF27-7E49529A0288}.Debug|x86.ActiveCfg = Debug
-		{5759895B-488F-499F-BF27-7E49529A0288}.Release|Any CPU.ActiveCfg = Release
-		{5759895B-488F-499F-BF27-7E49529A0288}.Release|Mixed Platforms.ActiveCfg = Release
-		{5759895B-488F-499F-BF27-7E49529A0288}.Release|x86.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
