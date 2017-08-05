@@ -79,7 +79,7 @@ namespace MSPOSBACKOFFICE
         {
             try
             {
-                ItemCreations frm = new ItemCreations("");
+                Trade frm = new Trade("");
                 frm.MdiParent = this.ParentForm;
                 frm.StartPosition = FormStartPosition.Manual;
                 frm.WindowState = FormWindowState.Normal;
@@ -136,7 +136,7 @@ namespace MSPOSBACKOFFICE
                     {
                         code_numbers = dt.Rows[0]["item_no"].ToString();
                     }
-                    ItemCreations frm = new ItemCreations(code_numbers);
+                    Trade frm = new Trade(code_numbers);
                     frm.MdiParent = this.ParentForm;
                     frm.StartPosition = FormStartPosition.Manual;
                     frm.WindowState = FormWindowState.Normal;

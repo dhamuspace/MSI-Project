@@ -1223,7 +1223,7 @@ namespace SalesProject
             if (gridLedger.Rows[e.RowIndex].Cells["Particulars"].Value.ToString().Trim() == "Opening Stock")
             {
 
-                MSPOSBACKOFFICE.ItemCreations frm = new MSPOSBACKOFFICE.ItemCreations(id);
+                MSPOSBACKOFFICE.Trade  frm = new MSPOSBACKOFFICE.Trade(id);
                 frm.MdiParent = this.ParentForm;
                 // passingvalues.tot = total.ToString();
                 frm.StartPosition = FormStartPosition.Manual;

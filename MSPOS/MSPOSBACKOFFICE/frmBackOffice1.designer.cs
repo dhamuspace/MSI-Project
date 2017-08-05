@@ -82,6 +82,8 @@
             this.linkPurchaseDisplay = new System.Windows.Forms.LinkLabel();
             this.pnlEntryDisplay = new System.Windows.Forms.Panel();
             this.tabPanel3 = new MSPOSBACKOFFICE.TabPanel();
+            this.pictureBox37 = new System.Windows.Forms.PictureBox();
+            this.linkLabel2 = new System.Windows.Forms.LinkLabel();
             this.pictureBox18 = new System.Windows.Forms.PictureBox();
             this.pictureBox17 = new System.Windows.Forms.PictureBox();
             this.linkStockEntry = new System.Windows.Forms.LinkLabel();
@@ -185,8 +187,6 @@
             this.rBtnBOMAlteration = new MSPOSBACKOFFICE.RibbonButton();
             this.rBtnCreditCard = new MSPOSBACKOFFICE.RibbonButton();
             this.rBtnBarcodePrint = new MSPOSBACKOFFICE.RibbonButton();
-            this.pictureBox37 = new System.Windows.Forms.PictureBox();
-            this.linkLabel2 = new System.Windows.Forms.LinkLabel();
             this.tabStrip1.SuspendLayout();
             this.tabStripPageMaster.SuspendLayout();
             this.tabPanel1.SuspendLayout();
@@ -218,6 +218,7 @@
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox21)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox20)).BeginInit();
             this.tabPanel3.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox37)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox18)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox17)).BeginInit();
             this.tabStripPageUtil.SuspendLayout();
@@ -255,7 +256,6 @@
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox35)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox36)).BeginInit();
             this.tabPageSwitcher1.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox37)).BeginInit();
             this.SuspendLayout();
             // 
             // tabStrip1
@@ -1057,6 +1057,32 @@
             this.tabPanel3.Size = new System.Drawing.Size(265, 83);
             this.tabPanel3.Speed = 1;
             this.tabPanel3.TabIndex = 2;
+            // 
+            // pictureBox37
+            // 
+            this.pictureBox37.BackColor = System.Drawing.Color.Transparent;
+            this.pictureBox37.Image = global::MSPOSBACKOFFICE.Properties.Resources.Entry_stock;
+            this.pictureBox37.Location = new System.Drawing.Point(159, 11);
+            this.pictureBox37.Name = "pictureBox37";
+            this.pictureBox37.Size = new System.Drawing.Size(32, 31);
+            this.pictureBox37.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox37.TabIndex = 37;
+            this.pictureBox37.TabStop = false;
+            this.pictureBox37.Click += new System.EventHandler(this.pictureBox37_Click);
+            // 
+            // linkLabel2
+            // 
+            this.linkLabel2.AutoSize = true;
+            this.linkLabel2.BackColor = System.Drawing.Color.Transparent;
+            this.linkLabel2.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.linkLabel2.LinkBehavior = System.Windows.Forms.LinkBehavior.NeverUnderline;
+            this.linkLabel2.LinkColor = System.Drawing.Color.White;
+            this.linkLabel2.Location = new System.Drawing.Point(153, 46);
+            this.linkLabel2.Name = "linkLabel2";
+            this.linkLabel2.Size = new System.Drawing.Size(80, 13);
+            this.linkLabel2.TabIndex = 36;
+            this.linkLabel2.TabStop = true;
+            this.linkLabel2.Text = "Branch Entry";
             // 
             // pictureBox18
             // 
@@ -2040,13 +2066,13 @@
             // tabPageSwitcher1
             // 
             this.tabPageSwitcher1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.tabPageSwitcher1.Controls.Add(this.tabStripPageMaster);
             this.tabPageSwitcher1.Controls.Add(this.tabStripPageEntry);
             this.tabPageSwitcher1.Controls.Add(this.tabStripPageUtil);
-            this.tabPageSwitcher1.Controls.Add(this.tabStripPageMaster);
             this.tabPageSwitcher1.Controls.Add(this.tabStripPage1);
             this.tabPageSwitcher1.Location = new System.Drawing.Point(0, 26);
             this.tabPageSwitcher1.Name = "tabPageSwitcher1";
-            this.tabPageSwitcher1.SelectedTabStripPage = this.tabStripPageEntry;
+            this.tabPageSwitcher1.SelectedTabStripPage = this.tabStripPageMaster;
             this.tabPageSwitcher1.Size = new System.Drawing.Size(1264, 80);
             this.tabPageSwitcher1.TabIndex = 1;
             this.tabPageSwitcher1.TabStrip = this.tabStrip1;
@@ -3132,32 +3158,6 @@
             this.rBtnBarcodePrint.Visible = false;
             this.rBtnBarcodePrint.Click += new System.EventHandler(this.rBtnBarcodePrint_Click);
             // 
-            // pictureBox37
-            // 
-            this.pictureBox37.BackColor = System.Drawing.Color.Transparent;
-            this.pictureBox37.Image = global::MSPOSBACKOFFICE.Properties.Resources.Entry_stock;
-            this.pictureBox37.Location = new System.Drawing.Point(159, 11);
-            this.pictureBox37.Name = "pictureBox37";
-            this.pictureBox37.Size = new System.Drawing.Size(32, 31);
-            this.pictureBox37.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox37.TabIndex = 37;
-            this.pictureBox37.TabStop = false;
-            this.pictureBox37.Click += new System.EventHandler(this.pictureBox37_Click);
-            // 
-            // linkLabel2
-            // 
-            this.linkLabel2.AutoSize = true;
-            this.linkLabel2.BackColor = System.Drawing.Color.Transparent;
-            this.linkLabel2.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.linkLabel2.LinkBehavior = System.Windows.Forms.LinkBehavior.NeverUnderline;
-            this.linkLabel2.LinkColor = System.Drawing.Color.White;
-            this.linkLabel2.Location = new System.Drawing.Point(153, 46);
-            this.linkLabel2.Name = "linkLabel2";
-            this.linkLabel2.Size = new System.Drawing.Size(80, 13);
-            this.linkLabel2.TabIndex = 36;
-            this.linkLabel2.TabStop = true;
-            this.linkLabel2.Text = "Branch Entry";
-            // 
             // frmBackOffice1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -3253,6 +3253,7 @@
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox20)).EndInit();
             this.tabPanel3.ResumeLayout(false);
             this.tabPanel3.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox37)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox18)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox17)).EndInit();
             this.tabStripPageUtil.ResumeLayout(false);
@@ -3301,7 +3302,6 @@
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox35)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox36)).EndInit();
             this.tabPageSwitcher1.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox37)).EndInit();
             this.ResumeLayout(false);
 
         }

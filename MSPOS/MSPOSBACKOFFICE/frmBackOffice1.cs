@@ -24,7 +24,7 @@ namespace MSPOSBACKOFFICE
             Form currentForm = null;//declaring a variable to hold form.
             foreach (Form frm in this.MdiChildren)//loop in all child forms in mdi
             {
-                if (frm is ItemCreations)//if any of the forms type is frmSub
+                if (frm is Trade)//if any of the forms type is frmSub
                 {
                     currentForm = frm;//set that form to currentForm variable
                     break;
@@ -32,7 +32,7 @@ namespace MSPOSBACKOFFICE
             }
             if (currentForm == null)//if form not found
             {
-                ItemCreations frm = new ItemCreations("");
+                Trade frm = new Trade("");
                 frm.MdiParent = this;
                 frm.StartPosition = FormStartPosition.Manual;
                 frm.WindowState = FormWindowState.Normal;

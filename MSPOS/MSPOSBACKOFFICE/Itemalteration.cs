@@ -95,7 +95,7 @@ namespace MSPOSBACKOFFICE
                     if (dt_code.Rows.Count > 0)
                     {
                         string id_number = dt_code.Rows[0]["item_no"].ToString();
-                        ItemCreations frm = new ItemCreations(id_number);
+                        Trade  frm = new Trade(id_number);
                         frm.MdiParent = this.ParentForm;
                         frm.StartPosition = FormStartPosition.Manual;
                         frm.WindowState = FormWindowState.Normal;
@@ -118,7 +118,7 @@ namespace MSPOSBACKOFFICE
                         if (dtbarcode.Rows.Count > 0)
                         {
                             string id_number = dtbarcode.Rows[0]["item_no"].ToString();
-                            ItemCreations frm = new ItemCreations(id_number);
+                            Trade  frm = new Trade(id_number);
                             frm.MdiParent = this.ParentForm;
                             frm.StartPosition = FormStartPosition.Manual;
                             frm.WindowState = FormWindowState.Normal;
@@ -285,7 +285,7 @@ namespace MSPOSBACKOFFICE
                     }
                     if (id_number != "" && id_number != null)
                     {
-                        ItemCreations frm = new ItemCreations(id_number);
+                        Trade  frm = new Trade(id_number);
                         frm.MdiParent = this.ParentForm;
                         frm.StartPosition = FormStartPosition.Manual;
                         frm.WindowState = FormWindowState.Normal;

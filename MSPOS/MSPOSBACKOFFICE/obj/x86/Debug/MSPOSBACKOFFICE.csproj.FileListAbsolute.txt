@@ -3363,7 +3363,6 @@ C:\Users\Hp\Documents\GitHub\MSI-Project\MSPOS\MSPOSBACKOFFICE\obj\x86\Debug\MSP
 C:\Users\Hp\Documents\GitHub\MSI-Project\MSPOS\MSPOSBACKOFFICE\obj\x86\Debug\MSPOSBACKOFFICE.frmWeightScale.resources
 C:\Users\Hp\Documents\GitHub\MSI-Project\MSPOS\MSPOSBACKOFFICE\obj\x86\Debug\MSPOSBACKOFFICE.InfoForm.resources
 C:\Users\Hp\Documents\GitHub\MSI-Project\MSPOS\MSPOSBACKOFFICE\obj\x86\Debug\MSPOSBACKOFFICE.Itemalteration.resources
-C:\Users\Hp\Documents\GitHub\MSI-Project\MSPOS\MSPOSBACKOFFICE\obj\x86\Debug\MSPOSBACKOFFICE.ItemCreations.resources
 C:\Users\Hp\Documents\GitHub\MSI-Project\MSPOS\MSPOSBACKOFFICE\obj\x86\Debug\MSPOSBACKOFFICE.ItemFilter.resources
 C:\Users\Hp\Documents\GitHub\MSI-Project\MSPOS\MSPOSBACKOFFICE\obj\x86\Debug\MSPOSBACKOFFICE.ItemImport.resources
 C:\Users\Hp\Documents\GitHub\MSI-Project\MSPOS\MSPOSBACKOFFICE\obj\x86\Debug\MSPOSBACKOFFICE.ItemLedger.resources
@@ -3400,3 +3399,4 @@ C:\Users\Hp\Documents\GitHub\MSI-Project\MSPOS\MSPOSBACKOFFICE\obj\x86\Debug\Rdl
 C:\Users\Hp\Documents\GitHub\MSI-Project\MSPOS\MSPOSBACKOFFICE\obj\x86\Debug\RdlCompile.compiled
 C:\Users\Hp\Documents\GitHub\MSI-Project\MSPOS\MSPOSBACKOFFICE\obj\x86\Debug\MSPOSBACKOFFICE.exe
 C:\Users\Hp\Documents\GitHub\MSI-Project\MSPOS\MSPOSBACKOFFICE\obj\x86\Debug\MSPOSBACKOFFICE.pdb
+C:\Users\Hp\Documents\GitHub\MSI-Project\MSPOS\MSPOSBACKOFFICE\obj\x86\Debug\MSPOSBACKOFFICE.Trade.resources

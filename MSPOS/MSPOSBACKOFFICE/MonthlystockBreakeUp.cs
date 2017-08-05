@@ -1710,7 +1710,7 @@ namespace MSPOSBACKOFFICE
             }
             if (currentForm == null)//if form not found
             {
-                ItemCreations frm1 = new ItemCreations(itemnumberbassing);
+                Trade frm1 = new Trade(itemnumberbassing);
                 frm1.MdiParent = this.ParentForm;
                 frm1.StartPosition = FormStartPosition.Manual;
                 frm1.WindowState = FormWindowState.Normal;

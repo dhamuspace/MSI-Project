@@ -25,7 +25,7 @@ namespace SalesProject
             Form currentForm = null;//declaring a variable to hold form.
             foreach (Form frm in this.MdiChildren)//loop in all child forms in mdi
             {
-                if (frm is MSPOSBACKOFFICE.ItemCreations)//if any of the forms type is frmSub
+                if (frm is MSPOSBACKOFFICE.Trade)//if any of the forms type is frmSub
                 {
                     currentForm = frm;//set that form to currentForm variable
                     break;
@@ -33,7 +33,7 @@ namespace SalesProject
             }
             if (currentForm == null)//if form not found
             {
-                MSPOSBACKOFFICE.ItemCreations frm = new MSPOSBACKOFFICE.ItemCreations("");
+                MSPOSBACKOFFICE.Trade  frm = new MSPOSBACKOFFICE.Trade("");
                 frm.MdiParent = this;
                 frm.StartPosition = FormStartPosition.Manual;
                 frm.WindowState = FormWindowState.Normal;

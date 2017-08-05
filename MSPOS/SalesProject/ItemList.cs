@@ -77,7 +77,7 @@ namespace SalesProject
         {
             try
             {
-                MSPOSBACKOFFICE.ItemCreations frm = new MSPOSBACKOFFICE.ItemCreations("");
+                MSPOSBACKOFFICE.Trade  frm = new MSPOSBACKOFFICE.Trade("");
                 frm.MdiParent = this.ParentForm;
                 frm.StartPosition = FormStartPosition.Manual;
                 frm.WindowState = FormWindowState.Normal;
@@ -134,7 +134,7 @@ namespace SalesProject
                     {
                         code_numbers = dt.Rows[0]["item_no"].ToString();
                     }
-                    MSPOSBACKOFFICE.ItemCreations frm = new MSPOSBACKOFFICE.ItemCreations(code_numbers);
+                    MSPOSBACKOFFICE.Trade  frm = new MSPOSBACKOFFICE.Trade(code_numbers);
                     frm.MdiParent = this.ParentForm;
                     frm.StartPosition = FormStartPosition.Manual;
                     frm.WindowState = FormWindowState.Normal;
