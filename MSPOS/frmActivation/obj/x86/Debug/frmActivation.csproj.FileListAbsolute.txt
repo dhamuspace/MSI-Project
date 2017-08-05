@@ -126,3 +126,8 @@ C:\Users\Hp\Desktop\POS SERIAL JULY 31 MERGED SOURCE\frmActivation\bin\Debug\frm
 C:\Users\Hp\Desktop\POS SERIAL JULY 31 MERGED SOURCE\frmActivation\bin\Debug\frmActivation.pdb
 C:\Users\Hp\Desktop\POS SERIAL JULY 31 MERGED SOURCE\frmActivation\obj\x86\Debug\frmActivation.exe
 C:\Users\Hp\Desktop\POS SERIAL JULY 31 MERGED SOURCE\frmActivation\obj\x86\Debug\frmActivation.pdb
+C:\Users\Hp\Documents\GitHub\MSI-Project\MSPOS\frmActivation\bin\Debug\frmActivation.exe.config
+C:\Users\Hp\Documents\GitHub\MSI-Project\MSPOS\frmActivation\bin\Debug\frmActivation.exe
+C:\Users\Hp\Documents\GitHub\MSI-Project\MSPOS\frmActivation\bin\Debug\frmActivation.pdb
+C:\Users\Hp\Documents\GitHub\MSI-Project\MSPOS\frmActivation\obj\x86\Debug\frmActivation.exe
+C:\Users\Hp\Documents\GitHub\MSI-Project\MSPOS\frmActivation\obj\x86\Debug\frmActivation.pdb
